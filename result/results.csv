@@ -1,616 +1,622 @@
 Question,GPT-4o_Answer,Actual_Answer,Score
 "Parí òwe yìí
- ""gbàmí gbàmí kò yé àgbà ..........""",òríkì.,Ẹranko ń lé mi bọ̀ ò yẹ ọdẹ,0
+ ""gbàmí gbàmí kò yé àgbà ..........""","""....... gbàmí ni èwe""",Ẹranko ń lé mi bọ̀ ò yẹ ọdẹ,0
 "Parí òwe Yorùbá yìí
- ""A kì í n pa odù òyà lójú ọ̀tá ẹni ....""","""a kíí sọ wọ́n lọ́rẹ.""",Ọmọ ẹlẹ́bọ́rọ́ lásán lapa,0
-"Kíni ìyàtọ̀ láàrin ""ìwọ̀ àti iwọ""?","Ìyàtọ̀ kò sí. Wọ́n jẹ́ meaning kan náà, ó jẹ́ bí a ṣe ń sọ tàbí kọ ọ.","ìwọ̀ - Nkan ti won fi n pa eja
+ ""A kì í n pa odù òyà lójú ọ̀tá ẹni ....""",kí á má bàa ṣe kófẹ́ sọ́dọ̀.,Ọmọ ẹlẹ́bọ́rọ́ lásán lapa,0
+"Kíni ìyàtọ̀ láàrin ""ìwọ̀ àti iwọ""?","""Ìwọ̀"" jẹ́ ohun tó ń kó ìgbàgbọ́ pọ̀, ""ìwọ"" sì jẹ́ pronoun tó ń ṣàpẹẹrẹ ẹni kán náà.","ìwọ̀ - Nkan ti won fi n pa eja
  iwọ - Majele",0
-"Irúfé ìyàwó wo ni Yorùbá máa pè ní ""ìyàwó gbàmí oràmí""?",Ìyàwó náà tí a kì í ṣe ẹni tí a fẹ́ ṣùgbọ́n a kàn fẹ́ fún ìdí kan tàbí ìṣàkóso.,Ìyàwó tí a fẹ́ fún èrè ìwòsàn tàbí tí a fẹ́ láti ṣe àànú fun,0
-"Ìlú wo ní ilẹ̀ Yorùbá ni wọ́n ti ń ṣe ọdún ""ìgogo""?",Ìlú Ìkàlé.,Ọ̀wọ̀ ní Ìpìnlẹ̀́ Oǹdó,0
+"Irúfé ìyàwó wo ni Yorùbá máa pè ní ""ìyàwó gbàmí oràmí""?","Ìyàwó ti àwọn òbí tàbí àwùjọ ti yan fún obìnrin láìsí ìfẹ̀ ara ẹni rẹ̀ ni a máa ń pè ní ""ìyàwó gbàmí oràmí.""",Ìyàwó tí a fẹ́ fún èrè ìwòsàn tàbí tí a fẹ́ láti ṣe àànú fun,0
+"Ìlú wo ní ilẹ̀ Yorùbá ni wọ́n ti ń ṣe ọdún ""ìgogo""?",Epe.,Ọ̀wọ̀ ní Ìpìnlẹ̀́ Oǹdó,0
 "Kíni ọ̀rọ̀ Yorùbá fún ""lake""?",Adágún.,Adágún omi,0
 "Ìgbó Òrà jẹ́ ìlú tí wọ́n ti ń bí ìbejì jùlọ ní gbogbo àgbáyé
- ""Kíni àkọlé orúkọ ọba ìlú Ìgbó Òrà?""",Ọba Dada.,Olú,0
-"Kíni ọ̀rọ̀ Yorùbá fún ""Flag""?",Àsìá.,Àṣíá,0
-"Irú Àwọn wo ni a máa n pè tàbí sọ ní ""málà olú""?","""Málà olú"" lóhun tí a máa n pè irú àwọn tí wọn bá ń ṣe ààrà tàbí dá ààbò bo ẹni kan fún àwùjọ wọn.",Àwọn Ọlọ́bàtálá,0
-"Tí Yorùbá bá sọ pé a kìí rí ewú ní ọ̀sán, kíni ewú?",Ewú ni ewu tabi iṣoro tí ó le ṣẹlẹ́.,Òkété,0
+ ""Kíni àkọlé orúkọ ọba ìlú Ìgbó Òrà?""",Oba Ologunebi Ajayi.,Olú,0
+"Kíni ọ̀rọ̀ Yorùbá fún ""Flag""?",Àsàbá.,Àṣíá,0
+"Irú Àwọn wo ni a máa n pè tàbí sọ ní ""málà olú""?","""Iwọ̀n olú.""",Àwọn Ọlọ́bàtálá,0
+"Tí Yorùbá bá sọ pé a kìí rí ewú ní ọ̀sán, kíni ewú?",Ewú jẹ́ ohun ìyàlẹ́nu tàbí ìṣòro tó lè ṣẹlẹ̀.,Òkété,0
 "Parí òwe Yorùbá yìí
- Ọ̀lẹ̀ má mọ́wọ́ mi wọ̀gbẹ́",Ọ̀lẹ̀ má mọ́wọ́ mi wọ̀gbẹ́: àìbá di hìá nsí.,Òhun ló sọ ará oko di ewúrẹ́,0
+ Ọ̀lẹ̀ má mọ́wọ́ mi wọ̀gbẹ́","Ọ̀lẹ̀ má mọ́wọ́ mi wọ̀gbẹ́, òun nìkan ló mọ́wọ́ oúnjẹ.",Òhun ló sọ ará oko di ewúrẹ́,0
 "Parí òwe Yorùbá yìí
- ""Bí oko bá dùn n ro ní .....""","""....yóò da omi léhìn.""",Alágbèdẹ ò ní roko tà,0
-"Kíni Yorùbá n pè ní ""èkùró""?","""Eèrú"" ni Yorùbá n pè ní ""èkùró"".",Kòkòrò ẹ̀wà,0
-"Màá fún ẹ ní ẹ̀gbàá kì í jẹ́ kí ẹ̀gbàá níyì, ẹ̀gbèrún, mélòó lọ wà ní ""ẹgbàfà""?",Ẹgbẹ̀fa wà ní ẹ̀gbàfà (6000).,Mẹ́fà,0
-"Kíni ìtumọ̀ òwe Yorùbá yìí ""ààlà ni yóò fi oko òlẹ hàn""?","Òwe yìí túmọ̀ sí pé ìgbà tí èèyàn bá ní ààyè tàbí ìgbà tó tó, a máa rí ìwà tàbí akíkanjú rẹ̀ gbòòrò, bí afúnni kùú pò.","Ààlà ló máa fi hàn pẹ́, ọ̀le ló ń ṣe iṣẹ́ oko yí",0
-"Tí Yorùbá bá sọ pé ènìyàn n ""run ìlèpa,"" kínì ìtumọ̀ àkànlò-èdè yìí?",Ìtumọ̀ rè ni pé ènìyàn ń ṣe ìdárayá tàbí ìgbìyànjú púpọ̀ láti ṣàṣeyọrí nínu ohun tí ó ń ṣe.,Iyẹ̀pẹ̀ tó kẹ́hìn iyẹ̀pẹ̀,0
-Irú ìyàwó wo ni Yorùbá ń pè ní ìyàwó àbètẹ́lẹ̀?,Ìyàwó àbètẹ́lẹ̀ ni obìnrin tí a bá ṣe àṣàrò lati ṣe iyawo ní ọ̀mínyìn kan ní kíákíá bí kò ṣe ni àṣejù.,Ìyàwó tí a tọrọ láti kékeré,0
+ ""Bí oko bá dùn n ro ní .....""","""...Ọ́rúkọ.""",Alágbèdẹ ò ní roko tà,0
+"Kíni Yorùbá n pè ní ""èkùró""?","Yorùbá n pè ""nut"" ní ""èkùró"".",Kòkòrò ẹ̀wà,0
+"Màá fún ẹ ní ẹ̀gbàá kì í jẹ́ kí ẹ̀gbàá níyì, ẹ̀gbèrún, mélòó lọ wà ní ""ẹgbàfà""?","Ẹgbẹ̀rún méjì àti igba mẹfa, eyí ni ẹ̀gbàfà.",Mẹ́fà,0
+"Kíni ìtumọ̀ òwe Yorùbá yìí ""ààlà ni yóò fi oko òlẹ hàn""?",Ìtumọ̀ òwe yìí ni pé àwọn ìṣòro tàbí ìpèníjà ni yóò fi hàn ẹni tó bá jẹ́ aláìṣìṣe tàbí ẹni tó kì í ṣe iṣẹ́.,"Ààlà ló máa fi hàn pẹ́, ọ̀le ló ń ṣe iṣẹ́ oko yí",0
+"Tí Yorùbá bá sọ pé ènìyàn n ""run ìlèpa,"" kínì ìtumọ̀ àkànlò-èdè yìí?","Tí Yorùbá bá sọ pé ènìyàn n ""run ìlèpa,"" ó túmò sí pé ènìyàn ń ṣe ohun tí ó ti pinnu láti ṣe tàbí ń ṣe àwọn àkósílẹ̀ rẹ̀.",Iyẹ̀pẹ̀ tó kẹ́hìn iyẹ̀pẹ̀,0
+Irú ìyàwó wo ni Yorùbá ń pè ní ìyàwó àbètẹ́lẹ̀?,Ìyàwó àbètẹ́lẹ̀ ni ìyàwó tí a bá ní ìfihàn títí di ọjọ́ ìgbéyàwó.,Ìyàwó tí a tọrọ láti kékeré,0
 "Ewe kan wà tí àwọn ara ilẹ̀ ìlà oòrùn ń pè ní ""ugwu,"" kínì orúkọ tí Yorùbá ń pè é?",Ewedu.,Ewé Ìròko,0
 "Parí òwe Yorùbá yìí
- ""Gbogbo àkàsù kọ́ ló ń fojú kan ẹ̀fọ́ .....""",...kò lè mọ ọjọ́ tí omi ń yòò.,"Gbogbo ọmọ olóyè kọ́ ló ń joyè, gbgobo ọmọ ọba kọ́ ló ń dádé",0
-"Ìgbà làákòkò, igi làákòkò yàtọ̀ sí ìlú. Kíni Yorùbá n pè ní àkòkò?","Yorùbá n pè àkòkò ni ""èèyàn.""",Ẹyẹ,0
+ ""Gbogbo àkàsù kọ́ ló ń fojú kan ẹ̀fọ́ .....""","""Títí kan lójú.""","Gbogbo ọmọ olóyè kọ́ ló ń joyè, gbgobo ọmọ ọba kọ́ ló ń dádé",0
+"Ìgbà làákòkò, igi làákòkò yàtọ̀ sí ìlú. Kíni Yorùbá n pè ní àkòkò?",Àkókò tàbí ìgbà.,Ẹyẹ,0
 "Kíni Yorùbá ń pè ní ""òkùdù""?
- ""Wọ́n ní òkùdù tó pa ẹṣin lè pa ènìyàn.""","Yorùbá ń pè ""òkùdù"" ní ""poison"" ní ìgbàráyè.",Kòtò tí a ti patì,0
-"Kíni ọ̀rọ̀ Yorùbá fún ""accused"" àti ""suspect""?","Ọ̀rọ̀ Yorùbá fún ""accused"" ni ""ẹlẹ́ṣẹ̀"" àti fún ""suspect"" ni ""afurasi.""","Accused - Afẹ̀sùnkàn
+ ""Wọ́n ní òkùdù tó pa ẹṣin lè pa ènìyàn.""","""Òkùdù"" ni Yorùbá ń pè ní ""cough"" tàbí ""tuberculosis"".",Kòtò tí a ti patì,0
+"Kíni ọ̀rọ̀ Yorùbá fún ""accused"" àti ""suspect""?","Ọ̀rọ̀ Yorùbá fún ""accused"" ni ""ẹlẹ́ṣẹ̀jẹ́"" àti fún ""suspect"" ni ""afura.""","Accused - Afẹ̀sùnkàn
  Suspect – Afurasí",0
-"Kíni ""court of appeal"" ní Yorùbá?",Ilé ẹjọ ẹbẹ.,Ilé-ẹjọ́ kòtémilọ́rùn,0
-"Tí ""reason"" bá jẹ́ ìdí ní èdè Yorùbá, kíni ""purpose""?",Ète.,Èrèdí,0
-"Kíni Yorùbá ń pè ní ""calendar""?",Ìwé Kikọ̀ ọdún.,Kọ́jọ́dá,0
-"Ibo ni àwọn Yorùbá máa ń pè ní ""ìlofi""?","""Ilofi"" jẹ́ ibi ti àwọn Yorùbá máa ń pè ní ibi ìjọkó àwọn ọba.",Ibi tí ọba máa ń wà kí wọ́n tó lọ sí ìpèbí,0
+"Kíni ""court of appeal"" ní Yorùbá?",Ìgbìmọ̀ ìdájọ́ ẹjọ́.,Ilé-ẹjọ́ kòtémilọ́rùn,0
+"Tí ""reason"" bá jẹ́ ìdí ní èdè Yorùbá, kíni ""purpose""?","""Eto"" ni.",Èrèdí,0
+"Kíni Yorùbá ń pè ní ""calendar""?","Wọn ń pè é ní ""kàlẹ́ńdà.",Kọ́jọ́dá,0
+"Ibo ni àwọn Yorùbá máa ń pè ní ""ìlofi""?","Àwọn Yorùbá máa ń pè ""ìlofi"" ní ilé tààràtà.",Ibi tí ọba máa ń wà kí wọ́n tó lọ sí ìpèbí,0
 "Àlọ́ oooo
- Óún sàìjó, ó ń fúnú ta, óún fẹ̀yìn ta, óún fọwọ́ ta. Kíni oooo?",Ojò.,Aláǹtakùn,0
-"Kíni Yorùbá n pè ní ""ìrèmòjé""?",Ìrèmòjé ni àpéjáde àìsàn gbogbo.,Orin tí a máa fi ń dárò ọdẹ,0
+ Óún sàìjó, ó ń fúnú ta, óún fẹ̀yìn ta, óún fọwọ́ ta. Kíni oooo?",Kẹ̀kẹ́.,Aláǹtakùn,0
+"Kíni Yorùbá n pè ní ""ìrèmòjé""?",Ìrèmòjé ní èdè Yorùbá ni í ṣe aláyẹ ìgbésẹ tó jẹ́ ìnọ̀ tútù fún ẹni tó gbémi mìí lọ. Ó tún jẹ́ irú ayẹyẹ tí wọn ṣe fún aláìsàn tí ó kú.,Orin tí a máa fi ń dárò ọdẹ,0
 "Parí òwe Yorùbá yìí:
- ""Bí ọwọ́ eku bá ṣe mọ́ ..........""","""bí ọwọ́ eku bá ṣe mọ́ orí ilé, ni orí ara ẹni.""",...ló ṣẹ fi ń họra,0
-Kíni ìyàtọ̀ láàrin àáró àti àgàdàgídì?,"Àáró jẹ ohun tí ó bèèrè tàbí kìka aríran síláàfi, nígbàtí àgàdàgídì jẹ ìtàn àròjinlẹ̀ tàbí àfojúsùn.","Àáró - Ìfọ́wọ́sowọ́pọ̀
+ ""Bí ọwọ́ eku bá ṣe mọ́ ..........""","""Bí ọwọ́ eku bá ṣe mọ́, ọwọ́ èèyàn náà áa mọ́.""",...ló ṣẹ fi ń họra,0
+Kíni ìyàtọ̀ láàrin àáró àti àgàdàgídì?,"Àáró ni ìrora tàbí ìbànújẹ́ inú, àgàdàgídì sì ni ìrìn àjò tàbí ilé tó sún mọ́lẹ̀ nígbà tí ojú òpó ṣubu.","Àáró - Ìfọ́wọ́sowọ́pọ̀
  Àgàdàgídì - Ọtí tí a fi ọ̀gẹ̀dẹ̀ àgbagbà ṣe",0
-"Kíni Yorùbá ń pè ní ""ọ̀wẹ̀""?",Aso ìmúràn.,Òkèlè,0
+"Kíni Yorùbá ń pè ní ""ọ̀wẹ̀""?","Yorùbá ń pè ""ọ̀wẹ̀"" ní àjàgùnfà ní ìbéèrè ọjọ.",Òkèlè,0
 "Parí òwe yìí
- ""Òní òkété lẹ́yìn àrọ̀, ọ̀la òkété lẹ́yìn àrọ̀ .....""","""A à fi wèrè kéré.""","...bí ojú ò bá ti àrò, ó yẹ kí ojú ó ti òkété",0
-Fi idi pa igba,Igba ni oúnjẹ kan tí a n ná láti oúnjẹ koírín náà tí ó ti yẹ lórísirísi.,"Ẹni tó jókòó síbẹ̀, tí ó kọ̀ látì lọ",0
-"Kíni Yorùbá n pè ní ""Adam Apple""?","Yorùbá n pè ní ""ìlàrárò.""",Gògóńgò,0
+ ""Òní òkété lẹ́yìn àrọ̀, ọ̀la òkété lẹ́yìn àrọ̀ .....""","""Ẹyẹ kàbì sí.""","...bí ojú ò bá ti àrò, ó yẹ kí ojú ó ti òkété",0
+Fi idi pa igba,Igba jẹ asiko tabi akoko kan ninu ọdun.,"Ẹni tó jókòó síbẹ̀, tí ó kọ̀ látì lọ",0
+"Kíni Yorùbá n pè ní ""Adam Apple""?","Yorùbá n pe e ni ""Ìtè.""",Gògóńgò,0
 "Kíni ""Baobab tree"" ní Yorùbá?",Ìrókò.,Igi oṣè,0
-"""Ají má pa òùngbẹ́ bí ewé kíni????""",Ewé ewé.,Erinrin,0
-"Kíni ""Shin Guard"" ní Yorùbá?",Àṣọ́ ààbò kékeré fún ẹsẹ.,Ojúgun,0
+"""Ají má pa òùngbẹ́ bí ewé kíni????""",Ají má pa òùngbẹ́ bí ewé kíni? Ewé gàárí.,Erinrin,0
+"Kíni ""Shin Guard"" ní Yorùbá?",Aṣọ ìdáabòbò orúkọ.,Ojúgun,0
 "Àlọ́ oooo
- A fèrìn gba òré wọlé, a fi túlásí tíí bọ̀ síta. Kíni oooo?",Ọ̀jà (Market).,Oúnjẹ òun ìgbọ̀nsẹ̀,0
-"Àwọn Yorùbá bọ̀ wón ní ebi ní ń pa mọnámọná kú, kíni mọnámọná? Àti pé kíni ìdí tí a fi máa ń sọ wípé ẹ̀bì á pa kú?","Mọnámọná túmọ̀ sí iyo, kí wọ́n sọ pé ẹ̀bì ní ń pa mọnámọná kú nìyẹn. A máa ń sọ̀rọ̀ yìí láti fìdí rẹ̀ múlẹ̀ pé kò sí ẹ̀dá kankan tí kò ní fojú tí ẹ̀bì máa gbé.",Ejò,0
-"Kíni ọ̀rọ̀ Yorùbá yìí túmọ̀ sí ""Kọ̀wọ́ bọ ẹérú""?","Ó túmọ̀ sí ""Fẹ́sẹ̀̀ jẹ ẹrù.""",Olè(Thief),0
-"Kíni ọ̀rọ̀ Yorùbá yìí túmọ̀ sí ""ìlérò"" tàbí ""wọlé ìlérò""?","""Ìlérò"" túmọ̀ sí ""consideration"" tàbí ""reflection"" nínú èdè Gẹ̀ẹ́sì. ""Wọlé ìlérò"" tún kan ìfìwéra tàbí àkíyèsí àwọn nnkan.",Ibi tí ọba máa ń wà kí wón tó lọ sí ìpèbí,0
+ A fèrìn gba òré wọlé, a fi túlásí tíí bọ̀ síta. Kíni oooo?",Àdìre.,Oúnjẹ òun ìgbọ̀nsẹ̀,0
+"Àwọn Yorùbá bọ̀ wón ní ebi ní ń pa mọnámọná kú, kíni mọnámọná? Àti pé kíni ìdí tí a fi máa ń sọ wípé ẹ̀bì á pa kú?","Mọnámọná túmọ̀ sí bátarí. Àwọn Yorùbá máa ń sọ pé ""èbi ń pa mọnámọná kú"" nítorí tí bátarí bá kéré tàbí kú, kò lè ṣiṣẹ́ dáadáa. Kíákíá lo ní í máa ku bí èbi bá pa á.",Ejò,0
+"Kíni ọ̀rọ̀ Yorùbá yìí túmọ̀ sí ""Kọ̀wọ́ bọ ẹérú""?","""Tẹwọ gba ohunkóhun.""",Olè(Thief),0
+"Kíni ọ̀rọ̀ Yorùbá yìí túmọ̀ sí ""ìlérò"" tàbí ""wọlé ìlérò""?","""Ìlérò"" tumọ̀ sí ìrònú tàbí àlọ́yé. ""Wọlé ìlérò"" jẹ́ kíńilẹ̀kọ̀ àròyé tàbí ìmọ̀léra láti inú àwọn èrò tàbí ìrònú.",Ibi tí ọba máa ń wà kí wón tó lọ sí ìpèbí,0
 "Parí òwe Yorùbá yìí
- ""Òlè tó jí kákàkí ọba..........""",""".....ẹsẹ̀ ikú ni o maa rán an.""",Ówá ku ibi tí yíò ti fọn,0
-Kíni ìyàtọ̀ láàrin amòfin àti agbófinró?,"Amòfin ni ẹni tó mọ̀ ìlànà àti òfin, tí ó sì lè ṣàbójútó ẹjọ́ nínú ilé-ẹjọ́; agbófinró ni ẹni tó mú ilọ́wọ́ òfin dájú, tí ó sì ń mú àwọn tó ṣẹ òfin.","Amòfin - Ẹni tí ó mọ òfin (Lawyer, Judge)
+ ""Òlè tó jí kákàkí ọba..........""",Tó ń fọ́n ara rẹ lùú.,Ówá ku ibi tí yíò ti fọn,0
+Kíni ìyàtọ̀ láàrin amòfin àti agbófinró?,"Amòfin ni ẹni tó ń ṣàkóso òfin tàbí mọ̀ nípa òfin, nígbàtí agbófinró jẹ́ ẹni tó ń mú òfin se àti tó ń rí dájú pé a tẹle òfin.","Amòfin - Ẹni tí ó mọ òfin (Lawyer, Judge)
  Agbófinró - Ọlọ́ọ̀pá",0
-"Kíni ọ̀rọ̀ Yorùbá fún ""fork""?",Òbè.,Àmúga,0
-"Àwọn wo ni Yorùbá n pè ní ""alájápá""?","""Alájápá"" ni Yorùbá n pè ní àwọn tí wọ́n máa ń fi àjápá ṣe àbọ̀n.",Oníṣòwò,0
-"""Kíni àwọn Yorùbá n pè ní 'orún'?""","Àwọn Yorùbá n pè ní ""orún"" ni ""ọpọlọ.""",Igi ọfà,0
-"Ṣàlàyé ọ̀rọ̀ Yorùbá yìí ""èrèfé.""","""Èrèfé"" túmọ̀ sí ìwọ̀nba owó.",Ọ̀rọ̀ tí a sọ lórí ahọ́n lásán,0
-"""Ewé wo ni Yorùbá n pè ní 'ojú oró'? Níbo lati ń rí?""","Yorùbá n pè ""ojú oró"" ní ewé títí, a ó rí lórí àwọn títí àti ibi afara.",Orí omi,0
-"""Kíni 'biased' ní Yorùbá?""","""Ìwà lọ́ọ́dá"" tàbí ""Ẹ̀ṣọ́nu.""",Òróǹro,0
-"""Kíni ọ̀rọ̀ Yorùbá fún 'bile'?""","""Èèmú"" ni ọ̀rọ̀ Yorùbá fún 'bile'.",Ojúṣàájú,0
-"""Dárúkọ ìwé ìròyìn tí ó kọ́kọ́ jáde ní èdè Yorùbá.""","""Wàándé Abímbọ́lá.""",Ìwé ìròyín fún àwọn Ẹ̀gbá àtí Yorùbá ní 1859,0
+"Kíni ọ̀rọ̀ Yorùbá fún ""fork""?",Orí sonso.,Àmúga,0
+"Àwọn wo ni Yorùbá n pè ní ""alájápá""?","Yorùbá n pè àwọn tí ń ṣàtẹ̀jáde ìròyìn tàbí kíkó àwọn àlàyé jáde ní ""alájápá"".",Oníṣòwò,0
+"""Kíni àwọn Yorùbá n pè ní 'orún'?""",Àwọn Yorùbá n pè 'orún' ní oòrùn.,Igi ọfà,0
+"Ṣàlàyé ọ̀rọ̀ Yorùbá yìí ""èrèfé.""","""Èrèfé"" túmọ̀ sí ẹ̀bùn tàbí ètò ìfẹ̀ ayẹyẹ, bíi tí a lè fun ni ìyàrá kan tabi ibi kan nilẹ̀ Yorùbá.",Ọ̀rọ̀ tí a sọ lórí ahọ́n lásán,0
+"""Ewé wo ni Yorùbá n pè ní 'ojú oró'? Níbo lati ń rí?""","Ewé mẹ́ta  ni Yorùbá n pè ní ""ojú oró"": ewé rinrin, ewé sámó sá máro, àti ewé abanigbele. Wọn máa ń wà nígbà tí wọ́n bá ṣe ojú oró.",Orí omi,0
+"""Kíni 'biased' ní Yorùbá?""","""Ìwà ìpakàndúró"" ni Yoruba.",Òróǹro,0
+"""Kíni ọ̀rọ̀ Yorùbá fún 'bile'?""",Ọgbẹ̀.,Ojúṣàájú,0
+"""Dárúkọ ìwé ìròyìn tí ó kọ́kọ́ jáde ní èdè Yorùbá.""","""Iwé Iroyin"" ni ìwé ìròyìn tí ó kọ́kọ́ jáde ní èdè Yorùbá.",Ìwé ìròyín fún àwọn Ẹ̀gbá àtí Yorùbá ní 1859,0
 "Àrokò jẹ́ ọ̀nà tí a fi ránṣẹ́ sí ènìyàn míràn, tí ìtumọ̀ rẹ̀ jẹ́ àsírí láàrin ẹni tí o paá àti ẹni tí a fi ránṣẹ́ sí.
- Tí wọ́n bá fi ""eso igi"" ránṣẹ́ sí ènìyàn, kí ló túmọ̀ sí?","Tí wọ́n bá fi ""eso igi"" ránṣẹ́ sí ènìyàn, ìtùmọ̀ rẹ̀ ni ìkíni ọdún tuntun.",Ààrùn(Sickness),0
-"""Àwọn wo ni Yorùbá n pè ní 'agbékútà'?""","Yorùbá n pè aláìfojúrí tàbí aláìbọrò aṣọ ní ""agbékútà.""",Ọmọ jàndùkú,0
-"""Ìlú wo ní ilè Yorùbá ni wọ́n ti ń ṣe òdún 'ọlọ́jọ́'?""",Ilé-Ifẹ̀.,Ilé-ifẹ̀,0
-"""Kíni Yorùbá n pè ní Aditu.....""",Aṣírí.,Ọrọ tó ta kókó,0
-"""Parí òwe yìí: Ebí ń pamí ọlọ́ṣẹ ń kiri ...""","""... ẹnu òkè ḿbẹ lẹ́nu.""","Aó kọ́kọ́ fọ tinú, kí a tó fọ tòde",0
-"""Kíni àkọ́lé orúkọ ọba ìlú èdè?""","Ákọ́lé orúkọ ọba ìlú èdè ni ""Ààre"" tàbí ""Alága.""",Tìmí,0
-"""A sọ̀rọ̀ kéle b'ojú wo'gbé ...""",Káà fi oju t'ẹni tó wu'gbé.,"Ìgbẹ́ kìi rò, ẹni a bá wí fún ni ń ṣekú pa ni",0
-"""Parí òwe yìí: Aní kó mu wá, ó ní kòsí ...""",""" ... amúnimú wà.""",Ahun ni ẹni náà lójú alágbe,0
-Who wrote the poem “Ìṣẹ́ lògún Ìṣẹ́” and in what year?,"J.F. Odunjo wrote the poem ""Ìṣẹ́ lògún Ìṣẹ́.""",Bàbá D.F. Ọdúnjọ,0
-Igba Iwase,Ìgbà ìwàsẹ̀ jẹ́ àkókò tí ó ti pẹ́ jùlọ tàbí ìgbà àtijọ́.,Ayé Àtíjọ́,0
-"""Kíni ọ̀rọ̀ Yorùbá fún 'Barber'?""",Ọ̀túnmọ̀.,Onígbàjámọ̀/Gẹrígẹrí,0
-"""Kíni ọ̀rọ̀ Yorùbá fún 'Brass'?""",Ìdè wúrà.,Idẹ,0
-"What is the yorùbá word for ""bait"" ?",Ìtànkálẹ̀ or adìyán.,Ìjẹ,0
-Àkókò wo ni Yorùbá n pè ní Ìyálẹ́ta?,Àárọ̀.,Ago mọ́kànlá àárọ̀ sí méjìlá ọ̀sán,0
-"What is ""gizzard"" in Yorùbá ?",Igunsí.,Iwe,0
+ Tí wọ́n bá fi ""eso igi"" ránṣẹ́ sí ènìyàn, kí ló túmọ̀ sí?","Tí wọ́n bá fi ""eso igi"" ránṣẹ́ sí ènìyàn, ó túmọ̀ sí pé a ń fi ìfẹ́ hàn tàbí pé a ń béèrè nípa ìlera ẹni náà.",Ààrùn(Sickness),0
+"""Àwọn wo ni Yorùbá n pè ní 'agbékútà'?""",Yorùbá n pè àwọn 'jackal' tàbí 'hyena' ní 'agbékútà.',Ọmọ jàndùkú,0
+"""Ìlú wo ní ilè Yorùbá ni wọ́n ti ń ṣe òdún 'ọlọ́jọ́'?""","""Lẹ́yin Èkó, ìlú Ifẹ̀ ní ilè Yorùbá ni wọ́n ti ń ṣe òdún 'ọlọ́jọ́'.""",Ilé-ifẹ̀,0
+"""Kíni Yorùbá n pè ní Aditu.....""","""Àdìtú"" túmọ̀ sí ohun ìkọ̀kọ̀ tàbí ohun aláìlòye ní èdè Yorùbá.",Ọrọ tó ta kókó,0
+"""Parí òwe yìí: Ebí ń pamí ọlọ́ṣẹ ń kiri ...""",l'ójú òfà.,"Aó kọ́kọ́ fọ tinú, kí a tó fọ tòde",0
+"""Kíni àkọ́lé orúkọ ọba ìlú èdè?""","""Kíni"" tumọ sí ""Ṣé àkọ́lé ni àláìtọ́?""",Tìmí,0
+"""A sọ̀rọ̀ kéle b'ojú wo'gbé ...""",Ṣe ni ìfẹ́ràn ẹni.,"Ìgbẹ́ kìi rò, ẹni a bá wí fún ni ń ṣekú pa ni",0
+"""Parí òwe yìí: Aní kó mu wá, ó ní kòsí ...""","""Tí ó bù ú jẹ.""",Ahun ni ẹni náà lójú alágbe,0
+Who wrote the poem “Ìṣẹ́ lògún Ìṣẹ́” and in what year?,"The poem ""Ìṣẹ́ lògún Ìṣẹ́"" was written by J.F. Odunjo.",Bàbá D.F. Ọdúnjọ,0
+Igba Iwase,"Igba iwase tumo si akoko atijo, nigba ti aye o tii ni idagbasoke to joju, ati awon asa ati isese lati igba kan ti o ti koja.",Ayé Àtíjọ́,0
+"""Kíni ọ̀rọ̀ Yorùbá fún 'Barber'?""",Ológe.,Onígbàjámọ̀/Gẹrígẹrí,0
+"""Kíni ọ̀rọ̀ Yorùbá fún 'Brass'?""",Òkínbàtà.,Idẹ,0
+"What is the yorùbá word for ""bait"" ?",Òtè.,Ìjẹ,0
+Àkókò wo ni Yorùbá n pè ní Ìyálẹ́ta?,Àkókò tí oorun wà ní àárín ajò dúdú àti ìmọ́lẹ̀ ngalẹ́.,Ago mọ́kànlá àárọ̀ sí méjìlá ọ̀sán,0
+"What is ""gizzard"" in Yorùbá ?",Àfunrẹ.,Iwe,0
 "Kíni Yorùbá n pè ní ọjọjọ 
- kíní wọ́n fiì n ṣe?",Yorùbá n pè kékeré ilé èérún tí wọ́n ń fi ọkọ tàbí ọkọ ayókèèré ṣe ìrínàjò ní ọjọjọ.,"Oúnje ilé Yorùbá, Iṣu ewùrà ni a fi ń ṣé",0
+ kíní wọ́n fiì n ṣe?","Wọ́n pè ní ""ọjọjọ"" níbèèrè ajọyọ̀ ìgbéyàwó tàbí iṣẹ́lẹ̀ pàtàkì kan. Wọ́n fi n ṣe ayẹyẹ àti ìjọsìn pẹ̀lú ìdánilẹ́kọ sí àwọn àlejò.","Oúnje ilé Yorùbá, Iṣu ewùrà ni a fi ń ṣé",0
 "Nínú Eto ẹbí ní ilẹ̀ Yorùbá 
  kíní Yorùbá n pè 
- half siblings from the same father?",Ọmọkùnrìn tàbí ọmọbìnrin ìyàwó.,Obà kan,0
+ half siblings from the same father?",Ọ̀gbẹ́ni Abíyamọ.,Obà kan,0
 "Parí ọ̀wé yìí 
  Abánimúàdiyẹ a fi orókun bó, 
- bí owó bá ba Adiyẹ.....",o ṣaṣeyọ li ọjọ́ kan.,a ó gbé adìye fún ẹni tó ní,0
+ bí owó bá ba Adiyẹ.....",...á sá kúrò níbẹ̀.,a ó gbé adìye fún ẹni tó ní,0
 "Parí ọ̀wé yìí 
  Tàkúté tí o pa l'áginjú a pé 
- lókò kí wọ́n to gbe wá sí ilé....",Tàkúté.,A pẹ́ lóko kí ó tó wá sílé,0
-Iru ọmọ wo ni a n sọ ní òní?,A n sọ ọmọ aláàárìnlá láti Yíndíà.,Ọmọ tí kò sukún nígbà tí a bi,0
-"Kini Yorùbá n pè ní ""àpọ́n""","""Àpọ́n"" jẹ́ ẹja títí náà ní Yoruba.",Kóró inú èso òro,0
-Oṣù wo ní oṣù òwàrà?,Oṣù Kẹsán (September).,Oṣù kéwàá,0
-"Kini ọ̀rọ̀ Yorùbá yìí túmọ̀ sí ""Oódẹ""?",Òde.,Olófòófó,0
+ lókò kí wọ́n to gbe wá sí ilé....",ròde.,A pẹ́ lóko kí ó tó wá sílé,0
+Iru ọmọ wo ni a n sọ ní òní?,Ómo asiko.,Ọmọ tí kò sukún nígbà tí a bi,0
+"Kini Yorùbá n pè ní ""àpọ́n""","Àpọ́n ni Yorùbá n pè ní ""louse.""",Kóró inú èso òro,0
+Oṣù wo ní oṣù òwàrà?,Oṣù Kọkànlá.,Oṣù kéwàá,0
+"Kini ọ̀rọ̀ Yorùbá yìí túmọ̀ sí ""Oódẹ""?","Oódẹ túmọ̀ sí ""Hunter"" (Alégbèje).",Olófòófó,0
 "Ooni Adeyeye Enitan Ogunwusi (Ọjájá II) ní Ooni ti Ife bayi 
- “kíni orúkọ ọba to jẹ kí wọ́n to jẹ”?",Ọba Ọkùnade Sijuwade.,Aláyélúwa Ọba Okùnádé Ṣíjúwadé Olúbùṣe 2,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Farajìn""","Àkànlò-èdè ""Farajìn"" túmọ̀ sí ""forgive"" tàbí ""pardon.""",Kí ènìyàn fi ara rẹ̀ sílẹ̀ fún nkan bóyá ẹsìn tàbí ìsìn,0
-"Àrokò jẹ́ ọ̀nà tí a fi ránṣẹ́ sí ènìyàn míràn tí ìtumọ̀ rẹ̀ jẹ́ asiri láàrín ènìyàn tí o paá àti ènítí a fi ránṣẹ́ sí tí wọ́n bá fi ""owó eyo"" ránṣẹ́ sí ènìyàn Kí ló túmọ̀ sí?",Ó túmọ̀ sí àǹfààní tàbí ìbùkún.,Owó ń bọ̀,0
-Ebí ń pa èjò ahun ń yan....,ó ń fí apá ara rẹ̀ bo òun.,Àtahun àtejò ẹran jíje ni,0
-"Yato si efon, kini Yoruba n pe mosquito",Ikomo.,Yànmùyánmú,0
-"Kíni iyatọ láàrin ""èsìn àti àṣà""?","""Èsìn"" jẹ́ eto ìgbàgbọ́ tàbí ìwàásù nípa ìbáṣepọ̀ pẹ̀lú ẹni tàbí ọ̀ràn àìmí. ""Àṣà"" jẹ́ àwòkọṣe àti ìṣe ojoojúmọ́ tí àwọn ènìyàn nípa ìgbé-ayé wọn.","Àṣà (Ìṣe)
+ “kíni orúkọ ọba to jẹ kí wọ́n to jẹ”?",Ọba Okunade Sijuwade.,Aláyélúwa Ọba Okùnádé Ṣíjúwadé Olúbùṣe 2,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Farajìn""","""Farajìn"" túmọ̀ sí ""ẹ mọ́jú kan"" tàbí ""ẹ da silẹ̀.""",Kí ènìyàn fi ara rẹ̀ sílẹ̀ fún nkan bóyá ẹsìn tàbí ìsìn,0
+"Àrokò jẹ́ ọ̀nà tí a fi ránṣẹ́ sí ènìyàn míràn tí ìtumọ̀ rẹ̀ jẹ́ asiri láàrín ènìyàn tí o paá àti ènítí a fi ránṣẹ́ sí tí wọ́n bá fi ""owó eyo"" ránṣẹ́ sí ènìyàn Kí ló túmọ̀ sí?","Fi ""owó eyo"" ránṣẹ́ sí ènìyàn túmọ̀ sí ""Owó l'á ńkó láti ó lọ.""",Owó ń bọ̀,0
+Ebí ń pa èjò ahun ń yan....,Òjò kọ mí tára mi.,Àtahun àtejò ẹran jíje ni,0
+"Yato si efon, kini Yoruba n pe mosquito",Akojopon.,Yànmùyánmú,0
+"Kíni iyatọ láàrin ""èsìn àti àṣà""?","""Èsìn"" jẹ́ eto igbagbọ ati iṣe ti akọyeri si awọn aye alánfààní ẹtan gẹgẹbi esin, nigba ti ""àṣà"" jẹ́ ihuwasi ati isesi ti ẹgbẹ tabi awujo kan fi han ninu ìgbéayé ojoojumọ wọn.","Àṣà (Ìṣe)
  Ẹ̀sìn(Ọ̀nà láti bọ Elédùmarè)",0
 "Parí òwe yìí 
- Tí a kò bá rí owó rà ẹrù...",Aá rà ẹjẹ rà á.,Aó sọ ẹran ẹni lórúko,0
-"Kíni Yorùbá n pè ní ""Experience""?","""Ìrírí"" ni Yorùbá n pè ní ""Experience"".",Ìrírí,0
-"Kíni Yorùbá n pè ní ""Bachelor""?",Akọ̀wé ayé-ẹyawo.,Àpọ̀n,0
-"""Kíni ọ̀rọ̀ Yorùbá fún 'Corncob'?""",Kókòró agbado.,Fùkù,0
-Kíni Àwọn yorùbá n pè ní òṣìbàtà?,Àwọn Yorùbá n pè ní òṣìbàtà bí ènìyàn tó ń ṟìn tàbí tó ń ṣèéṣè lọ ní àààyá.,Ewé orí omi,0
+ Tí a kò bá rí owó rà ẹrù...",A ńrí èèkánná.,Aó sọ ẹran ẹni lórúko,0
+"Kíni Yorùbá n pè ní ""Experience""?","""Ìrírí.""",Ìrírí,0
+"Kíni Yorùbá n pè ní ""Bachelor""?","Yorùbá n pè ""Bachelor"" ní ""Akọ̀kọ́yẹ.""",Àpọ̀n,0
+"""Kíni ọ̀rọ̀ Yorùbá fún 'Corncob'?""","""Eèbọ̀.""",Fùkù,0
+Kíni Àwọn yorùbá n pè ní òṣìbàtà?,Àwọn Yorùbá n pè òṣìbàtà ní ẹnìkan tí kò nílé tàbí ẹni aláìnílékun.,Ewé orí omi,0
 "Lò àwọn ọ̀rọ̀ márùn yìí nínú gbólóhùn kan 
- ""patú, panumó, pààrò, pámóra, pa ohun dà""","Mo pátù, mo sì panumó fún ìgbéraga, ìrònú pàǹtarà àti pààrò ti mo se; àga mi sì pamóra mo jẹ́ kí owó pa ohun dà.","Arábìnrin náà patú, o sì panumọ́, ó pààrọ̀ aṣọ, ó pámọ́ra, kòsì pa ohùn dà",0
-Kíni ìyàtọ̀ láàrin jígí àti dígí?,"Ìyàtọ̀ láàrin jígí àti dígí ni pé jígí jẹ́ ẹ̀rọ ìrísí tí ó túmọ̀ sí gógó tàbí jígí wàhámónù, nígbà tí dígí jẹ́ ohun tí ó fi òjijì ènìyàn hàn.","jígí(eye glass)
+ ""patú, panumó, pààrò, pámóra, pa ohun dà""","Ọmọkùnrin náà pámóra, patú ìwọn nì, pààrò ìṣèjọsìn, ó sì panumó pé bàtà tí ó fọ̀ pẹ̀lú ohùn dà pọ.","Arábìnrin náà patú, o sì panumọ́, ó pààrọ̀ aṣọ, ó pámọ́ra, kòsì pa ohùn dà",0
+Kíni ìyàtọ̀ láàrin jígí àti dígí?,"Ìyàtọ̀ nílò fún jígí ni pé ó ń fúnni ní ànfàní láti ríran dáadáa, tí ó fi mú kí eníkan rí ohun tó ń séjú padà wá. Dígí, nírú èyí tí a máa ń fi onírúurú àwò tí ó rí fún èèyàn, ń gbógun ti àwòrán enìkan padà lọ sí ònimi àwògàn.","jígí(eye glass)
  dígí(mirror)",0
-"Kíni ìtumọ̀ àkànlò-èdè yìí ""Sòròṣágbòn""","""Sòròṣágbòn"" túmọ̀ sí ẹni tí ó ń sọ̀rò pẹ̀lú ọgbọ́n tàbí ní ọgbọ́n.",Kí èyàn sòrò fún Olófòófó,0
-"Kíni ọ̀rọ̀ Yorùbá fún ""circle""?",Òòrùpá.,Òbìrìkìtí,0
-"Àwọn wo ni Yorùbá n pè ní ""Ìwẹ̀fà""?","""Iwẹ̀fà"" ni Yorùbá má n pè àwọn ará tí ìwọ̀n fáàálẹ̀ rí gba sílé wọn láti wá ṣe iṣẹ́ fún wọn ká fàáwà sí.",Àwọn tí wọ́n wà ní àgbàlá ọba tí wọ́n ń tọ́jú àwọn ayaba láyé àtijọ́,0
-"Kíni Yorùbá n pè ní ""Ìdàndá?","""Ìdàndá"" nì í ṣe ìfẹ̀ orí.","Mirage
+"Kíni ìtumọ̀ àkànlò-èdè yìí ""Sòròṣágbòn""","""Sòròṣágbòn"" túmọ̀ sí ẹni tí ó máa ń sọ̀rọ̀ pẹ̀lú ọgbọ́n tàbí ìmọ̀.",Kí èyàn sòrò fún Olófòófó,0
+"Kíni ọ̀rọ̀ Yorùbá fún ""circle""?",Oríkèlè.,Òbìrìkìtí,0
+"Àwọn wo ni Yorùbá n pè ní ""Ìwẹ̀fà""?",Ìránṣẹ́ tàbí olùṣẹ̀.,Àwọn tí wọ́n wà ní àgbàlá ọba tí wọ́n ń tọ́jú àwọn ayaba láyé àtijọ́,0
+"Kíni Yorùbá n pè ní ""Ìdàndá?","Ìdàndá nìkan kò sí lórí èsì mi. Ṣe ó sẹ̀yìn ní ilẹ̀ Yorùbá ṣùgbọ́n kò mọ àrà òfin méta. 
+
+Inye tí ""Ìdàndá"" è rí ní àwọn wáhàlà.","Mirage
  Ohun tí a ń wó ní ọ̀ọ́kán, tí kìí ṣe òhun",0
-"Kíni Yorùbá n pè ní ""transmitter""?","Yorùbá n pè ""transmitter"" ní ""erú-ibánisọ̀rọ̀.""",Alátagbà,0
-"Kíni Yorùbá n pè ní ""valley""?","Àwọn Yorùbá n pe ""valley"" ní ""àfonífojì.""","Kíni Yorùbá n pè ní ""valley""?",0
+"Kíni Yorùbá n pè ní ""transmitter""?","""Àmójútó"" ni Yorùbá n pè ní ""transmitter"".",Alátagbà,0
+"Kíni Yorùbá n pè ní ""valley""?",Afôpínpín.,"Kíni Yorùbá n pè ní ""valley""?",0
 "Parí ọ̀wẹ Yorùbá yìí 
- ""àràkún láṣọ̀ Gbági ..........""","""lẹ́hìn èéfín dàáwọ̀.""",aṣọ làáwọ̀ lọ raṣọ,0
-"Níbo ní ilẹ̀ Yorùbá ní ""igbó elẹ́dùmarè"" wà?","""Igbó elẹ́dùmarè"" wà ní ìlú Ọ̀ṣogbo.",Ìpínlẹ̀ Oǹdó(Òkè Igbó),0
-"Kíní ìtumọ̀ ọ̀rọ̀ yorùbá yìí ""làìdẹ́ìnà pẹnu""?","Ìtumọ̀ rẹ̀ ni ""bóyá tàbí bí kì í ṣe.""",Láì fi ọ̀pá pọ̀lọ̀pọlọ pejò (in a nutshell),0
-kíni ìyàtọ̀ láàárin Adélébò àti Abilékọ?,"Adélébò àti Abilékọ ni oríkì orúkọ. Adélébò túmọ̀ sí ""ọmọbíṣẹ́ ni wá"" àti Abilékọ túmọ̀ sí ""ẹni tó ń ṣiṣẹ́ daada tàbí ilé ọmọ"".","Adélébọ̀: Obìrin tó ti lọ́kọ rí
+ ""àràkún láṣọ̀ Gbági ..........""",ùn rèlú òòrùn.,aṣọ làáwọ̀ lọ raṣọ,0
+"Níbo ní ilẹ̀ Yorùbá ní ""igbó elẹ́dùmarè"" wà?","""Igbó elẹ́dùmarè"" wà ní ìlú Akòkó, ní ilẹ̀ Ondó.",Ìpínlẹ̀ Oǹdó(Òkè Igbó),0
+"Kíní ìtumọ̀ ọ̀rọ̀ yorùbá yìí ""làìdẹ́ìnà pẹnu""?","Ìtumọ̀ rẹ̀ ni ""lílo kánjú láìsì ìyẹn àfẹ́sẹ̀.""",Láì fi ọ̀pá pọ̀lọ̀pọlọ pejò (in a nutshell),0
+kíni ìyàtọ̀ láàárin Adélébò àti Abilékọ?,"Adélébò jẹ́ ọmọ-bí-i-l'ọmọ tàbí araa-ìdílé, nígbàtí Abilékọ jẹ́ ẹni tó kọlùkútù sí agbègbè tàbí ìlú kan láti bá wọn gbé.","Adélébọ̀: Obìrin tó ti lọ́kọ rí
 Abíléko: Obìrin tó wà nílé ọkọ",0
 "Ọ̀rẹ́ ńjẹ́ ọ̀rẹ́, ọ̀rà ńjẹ́ ọ̀rà, 
  ẹnikan kìí dúpẹ́ lọ́wọ́ mọ ta ọ̀pọ̀ 
- Kí ni iyato to wa láàrín ọ̀rẹ́ àti ọ̀rà?","Ọ̀rẹ́ pọ̀ mọ́ra tàbí ní ìfẹ́, ìgbàgbọ́ àti ìfẹ́ ayélujára. Ọ̀rà jẹ́ ìbáṣepọ̀ nípa títẹ̀wọ́gbà ìtèlè àti ìṣàfihàn rinlẹ̀.","Ọrẹ(Ohun tí a fún ni ọ̀fẹ́)
+ Kí ni iyato to wa láàrín ọ̀rẹ́ àti ọ̀rà?","Ọ̀rẹ́ ńjẹ́ ọ̀rẹ́ jẹ́ ẹni tí a fẹ́ hàn sí nífẹ̀ẹ́, bí ọmọ náà ṣe rí bẹ́ẹ̀ là ń rí i. Ọ̀rà jẹ́ ẹni tí a kò fẹ́ hàn sí nífẹ̀ẹ́, àmọ́ a ní ọ̀rọ̀ òunjẹ́ pẹ̀lú ẹni náà. Iyato náà wà nínú wípé ẹni tí a bá nífẹ̀é jẹ́ ọ̀rẹ́, ẹni tí kò sí nífẹ̀ẹ́ fàyè gba ẹ̀wọ̀n jẹ ọ̀rà.","Ọrẹ(Ohun tí a fún ni ọ̀fẹ́)
  Ọrà(Ohun tí a fowó rà)",0
 "Parí òwe Yorùbá yìí, 
- Aṣòróójà bí ìjà ọjà, onítìjú òní sá.........",ìjà.,Ẹni tí wọ́n ń nà ò ní dáwó dúró,0
+ Aṣòróójà bí ìjà ọjà, onítìjú òní sá.........",á.,Ẹni tí wọ́n ń nà ò ní dáwó dúró,0
 "Parí òwe yì: 
- Ebí ń pamí olóṣè ń kiri.....",ṣùgbọ́n ohun tí mo rí jù owó lọ.,Àwọn tí wọ́n ń ta iyanrì(sand),0
-A kii moogun moote...,latari orogun.,Kí iṣu ewùrà má lémọ,0
-"Kíni Yorùbá n pè ""Empowerment""?",Didá Agbara.,Ìrónilágbára,0
-"Kíni ""Misconception"" ni Yorùbá?",Ìmọ̀ ìrònú èké.,Àṣìrò,0
-"Kíni ""Creative"" ni Yorùbá?",Èlòyemí.,Àtínúdá,0
-"Kíni ""Appreciation"" ni Yorùbá?",Ìdúpé.,Ìmọ-ore,0
-"Kíní yoruba n pè ní ""àkànnàmàgbò""?","Àkànnàmàgbò ni ""elements"" ní èdè Yorùbá.",Ewéko,0
-"Kíní Yorùbá ọ̀rọ̀ yìí ""cheese""?","""Wàárì"" tabi ""wàrà-áso.""",Wàràkàsí,0
+ Ebí ń pamí olóṣè ń kiri.....",ebí n paje ẹja di ẹ́ja ayó fi ngun ọbẹ eba.,Àwọn tí wọ́n ń ta iyanrì(sand),0
+A kii moogun moote...,Kii loogun taara.,Kí iṣu ewùrà má lémọ,0
+"Kíni Yorùbá n pè ""Empowerment""?","""Ilóye"" tabi ""Agbára fún isẹ́.""",Ìrónilágbára,0
+"Kíni ""Misconception"" ni Yorùbá?","""Àìtèmígbà.""",Àṣìrò,0
+"Kíni ""Creative"" ni Yorùbá?",Eda ohun tuntun.,Àtínúdá,0
+"Kíni ""Appreciation"" ni Yorùbá?","""Èsìnlè"" tabi ""Dúpẹ́"".",Ìmọ-ore,0
+"Kíní yoruba n pè ní ""àkànnàmàgbò""?","Àkànnàmàgbò ni Yoruba n pè ní ""Chameleon.""",Ewéko,0
+"Kíní Yorùbá ọ̀rọ̀ yìí ""cheese""?",Wàárì.,Wàràkàsí,0
 "Parí òwe yìí 
- ""Tí ojú bá pón àgàn.......""","""Tí ojú bá pón àgàn, ó nà ni.""",Ó lè dá àbá àbíkú,0
-"Kíní Yorùbá ọ̀rọ̀ yìí """"baboon""""?",Bàbóònì náà ni.,Ìlábùrù,0
+ ""Tí ojú bá pón àgàn.......""",Tí ejé ńkùn.,Ó lè dá àbá àbíkú,0
+"Kíní Yorùbá ọ̀rọ̀ yìí """"baboon""""?",Ògìdìgbò.,Ìlábùrù,0
 "Parí òwe Yorùbá yìí 
- ""Ohun tí n wuni ni n pò lórò eni..........""",""".....tí kò n wuni ni n pò lorò elòmíràn.""","Ológún ẹrú kú, aṣọ ẹ̀ jẹ́ ìkan",0
-Irú Ìyàwó wo ni Yorùbá ń pè ní Ìyàwó àbètélẹ,Ìyàwó àbètẹ́lẹ̀ ni obìnrin tí ọkọ fi nílé bí ìyàwó ṣùgbọ́n tí ilé mọ̀kàndáà ni obìnrin náà fi ń gbé láìsí ìtìlẹ̀yìn àgbàlagbà tàbí ìgbéyàwó gẹẹsì.,Ìyàwó tí a tọrọ ní áti kékeré,0
-"Kíni Yorùbá n pè ""Egòn""?",Egòn nì í ṣe ẹṣin.,Igbó kìjikìji,0
+ ""Ohun tí n wuni ni n pò lórò eni..........""","“Ohun tí n wuni ni n pò lórò eni, kò sẹni tó lè parọ láìsí n fojú fò.”","Ológún ẹrú kú, aṣọ ẹ̀ jẹ́ ìkan",0
+Irú Ìyàwó wo ni Yorùbá ń pè ní Ìyàwó àbètélẹ,Ìyàwó àbètélẹ túmò sí ìyàwó kejì tàbí ìyàwó mìíràn tí ọkùnrin bá fé ṣáájú kí wọn tó ní oye.,Ìyàwó tí a tọrọ ní áti kékeré,0
+"Kíni Yorùbá n pè ""Egòn""?","Yorùbá máa n pè ""Egòn"" ní ""Égúngún.""",Igbó kìjikìji,0
 "Parí òwe Yorùbá yìí 
- ""Ìyà méjì kìí jẹ òkóbó""","""Ó kan itanilẹ́yìn.""","tí ò bá lókó, á lóko(farm)",0
-"Àwọn wo ni Yorùbá n pè ní ""arota""","""Árótà"" ni a máa ń pè èyíkéyìí ènìyàn tó ń sọ̀rò dídá.",Ẹrú,0
-"Kíni Yorùbá n pè ní ""Ìkìsà"" ?","Yorùbá n pè ""Chest"" ní ""Ìkìsà.""",Àgbọ̀nrín,0
-"Kíni Yorùbá n pè ní ""àrándùn""?","Yorùbá n pè ""àrándùn"" ní ìròyìn tàbí ìhìn tó dùn, tí ó n fi ayò bọlé.",Àsodùn,0
-"Kíni Yorùbá n pè ní ""Kokonboju""?","Yorùbá n pè ""one-eyed"" ní ""kokonboju"".",Ilà kíkọ tí a kò lè fi dá ènìyàn mò,0
-"Níbo ní ilẹ̀ yorùbá ní ""adágún odò orí àpáta"" wà?","""Adágún odò orí àpáta"" wà ní Abẹ́òkúta.",Àdó-Àwàyè,0
-"Kí ni Yorùbá n pe ""Flask""?","Yorùbá n pe ""Flask"" ní ""Ago gilasi"" tàbí ""Igo gbigbona.""",Ṣágó,0
-"Àwọn wo ni Yorùbá n pè ní ""alákàtànpọ̀""","Yorùbá ń pè àwọn tí wọ́n bá mọ̀ ẹ̀rọ tí wọ́n sì ní ọgbọ́n iṣẹ́ ní ""alákàtànpọ̀.""",Àwọn tafàtafà,0
-"Kíni ọ̀rọ̀ Yorùbá fún ""Spinster""?",Ọ̀mọ̀bìnrin ìdokó.,Omidan,0
-"Tí Yorùbá bá pe obìnrin ní ""ajáìdí apèrè"" kí ló túmọ̀ sí?","Tó jẹ́ pé obìnrin náà ti yíyàtà oríṣiríṣi èèyàn àti pé àwọn oúnjẹ tàbí ohun tí wọ́n fọkànjù í mú ọpọlọpọ èèyàn padà sí, ó sí ń jiyàn, tí kò sì ní ẹni tí ó fìjìrì í dá.",Obìnrin tó ń ṣèṣekúṣe,0
-Kíni ọ̀rọ̀ Yorùbá fún 'Savannah'?,Ọ̀fààrí.,Ọ̀dàn,0
+ ""Ìyà méjì kìí jẹ òkóbó""","Ìyà méjì kìí jẹ òkóbó, ó kán sọjú.","tí ò bá lókó, á lóko(farm)",0
+"Àwọn wo ni Yorùbá n pè ní ""arota""",Yorùbá n pè àwọn tó máa ń sọ̀rọ̀ dáadáa tí wọ́n sì ń lo èdè dídùn lẹ́nu ìkànsí.,Ẹrú,0
+"Kíni Yorùbá n pè ní ""Ìkìsà"" ?","Yorùbá n pè ""Ìkìsà"" ní ìkànsí tàbí ìrètí ohun tó ń bò wá.",Àgbọ̀nrín,0
+"Kíni Yorùbá n pè ní ""àrándùn""?",Àrándùn nínú Yorùbá ni ìtàn tàbí àlàyé tó ń jókòó pẹ̀lú àkójọpọ̀ ohun èlò ẹlẹ́wà tàbí tínúrá.,Àsodùn,0
+"Kíni Yorùbá n pè ní ""Kokonboju""?","Yorùbá n pè ""Kokonboju"" ní ẹṣin.",Ilà kíkọ tí a kò lè fi dá ènìyàn mò,0
+"Níbo ní ilẹ̀ yorùbá ní ""adágún odò orí àpáta"" wà?","""Adágún odò orí àpáta"" wà ní Abẹ́òkúta, nípàkun ilẹ̀ Yorùbá.",Àdó-Àwàyè,0
+"Kí ni Yorùbá n pe ""Flask""?","A kì í pa ""Flask"" ní ilokulo Yorùbá, àmọ́ a lè pe í ní ""ìṣọdẹ̀"".",Ṣágó,0
+"Àwọn wo ni Yorùbá n pè ní ""alákàtànpọ̀""","Àwọn Yorùbá n pè ní ""alákàtànpọ̀"" ní ọ̀rọ̀ yìí ṣàpẹẹrẹ àwọn tí wọ́n lòkọ ní ibi tí kò yẹ tàbí ti wọn kò ì gba ìmọ̀lára ibi tí wọ́n wà.",Àwọn tafàtafà,0
+"Kíni ọ̀rọ̀ Yorùbá fún ""Spinster""?",Akoonipo or aṣewàrè.,Omidan,0
+"Tí Yorùbá bá pe obìnrin ní ""ajáìdí apèrè"" kí ló túmọ̀ sí?",Wọ́n ń sọ pé obìnrin náà jẹ́ alágbàára tàbí wípé ó ní ìmúnádàáṣiṣẹ́.,Obìnrin tó ń ṣèṣekúṣe,0
+Kíni ọ̀rọ̀ Yorùbá fún 'Savannah'?,GAMBÙDÙ.,Ọ̀dàn,0
 "Kíni Yorùbá n pè ní ""òkùdù""
- ""wón ní òkùdù tó pa ẹṣin lè pa ènìyàn""","Yorùbá n pè ""òkùdù"" ní ""snakebite"".",Kòtò àgbẹ́kù,0
+ ""wón ní òkùdù tó pa ẹṣin lè pa ènìyàn""","""Òkùdù"" ni wọ́n n pè ní ""gànmí"" tàbí ""àjẹfè"" ní Èdè Yorùbá.",Kòtò àgbẹ́kù,0
 "Parí òwe Yorùbá yìí 
- ""àgbà tí ó bá fi arúgbó ara kọ ìlú""","""ó ń fi irù èèyàn ṣònù.""",Ọ̀mẹ́lẹ́ ni wọ́n máa ń sán kú,0
+ ""àgbà tí ó bá fi arúgbó ara kọ ìlú""","""ó ní gbajúmò̩ arúgbó tó ń ṣẹwì.""",Ọ̀mẹ́lẹ́ ni wọ́n máa ń sán kú,0
 "Kíní òrò Yorùbá fún ""Camwood""?",Òsùn.,Osùn,0
-"Kíni Yorùbá n pè ní ""èkùró""?",Èkùró ni Yorùbá n pè àmàlà.,Kòkòrò ẹ̀wà,0
-"Kíní ìtumọ̀ ọ̀rọ̀ Yorùbá yìí ""Láì Déèna pẹnu""?","Ó túmọ̀ sí ""Without stop talking"" lori gbogbo nǹkan bíi láìbáwọ́n bí o ṣe ń sọrọ̀.",Láì fi òpá pọ̀lọ̀pọlọ pejò (in a nutshell),0
-"Yorùbá máa ń pa èdè kan wípé agbe ní n gbé ire pàdé olókun, kínì ""agbe""?","Agbe tumọ si ẹyẹ kan tí a máa ń rí ní ẹkùn ilẹ̀ Yorùbá, tí wọ́n ń pè ní Parrot ní èdè Gẹ̀ẹ́sì.",Ẹyẹ,0
-"Kíní orúkọ míràn tí Yorùbá n pe ""kókó inú ìyán""?","Orúkọ míràn tí Yorùbá n pe ""kókó inú ìyán"" ni ""orógbó"".",Emọ,0
-"Ọmọ aládìye ògògòmògà, ìlú wo ni wọ́n ma n kí oríkì wọn bẹ́ẹ̀?",Iléṣà.,Ìjèbú,0
-"Àwọn wo ni Yorùbá n pè ní ""aláàgbédá""?","Yorùbá n pè àwọn tó n ṣe iṣẹ àgbékálá àwòrán tàbí ohun èlò ní ""aláàgbédá"".",Oníjìbìtì,0
-"Kini Yorùbá n pè ní ""Aga""?dodo","Yorùbá n pè ""Chair"" ní ""Àga"".",Caution sign,0
+"Kíni Yorùbá n pè ní ""èkùró""?","Èkùrú ni Yorùbá n pè ní ""èkùró"".",Kòkòrò ẹ̀wà,0
+"Kíní ìtumọ̀ ọ̀rọ̀ Yorùbá yìí ""Láì Déèna pẹnu""?","Ìtumọ̀ ""Láì Déèna pẹnu"" ni láì fi ẹnu han tabi láì sọ johùn mẹ́ẹ̀kan.",Láì fi òpá pọ̀lọ̀pọlọ pejò (in a nutshell),0
+"Yorùbá máa ń pa èdè kan wípé agbe ní n gbé ire pàdé olókun, kínì ""agbe""?","""Agbe"" jé iyẹ̀kookan irú ẹyẹ kan ni ede yorùbá.",Ẹyẹ,0
+"Kíní orúkọ míràn tí Yorùbá n pe ""kókó inú ìyán""?",Asàrí.,Emọ,0
+"Ọmọ aládìye ògògòmògà, ìlú wo ni wọ́n ma n kí oríkì wọn bẹ́ẹ̀?",Ìlọrin.,Ìjèbú,0
+"Àwọn wo ni Yorùbá n pè ní ""aláàgbédá""?","Yorùbá ń pè àwọn tó ń ṣiṣẹ́ irin tàbí ìdẹ, tí wọ́n ń ṣe àwọn ohun èlò tí a lè fi irin ṣe ní ""aláàgbédá"".",Oníjìbìtì,0
+"Kini Yorùbá n pè ní ""Aga""?dodo","Aga ni Yorùbá ń pe ""Chair"".",Caution sign,0
 "Àlò oooo
  'Ìyá rúgúdú pọ̀nmi sínú, ó wọ̀ ẹ̀wù irin'
- kíni oooo??",Àpèrẹ àwọn ṣè bí àti ẹ̀ṣọ.,Èkùrọ́,0
-"Kini Yorùbá n pè ní ""Akéte""?","Yorùbá n pè ""Cap"" ní ""Akéte.""",Ibùsùn,0
-Kíni ṣe èyọ̀ túnmọ̀ sí ní èdè Yorùbá?,Èyọ̀ túmọ̀ sí owó tó jẹ́ ìwọ̀n kan.,Kí èyàn lọ tọ̀,0
-Kíni 'law enforcer' ní Yorùbá,Olùlámùlà òfin.,Agbófinró,0
-"Kini òrò Yorùbá yìí túnmọ̀ sí ""Alàdìí fonórù""?",Àlàìnífẹ̀ẹ́ tàbí aláìlóore.,Ilé ti to lo (time to go home),0
-Kíni à ń pè ní 'àmù' ní ilé Yorùbá?,À ń pè 'àmù' ní ilẹ̀ Yorùbá ní 'amí'.,Ikoko ti won maa n bu omi si,0
-Ṣàlàyé ọ̀rọ̀ yìí 'ìsákọ̀lè',"Ìsákọ̀lè túmọ̀ sí èyí tí a máa ń fi sàn wọ́n láti jogún ilé tàbí ilẹ̀ kan, tàbí ìsanwó tó yẹ ká ṣe kí wọ́n lè fi ilé tàbí ilẹ̀ fún ẹni.",Owó tàbí ẹ̀bùn tí ènìyàn máa n fún ní bíi ọ̀pẹ̀,0
+ kíni oooo??",Ìkókò ni.,Èkùrọ́,0
+"Kini Yorùbá n pè ní ""Akéte""?","Yorùbá n pè ""cap"" ní ""Akéte"".",Ibùsùn,0
+Kíni ṣe èyọ̀ túnmọ̀ sí ní èdè Yorùbá?,Owó.,Kí èyàn lọ tọ̀,0
+Kíni 'law enforcer' ní Yorùbá,Olùmọ̀ òfin.,Agbófinró,0
+"Kini òrò Yorùbá yìí túnmọ̀ sí ""Alàdìí fonórù""?","""Alàdìí fonórù"" túmọ̀ sí ""boaster"" ní èdè Gẹ̀ẹ́sì.",Ilé ti to lo (time to go home),0
+Kíni à ń pè ní 'àmù' ní ilé Yorùbá?,À ń pè 'àmù' ní igi kan tí a fi ń rán àpò tabi aṣọ ní ilé Yorùbá.,Ikoko ti won maa n bu omi si,0
+Ṣàlàyé ọ̀rọ̀ yìí 'ìsákọ̀lè','Ìsákọ̀lè' túmọ̀ sí owó tí a máa ń san fún ìdílé orílẹ̀èdè káàkiri fún àwọn ìpàdé práyàrí.,Owó tàbí ẹ̀bùn tí ènìyàn máa n fún ní bíi ọ̀pẹ̀,0
 "Parí òwe yìí
- Ẹni tí ń walẹ̀ ní ń sínkú....",Ẹni tó ku ilé.,"Ẹni ń súkùn, ariwo lasan ni ń pa.",0
+ Ẹni tí ń walẹ̀ ní ń sínkú....",Ẹni tó ń sunkún.,"Ẹni ń súkùn, ariwo lasan ni ń pa.",0
 "Kini itumo oro yoruba yii
- Omi gbigbona kìí jólé",Itumo re ni pe nkan ti o ni agbara tabi pataki ko ye ki oje e lafaimo.,"Kòsí bíi nkan bà ṣe lè tó, ó ń bò wá dérò.",0
-"Parí òwe Yorùbá yìí ""Ọhun tí ń wuni ni n pò lóro ènìyàn",Ọhun tí ń wuni ni n pò lóro ènìyàn ọmọ e fún.,"Ológun ẹrú kú, aṣọ è jẹ́ ìkan",0
-"Kíni ìyàtọ̀ láàrin ""ìlábùrù àti abilà""?","Ìlábùrù jẹ́ ìṣe ibi tàbí òdì, nígbà tí abilà jẹ́ ẹ̀dá tàbí ẹ̀dá aṣíṣe.","Ìlábùrú - Baboon
+ Omi gbigbona kìí jólé",Itumo rẹ ni pe ohun kan ti o ni iye tabi ti o tọ́ si ni kii ṣe ni irọrun ju lọ ninu itọju rẹ tabi pipadanu rẹ.,"Kòsí bíi nkan bà ṣe lè tó, ó ń bò wá dérò.",0
+"Parí òwe Yorùbá yìí ""Ọhun tí ń wuni ni n pò lóro ènìyàn","""...òmàní.""","Ológun ẹrú kú, aṣọ è jẹ́ ìkan",0
+"Kíni ìyàtọ̀ láàrin ""ìlábùrù àti abilà""?","Ìlábùrù fúnra rẹ̀ ni ipò tí kò dára tàbí ìwá tó lewu, tí ó lè jẹ́ àbínibí tàbí ṣíṣe. Abilà jẹ́ ẹni tí ń ṣe ìwà ipá, títajà ìwà búburú tàbí àwọn ìṣe tó burú.","Ìlábùrú - Baboon
 Àbìlà  - Zebra ",0
 "Tí 'fast' ba jẹ́ yàrà
  Kíni ọ̀rọ̀ Yorùbá fún 'slow'?",Díẹ̀ díẹ̀.,Yíyọ́ (yọ́),0
 "Lo àwọn ọ̀rọ̀ márùn ún yi nínu gbólóhùn kan
- “dárayá, faraya, kíyèésárà, fáramó, fáramó”","Mo fáramó àwọn ìbéèrè, mo sì kà á kíyèésárà; mo faraaya àti dárayá láti jẹ́ aláboyún nínú ètò Masoyinbo náà.","Mo lọ sí eré ìdaŕayá kan, níbití ẹni tó gbàwá lálejò ti faraya, nítorí kò kíyèsara tí ohun tó ṣelè sì ṣeé faramọ́",0
+ “dárayá, faraya, kíyèésárà, fáramó, fáramó”","“Ọmọ ọkọ̀ dárayá nígbà tí ó faraya láti kíyèésárà, ṣùgbọ́n ó gbọ́dọ̀ fáramó iṣẹ́ tàbí fáramó.”","Mo lọ sí eré ìdaŕayá kan, níbití ẹni tó gbàwá lálejò ti faraya, nítorí kò kíyèsara tí ohun tó ṣelè sì ṣeé faramọ́",0
 "Parí òwe Yorùbá yìí
- ""apàtẹ̀wọ́ fún wèrè jó.........""",....yóò fọ̀ ọwọ́ ẹni.,òhun àti wèrè ìkan ni wọ́n,0
+ ""apàtẹ̀wọ́ fún wèrè jó.........""",ni wèrè n gbéru.,òhun àti wèrè ìkan ni wọ́n,0
 "Parí òwe Yorùbá yìí
- ""A kìn pa òdu òyà loju òtá ènìyàn ....""","""A kìí ṣòrò abínú ṣí ìlù èsè.""",ọmọ elébọ́rọ́ lásán lapa,0
+ ""A kìn pa òdu òyà loju òtá ènìyàn ....""",...a kìí gbé inú bí i sùúrù.,ọmọ elébọ́rọ́ lásán lapa,0
 "Parí òrọ Yorùbá yìí
- ""Nítorí afójú ní òjò ṣe n kú, nítorí adití ní òjò ṣe n ṣe kíni?","Nígbàtí afójú bá n kú, nígbà èmi adití ni òjò ń dé.",Ṣú,0
-Kíni Yorùbá n pè ní 'òbèlè'?,Àní 'òbèlè' ni banana ní èdè Yorùbá.,Ọkọ̀ ojú omi (Canoe),0
-Kíni òrò Yorùbá fún ẹranko yìí 'potto'?,Òrò Yorùbá fún 'potto' ni àpara.,Ikì,0
-"""Irú ọmọ wo ni Yorùbá n sọ ní 'Ojúólápé'?""","""Omírin"" tabi ""omó pupa.""",Àbígbẹ̀yìn ọmọ,0
+ ""Nítorí afójú ní òjò ṣe n kú, nítorí adití ní òjò ṣe n ṣe kíni?",Nígbà áti òtẹ́.,Ṣú,0
+Kíni Yorùbá n pè ní 'òbèlè'?,'Òbèlè' ni Yorùbá n pè èyàn tó lọ́ra tó sì ní ìjúwe dáadáa.,Ọkọ̀ ojú omi (Canoe),0
+Kíni òrò Yorùbá fún ẹranko yìí 'potto'?,Òfèé.,Ikì,0
+"""Irú ọmọ wo ni Yorùbá n sọ ní 'Ojúólápé'?""",Ó túmọ̀ sí ọmọ tí a bí lẹ́yìn sísùn jẹ baba tàbí ìyá.,Àbígbẹ̀yìn ọmọ,0
 "Ìdúró ò sí, ìbèrè ò sí f’ẹni tó gbódó mì.
- Irú ènìyàn wo ni a lè pè ní a gbódó mì?",A gbódó mì ni ẹni tó nípàtàkì tó jùlọ tàbí ẹni tó jẹ́ alágbára nípa títọ́jú tàbí rí sí àwọn nnkan kan.,Ẹni tó wà nínú wàhálà,0
-"Tí Yorùbá bá sọpé kò sí àbùjá lóòrùn ọpẹ, kíni àbùjá?",Àbùjá jẹ́ ẹ̀ka (orí) nínú ọ̀pẹ.,Ọ̀nà èbùrú,0
-What's the Yorùbá word for 'Eagle'?,Àdàbà or Òkìn.,Idì,0
+ Irú ènìyàn wo ni a lè pè ní a gbódó mì?",Eniyan to ni ipẹkun igbẹkẹle ati aabo laarin awujo tabi egbe le je eni ti a gbodo mi.,Ẹni tó wà nínú wàhálà,0
+"Tí Yorùbá bá sọpé kò sí àbùjá lóòrùn ọpẹ, kíni àbùjá?",Àbùjá jẹ́ ibi tí kò mọ̀ ní gbogbo ọ̀ràn tàbí ibi tí kò mọ̀ kọ́ ni.,Ọ̀nà èbùrú,0
+What's the Yorùbá word for 'Eagle'?,Àdàbà aláwo funfun.,Idì,0
 "Parí òwe yìí 
- ""Didùn ló dùn tí a fi bá òré jèkò......",ma rárá má jẹ àṣéwó.,ti ilé oge tógeé jẹ,0
-Kíni ọ̀rọ̀ Yorùbá fún 'Bribe'?,Èké.,"Rìbá, Owó ẹ̀yìn, Ṣọwọ́ kúdúrú, Ẹ̀gúnjẹ",0
-Irú òunje wo ni Yorùbá n pè ní 'ọ̀jọ̀jọ̀' kíní òun pàtó tí wọn fi n ṣe?,Ọ̀jọ̀jọ̀ jẹ òunje tí a ń ṣe pèlú èso èlùbọ̀ (yam tuber) tí a fìdí ró pọ̀ pèlú atalẹ̀ láti din.,"Oúnjẹ ilẹ̀ Yorùbá, Isu ewura ni a fi n se",0
+ ""Didùn ló dùn tí a fi bá òré jèkò......","...ìrẹsì.""",ti ilé oge tógeé jẹ,0
+Kíni ọ̀rọ̀ Yorùbá fún 'Bribe'?,Ìdùnnú.,"Rìbá, Owó ẹ̀yìn, Ṣọwọ́ kúdúrú, Ẹ̀gúnjẹ",0
+Irú òunje wo ni Yorùbá n pè ní 'ọ̀jọ̀jọ̀' kíní òun pàtó tí wọn fi n ṣe?,'Ọ̀jọ̀jọ̀' jẹ́ òunje tí a ń ṣe pẹ̀lú ìrẹsì ati ewé ewúro.,"Oúnjẹ ilẹ̀ Yorùbá, Isu ewura ni a fi n se",0
 "Parí òwe Yorùbá yìí
- 'Ẹmó kù ojú ọpò dí ....'",...lóró.,"bí àfẹ̀rẹ̀bòjò bá kú, ẹnu isà á ṣòfo",0
-Kíni àwọn Yorùbá n pè ní “kolokóló”?,"Àwọn Yorùbá máa ń pè àjà mìíràn ní ""kolokóló.""",Ohun tí a máa ń fi sí ọrùn ajá bíi ṣaworo,0
-Yorùbá bò wọ́n ní 'lálá tó ròkè ìlè lón bò' kíní 'lala'?,'Lálá' túmọ̀ sí ẹẹ̀kan tàbí sísẹ̀ kọjá àlá loju ènìyàn lórí ṣáájú kí ó tóò ṣe.,Ilá,0
-Kíni ọ̀rọ̀ Yorùbá fún 'Guinea-worm'?,Òkéèlé.,Sòbìyà,0
-Kíni ọ̀rọ̀ Yorùbá fún 'Lungs'?,Ohun ìmí.,Fùkù,0
-Àwọn wo ní Yorùbá ń pè ní 'adídàgìrì'?,"Adídàgìrì ni a máa ń pè àwọn ènìyàn tí ó yàtọ̀, tí ó dàgbà láti jẹ ogbógi tàbí ìrúdàtí.",Alarmist,0
-Kíni àkólé orúkọ ọba ìlú Ọndó?,Ọba Àkúrẹ.,Òṣemàwé,0
+ 'Ẹmó kù ojú ọpò dí ....'",'Ẹmó kù ojú ọpò dí ìmú.',"bí àfẹ̀rẹ̀bòjò bá kú, ẹnu isà á ṣòfo",0
+Kíni àwọn Yorùbá n pè ní “kolokóló”?,"Àwọn Yorùbá n pè ""kolokóló"" ní ípàkó ẹlẹ́dẹ́.",Ohun tí a máa ń fi sí ọrùn ajá bíi ṣaworo,0
+Yorùbá bò wọ́n ní 'lálá tó ròkè ìlè lón bò' kíní 'lala'?,Lálá tumọ si àlá.,Ilá,0
+Kíni ọ̀rọ̀ Yorùbá fún 'Guinea-worm'?,Ọ̀tá.,Sòbìyà,0
+Kíni ọ̀rọ̀ Yorùbá fún 'Lungs'?,Ìfun.,Fùkù,0
+Àwọn wo ní Yorùbá ń pè ní 'adídàgìrì'?,Yorùbá ń pè àwọn tó ń ṣètàn-làsígì tàbí àwọn tí ń kọ ètò fún igbèsè èèyàn jẹ́ ní 'adídàgìrì'.,Alarmist,0
+Kíni àkólé orúkọ ọba ìlú Ọndó?,Osemawe.,Òṣemàwé,0
 "Òwe Yorùbá kan ní Ijapa wọnú orù, ó ku àtiyọ 
- Kíni Yorùbá n pè ní 'orù'?",Orù ni a pèsè àrán.,Ìkòkò,0
-"Kíni Yorùbá n pè èranko yìí ""Skink""?","Yorùbá ń pè èrànkó ""Skink"" ní ""Èyìnrìn-ńlá"".",Aláyùnbẹ́rẹ́,0
-Kíni Yorùbá n pè ní 'ìrèmòjé'?,Ìrèmòjé ní Yorùbá túmò̀ sí àṣà ìsìnkú àti orin ìyàwó fún ẹ̀yà Okùnrìn Ẹgbá.,Orin tí a máa fi ń dárò ọdẹ,0
+ Kíni Yorùbá n pè ní 'orù'?",Iposé.,Ìkòkò,0
+"Kíni Yorùbá n pè èranko yìí ""Skink""?","Yorùbá n pè éran yìí ""Ògò.""",Aláyùnbẹ́rẹ́,0
+Kíni Yorùbá n pè ní 'ìrèmòjé'?,"Ìrèmòjé nínú Yorùbá ni a máa ń pè sí ajọ ìsìn ìkú àṣà ilẹ̀ Yorùbá, pàápàá jùlọ fún àwọn ọkùnrin.",Orin tí a máa fi ń dárò ọdẹ,0
 "Lo àwọn ọ̀rọ̀ márùn yìí nínu gbólóhùn kan
- ""Fiséyìn, fiséyìn, fèýinti, èyìnodi, owó èyin.""","Mo ra owó èyìn, mo ṣe èyìnodi, nítorí náà mo fèýinti ni fiséyìn.",,0
+ ""Fiséyìn, fiséyìn, fèýinti, èyìnodi, owó èyin.""","Fiséyìn sì nínú owó èyin, nítorí náà èyìnodi kò lè fèýinti.",,0
 "Parí òwe Yorùbá yìí
- ""mà fi oko mi dà ònà.......""","""má fi oko mi dá’na ilèkè.""",Ọjọ́ kan là á ko,0
-"Kíni òrò yorùbá fún ""Century""?",Òkòólè.,Ọrúndún,0
-"Kini ìtumò òrò Yorùbá yìí ""isọgbè""?","Ìtumò òrò ""isọgbè"" ni ""kitchen"" ní èdè Gẹẹsi.",Aláàbárìn,0
+ ""mà fi oko mi dà ònà.......""","""ilé olókùnrùn.""",Ọjọ́ kan là á ko,0
+"Kíni òrò yorùbá fún ""Century""?",Ẹ̀yàáwò.,Ọrúndún,0
+"Kini ìtumò òrò Yorùbá yìí ""isọgbè""?","Isọgbè túmọ̀ sí ""flood"" ní ilẹ̀ Yorùbá.",Aláàbárìn,0
 "Parí òwe Yorùbá yìí
- ""Bi owó eku bá ṣe mó ..... """,ìka ọwọ̀ rẹ̀.,ló ṣe máa fi họra,0
-Kíni òrọ yorùbá fún 'Bomb'?,Ìfôńpá.,Àdó-olóró,0
-"Tí àkùkò bá jẹ́ 'cock' tí àdìyẹ jẹ́ 'chicken', kíni 'chick' Ní Yorùbá?",Adíké.,Òròmadìye,0
+ ""Bi owó eku bá ṣe mó ..... ""","""Ebo níí jẹ.""",ló ṣe máa fi họra,0
+Kíni òrọ yorùbá fún 'Bomb'?,Òtító.,Àdó-olóró,0
+"Tí àkùkò bá jẹ́ 'cock' tí àdìyẹ jẹ́ 'chicken', kíni 'chick' Ní Yorùbá?",Omọ adiyẹ.,Òròmadìye,0
 "Parí òwe yìí: 
- 'Àgbàtán là ń gba òlé, bí a dáso fún òlé à pa láro...'",Kò bá mo rẹ̀ mú.,"Bí a bá la ọ̀le níjà, àá sín délé",0
+ 'Àgbàtán là ń gba òlé, bí a dáso fún òlé à pa láro...'",Nígbà tí wọ́n bá wá ti láalá.,"Bí a bá la ọ̀le níjà, àá sín délé",0
 "Parí òwe yìí:
- 'àgbà tó fi arúgbó ara kó ìlù....'",kí ìlù fi ara gbóò.,Omele ni wọ́n máa ń sán kú,0
-"Kíni òrò Yorùbá fún ""pilfering""?",Èké.,Àfọ́wọ́rá/Fẹ́wọ́,0
-"Kíni Yorùbá n pè èranko yìí ""tree hyrax""?",Àkàn.,Ọ̀fàfà,0
-Kíni Yorùbá pè ní èbìrìpò?,Èbìrìpò.,Oúnje ilẹ̀ Yorùbá,0
+ 'àgbà tó fi arúgbó ara kó ìlù....'","kó ìlù tán, ó fi ìpà àṣejù bàa jẹ.",Omele ni wọ́n máa ń sán kú,0
+"Kíni òrò Yorùbá fún ""pilfering""?",Òjòkójó.,Àfọ́wọ́rá/Fẹ́wọ́,0
+"Kíni Yorùbá n pè èranko yìí ""tree hyrax""?",Aw odi.,Ọ̀fàfà,0
+Kíni Yorùbá pè ní èbìrìpò?,Yorùbá pè èbìrìpò ní onjẹ tí a fi epo pupa ṣe.,Oúnje ilẹ̀ Yorùbá,0
 "Parí òwe yìí
- ""Dátóró dàtòrò dátóró""","""Dátóró l'owó lè tó nígboro.""","Àgbà tí ò bá dátọ́rọ́, omi ọbè láá mu",0
+ ""Dátóró dàtòrò dátóró""","""Lómí a mon.""","Àgbà tí ò bá dátọ́rọ́, omi ọbè láá mu",0
 "Parí òwe yìí
- ""akíì Fura sí ẹni à ń bá rìn""","""Ìgbà tí à ń báa jọ jín.""",ẹni a fura sí ló gba ká yẹra,0
+ ""akíì Fura sí ẹni à ń bá rìn""","""bo ò bá f'énú àbà.""",ẹni a fura sí ló gba ká yẹra,0
 "Kíni Yorùbá n pè
- ""animal shell""?",Eyin eranko,Ìkarahun,0
-Àwọn wo ni Yorùbá ń pè ní Agbefọba,Yorùbá ń pè Onídàájọ̀ tàbí Àdájọ́ ní Agbefọba.,Agbófinró,0
+ ""animal shell""?",Ikúró.,Ìkarahun,0
+Àwọn wo ni Yorùbá ń pè ní Agbefọba,Agbefọba ni olùkọ̀ràn.,Agbófinró,0
 "Parí òwe yìí.""
- ""àìsàn là ń wò......",èègùn là ń wògbọ́n.,ẹnìkan ò rí tọlọ́jọ́ ṣe,0
-Parí òwe yìí 'ẹjọ́ a fẹnì lóbinrin là ńwí...',ọkàn ògá lóde.,A kìí wíjọ́ afẹ́nilọ́mọ,0
-Kíni ìtumò òrò Yorùbá yìí: 'Èkó èlèkò ní ègbà èlégbà?',"Gẹ́gẹ́ bí òwe, ó ní kí ẹni tó bá ń kóni kó dabi ẹni pé ó máa ń gbé ôjù ti àwọn tó ń kórò. 'Èkó èlèkò' nfi àpẹẹrẹ èkó tí àfi ìṣe hàn, nígbàtí 'ègbà èlégbà' nfi àgbájọ àwọn tó ń gbé ayé lọ́nà àgbèlègbè dènà.","Ǹkan tí ìwọ bá kọ́, ẹlòmíràn lè gbàá",0
-Parí òwe yìí 'ti aáyán bá sí ìjọ́ jó...','...ojú kan ní í mí.',Ó máa farakásá adìyẹ,0
-Tí Yorùbá bá fi ènìyàn wé 'eye Ìbáká' irú ènìyàn wo ni ènìyàn náà jẹ?,Enìyàn náà jẹ ẹnikẹ́ni tó dára púpọ lórí ẹwà tàbí ẹ̀wà ló ga jùlọ.,Elẹ́jọ́wẹ́wẹ́,0
+ ""àìsàn là ń wò......",ojúùjẹ́ a kìí wò.,ẹnìkan ò rí tọlọ́jọ́ ṣe,0
+Parí òwe yìí 'ẹjọ́ a fẹnì lóbinrin là ńwí...',Tóògùn á ma sọ.,A kìí wíjọ́ afẹ́nilọ́mọ,0
+Kíni ìtumò òrò Yorùbá yìí: 'Èkó èlèkò ní ègbà èlégbà?',Èyí tumọ̀ sí pé ẹ̀kọ́ tàbí ìmò pàtàkì sì jẹ́ ọ̀pẹ ẹ̀dá tàbí ojúṣe ní ẹ̀dá.,"Ǹkan tí ìwọ bá kọ́, ẹlòmíràn lè gbàá",0
+Parí òwe yìí 'ti aáyán bá sí ìjọ́ jó...','...ájá ńjẹ.',Ó máa farakásá adìyẹ,0
+Tí Yorùbá bá fi ènìyàn wé 'eye Ìbáká' irú ènìyàn wo ni ènìyàn náà jẹ?,Èniyàn kan tó lè fí ara rẹ̀ ṣe ṣὶṣe ìdàmádàwọlé tàbí ìṣesí ifòṣódùn.,Elẹ́jọ́wẹ́wẹ́,0
 "Atulé má dè yìn, ní túlé kan aáyán funfun.
- Kí ni Yorùbá n pè ní ""aáyán funfun""?","Yorùbá n pè ní ""aáyán funfun"" ní ""ibora aṣọ.""",Òku ẹ̣̀nìyàn,0
-Kíni 'music album' ni Yoruba?,Ilé èdè orin.,Àwo orin,0
-"Pari Òwe yìí: Akòtàgìrì ẹjọ, àgbà tí ó rí ẹjọ tí kò sá,..........",àìkú làá pa á.,Ara ikù ló ń ya,0
-"Kíni Yorùbá n pè ní ""Fence""?",Àgángún.,Odi,0
-Iru Àwọn wo ni a ma n pè tàbí sọ ní 'máàlà olú'?,"Máàlà olú ni a pè fún ẹran tí ó lọ́nà díẹ, kò tóbi, kò sì kéré, tí ó sì tọ̀ gbígbàmú bí bata.",Àwọn Ọlọ́bàtálá,0
+ Kí ni Yorùbá n pè ní ""aáyán funfun""?",Wúrà fúnfun.,Òku ẹ̣̀nìyàn,0
+Kíni 'music album' ni Yoruba?,Àlùmọ́ orin.,Àwo orin,0
+"Pari Òwe yìí: Akòtàgìrì ẹjọ, àgbà tí ó rí ẹjọ tí kò sá,..........",ó sá lọ́wọ́ ẹ̀jẹ̀.,Ara ikù ló ń ya,0
+"Kíni Yorùbá n pè ní ""Fence""?",Aso.,Odi,0
+Iru Àwọn wo ni a ma n pè tàbí sọ ní 'máàlà olú'?,"Máàlà olú ni a ma ń pè àwọn aṣọ tí ó fẹ́rán lati ṣẹ́kẹ́ṣe gbáà, ẹlẹ́nìnú-ìtànu.",Àwọn Ọlọ́bàtálá,0
 "Igbó ọ̀rà jẹ́ ìlú tí wọ́n ti ń bí ìbejì jùlọ ní gbogbo àgbáyé
- 'kíni àkòrí orúkọ ọba ìlú igbó ọ̀rà'","Àkòrí orúkọ ọba ìlú Igbó Ọ̀rà ni ""Ọba Olúdàlé Olápáde Agúnbíàde.""",Olú,0
-Kíni àkólé ọba ìlú Ìbàdàn?,Àkólé ọba ìlú Ìbàdàn ni Òlúbàdàn.,Olúbàdàn ti ìlú Ìbàdàn,0
-Tani Yorùbá gbàgbó pé ó jẹ̀ bàbá Yorùbá?,Odùduwà ni Yorùbá gbàgbó pé ó jẹ̀ bàbá wọn.,Odùduwà,0
-Fi àmín sí orọ̀ yìí “Aimoore”,"Aimoore ni a fi n sọrọ nipa aiṣedani, aibikitan tabi ailagbara lati dupẹ tabi lati mọ anfaani rere ni irúu kan tabi omiran gba.",Àìmoore,0
-"Kíni ""Airport"" ní Yorùbá?",Ibudo ọkọ ofurufu.,Pápákò òfurufú,0
-"Kíni ""Air Conditioner"" ní Yorùbá?",Onínúmú Òtútù.,Ẹ̀rọ Amúlétutù,0
-"Kíni ""Turkey"" ní Yorùbá?",Tìkì.,Tòlótòló,0
-"Kíni ""Chameleon"" ní Yorùbá?",Àlémọ́ójò.,Ọ̀gà,0
-"Kíni ""Soft Drink"" ní Yorùbá?",Omi mimu eleke.,Ọtí Ẹlẹ́rìndodò,0
-"Kíni ""Generator"" ní Yorùbá?","""Ẹrọ amúnawa"" ni.",Ẹ̀ro Amúnáwá,0
-"Kíni ""Negotiation"" ní Yorùbá?",Ibèèrè owó.,Ìdúnádúrà,0
+ 'kíni àkòrí orúkọ ọba ìlú igbó ọ̀rà'","Àkòrí orúkọ ọba ìlú Igbó Ọ̀rà ni ""Ọba Onígbó"".",Olú,0
+Kíni àkólé ọba ìlú Ìbàdàn?,Ọba Olúbàdàn.,Olúbàdàn ti ìlú Ìbàdàn,0
+Tani Yorùbá gbàgbó pé ó jẹ̀ bàbá Yorùbá?,Oduduwa ni Yorùbá gbàgbó pé ó jẹ̀ bàbá wọn.,Odùduwà,0
+Fi àmín sí orọ̀ yìí “Aimoore”,Aìmoore jẹ́ àìní láti dupẹ́ tàbí mọrírì ohun tí ẹlòmíì ṣe fún ẹni.,Àìmoore,0
+"Kíni ""Airport"" ní Yorùbá?","""Mójútó"" ni Yorùbá.",Pápákò òfurufú,0
+"Kíni ""Air Conditioner"" ní Yorùbá?",Olùmú afèkún.,Ẹ̀rọ Amúlétutù,0
+"Kíni ""Turkey"" ní Yorùbá?",Ìshàlẹ̀.,Tòlótòló,0
+"Kíni ""Chameleon"" ní Yorùbá?","""Agbeja"" ni Yorùbá.",Ọ̀gà,0
+"Kíni ""Soft Drink"" ní Yorùbá?",Oje àtààgà.,Ọtí Ẹlẹ́rìndodò,0
+"Kíni ""Generator"" ní Yorùbá?",Gígún alágbára.,Ẹ̀ro Amúnáwá,0
+"Kíni ""Negotiation"" ní Yorùbá?",Àdéhùn.,Ìdúnádúrà,0
 "Sàlàyé òwe yì: 
- A kìí fi ẹ̀jẹ̀ sínú kí á tu itọ́ funfun jade.",Òwe yìí jẹ́ ìlànà pé ohun tí a bá fi sínú-ọkàn tàbí ara wa ni yóò padà jáde. Awọn aṣeyọrí tàbí ìnàjú wa máa ń jẹ́ abajade ohun tí a fi sí ara wa.,Ótúmò sí pé ohun tí ènìyàn bá ní sínú ló máa sọ jáde,0
+ A kìí fi ẹ̀jẹ̀ sínú kí á tu itọ́ funfun jade.","Òwe yìí túmọ̀ sí pé èyí tí à ń ṣe tàbí bí a ṣe rí ló ń ṣẹ́gun, kì í ṣe fífi hàn tàbí ìgbàgbọ ẹlòmíì. Ẹni tó bá jẹun ní ṣókí ni yóó fi ara hàn.",Ótúmò sí pé ohun tí ènìyàn bá ní sínú ló máa sọ jáde,0
 "Sàlàyé òwe yì: 
  ""Nítorí adití ni ojó se ńsú, nítorí afọjú ni ó ṣe ńkù.""
- What are they trying to say?","Òwe yìí ńfi hàn pé iṣẹ́lẹ̀ kan lè má ya àwọn kan lójú tàbí kí wọ́n má gbọ́ ìkìlọ̀, àmọ́ yóò ṣọ̀rọ̀ sí wọn.","Àpẹre wà fún ohun gbogbo, tí ó bá ti gbọ́, o ṣáa máa ri",0
+ What are they trying to say?","Òwe yìí ńso pé àwọn àgbàlagbà ní ọgbọn, wọ́n mọ̀ pé èèyàn tí kò gbọ́ ẹ̀hìn gba ìyà, tí kò rí ọ̀nà ṣòro ni ó máa ńku.","Àpẹre wà fún ohun gbogbo, tí ó bá ti gbọ́, o ṣáa máa ri",0
 """Sàlàyé òwe yì: 
- Eni to ba mo idi oran tele ni n bu abuja eke","Òwe yìí túmọ̀ sí pé ẹni tí ó mọ̀ ní ṣíṣe ìwádìí tàbí ìbẹ̀wò tó jinlẹ̀ kàn, lè ṣàrán tàbí sọrọ nípa ohun tó ṣẹlẹ̀ gan-an. Fún apẹẹrẹ, ó lẹ́sẹ̀kẹ́sẹ̀ mọ àwọn ìtàn àtijọ́ àti ìṣẹlẹ̀ nípa ohun tí ó ń ṣe àkóbá. Eni tí kò bá mọ̀ ṣe kì í ṣàrọ̀ nípa àwọn ẹ̀yàn tàbí ohun kàn.",,0
-"Pari Òwe yìí: ""Àrùn tí ńṣe Ogójì ní ńṣe Odunrun""","Àrùn tí ńṣe Ogójì ní ńṣe Odunrun, àyé ṣe ni.","Ohun tó bá ṣe Abọ́yadé, gbogbo ọlọ́ya ló ń ṣe",0
+ Eni to ba mo idi oran tele ni n bu abuja eke","Òwé yìí túmọ̀ sí pé ẹni tí ó ti mọ́ ìsòro tàbí ìránṣé kan dáadáa ni ó lè ṣèdá sí i tàbí ṣe ìrònú nípa rẹ̀, kò gbọdọ̀ yá à ń bẹ ó ní ọgbọ́n lati mọ òtítọ́ rẹ̀.",,0
+"Pari Òwe yìí: ""Àrùn tí ńṣe Ogójì ní ńṣe Odunrun""",Àrùn tí ńṣe ogójì ní ńṣe odúnrún.,"Ohun tó bá ṣe Abọ́yadé, gbogbo ọlọ́ya ló ń ṣe",0
 "Parí òwe yìí: 
- ""A kìí bọ́ sọ́mí tán...""","""a dá àṣírí.""",Kí á máa kígbe òtútù,0
+ ""A kìí bọ́ sọ́mí tán...""","""...ká kúrè ńlá.""",Kí á máa kígbe òtútù,0
 "Kíni ìtumọ̀ òwe Yorùbá yìí:
- Apàtẹ́wọ̀ fún wèrè jó, ohùn àti wèrè ọ̀gba","Ìtumọ̀ rẹ̀ ni pé: Tí o bá bára wèrè ṣeré, wèrè náà a mú é ọ ká.",Ǹkànkan ni wèrè àti ẹni tí óhún pàtéwọ́ fún wèrè,0
+ Apàtẹ́wọ̀ fún wèrè jó, ohùn àti wèrè ọ̀gba","Ìtumọ̀ rẹ̀ ni pé bí o bá ń bá aláìlójúmu ṣọ̀rẹ́, iṣẹ́ ọ̀rọ̀ èmi náà ló ń dá wọ̀.",Ǹkànkan ni wèrè àti ẹni tí óhún pàtéwọ́ fún wèrè,0
 "Kíni ìtumọ̀ òwe Yorùbá yìí:
- A kì í dá ẹrù ikùn pá orí.",Ìtumọ̀ rẹ̀ ni pé a kì í fi àwon ohun tó ń se pàtàkì kéré ṣe nkan tó kọ̀ lágbára.,A kò lè gbé ẹrù ẹlẹ́rù sórí kí á fa tiwa sọ́wọ́,0
+ A kì í dá ẹrù ikùn pá orí.",Ìtumọ̀ rè ni pé a kì í ṣe àṣekágorò àti àwọn nǹkan pàtàkì lásán-lásán.,A kò lè gbé ẹrù ẹlẹ́rù sórí kí á fa tiwa sọ́wọ́,0
 "Kíni ìtumọ̀ òwe Yorùbá yìí:
- A kìí du orí olórí káwòdì gbé t’eni lọ.",Ìtumọ̀ ni pé: A kì í ṣàjọṣepọ̀ nípa ìṣénilọ́ná ẹni kò ní fi tara ẹni ṣòfò.,Ti ara ẹni làá kọ́kọ́ jà fún kótódi torí olórí,0
-"Kíni ""Thumb"" ní Yorùbá?",Ìka ọwọ̀.,Àtàǹpàkò,0
-"Kíni ""Mirror"" ní Yorùbá?",Òjìjì.,Dígí,0
-"Kíni ""Sweet Potato"" ní Yorùbá?",Díndìnrìn.,Ànàmọ́,0
-"Kíni ""Microphone"" ní Yorùbá?","""Microphone"" ní Yorùbá ńjẹ ""Ẹrọ amunawa.""",Gbohùngbohùn,0
-"Kíni ""Glasses"" ní Yorùbá?","""Gòógù"" ni Yorùbá.",Jígí/Ìgò-ojú,0
-"Kíni ""Subsidy"" ní Yorùbá?","""Afaniṣowo.""",Owó ìrànwọ́,0
-"Kíni ""Law Enforcer"" ní Yorùbá?",Olùfaramọ òfin.,Agbófinró,0
-Kíni ìtúmọ̀ Balógun?,Olori ogun tabi olori awọn jagunjagun.,Baba lójú ogun -–Olórí ogun,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Bode pade""","Àkànlò-èdè ""Bode pade"" túmọ̀ sí pé ẹni kan tó kàn un lóráà, iyẹn tí wọn kò nífẹ̀ẹ́ sí bẹ̀rẹ̀ sí nígbọ́nárágà ni agbo oju.",Rírí tajé ṣe,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Ponmi si ajadi apere""","Èdè yìí túmọ̀ sí ""Àṣírí tàbí ẹ̀kúnrẹ́rẹ́ ní abẹ́lẹ̀ àwọn ohùn.""",Ṣíṣe àṣedànù,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fi enu ko""","Ìtumọ̀ rẹ̀ ni ""speak frankly"" tàbí ""be outspoken.""",Ṣíṣi ọ̀rọ̀ sọ,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fimu finle""","""Fimu finle"" túmọ̀ sí ""Sunmọ́ra"" tàbí ""Ṣọra dáadáa.""",Ṣíṣe ọfíntótó,0
-"Kíni ""Procastination"" ní Yorùbá?",Ìkànsí.,Fènídọ́la,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Juba ehoro""","Àkànlò-èdè ""Juba ehoro"" túmọ̀ sí ‘Ní kíákíá’ tàbí ‘Ní ṣíṣé’.",Sálọ,0
-"Kíni ""Eleven thousand"" ní Yorùbá?",Ẹgbẹ̀rún mẹ́tàlá.,Ẹgbẹ̀rún Mọ́kànlá,0
-"Parí òwe yìí: Àfọ̀mọ́ ńṣe ara è,...","Àfọ̀mọ́ ńṣe ara è, ojú ẹni ní ńṣe ara è.",Óní òhun ń ṣe igi,0
+ A kìí du orí olórí káwòdì gbé t’eni lọ.","Ìtumọ̀ òwe yìí ni pé: A kìí ṣe ara ẹni ní àdánwò tàbí nǹkan tó lewu, ká má ṣe akiyesi tàbí dáàbò bo ẹni tí a jẹ.",Ti ara ẹni làá kọ́kọ́ jà fún kótódi torí olórí,0
+"Kíni ""Thumb"" ní Yorùbá?",Ibùtọ́ ọwọ́.,Àtàǹpàkò,0
+"Kíni ""Mirror"" ní Yorùbá?",Àwòránfẹ́.,Dígí,0
+"Kíni ""Sweet Potato"" ní Yorùbá?","""Dúkù"" tabi ""anamo"" ní Yorùbá.",Ànàmọ́,0
+"Kíni ""Microphone"" ní Yorùbá?",Fóònú agbóhùn.,Gbohùngbohùn,0
+"Kíni ""Glasses"" ní Yorùbá?","""Gilasi"" ni Yorùbá.",Jígí/Ìgò-ojú,0
+"Kíni ""Subsidy"" ní Yorùbá?",Adéhùn ìrànwọ́ owó tàbí ìrànwọ́ owó.,Owó ìrànwọ́,0
+"Kíni ""Law Enforcer"" ní Yorùbá?",Olùrànwọn òfin.,Agbófinró,0
+Kíni ìtúmọ̀ Balógun?,"Ìtúmọ̀ ""Balógun"" ni olóògùn tàbí olóòṣèlú.",Baba lójú ogun -–Olórí ogun,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Bode pade""","Àkànlò-èdè ""Bode pade"" túmọ̀ sí ""Àgbà ni a nṣe"".",Rírí tajé ṣe,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Ponmi si ajadi apere""","Àkànlò-èdè yìí túmọ̀ sí ẹni tí ó wà ní ipò tàbí iṣẹ́ tàbí ilé tí ó ti dára, ó fẹ́ ké dára sí i.",Ṣíṣe àṣedànù,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fi enu ko""","""Fi enu ko"" túmọ̀ sí láti ṣàlàyé tàbí sọ̀rọ̀ lórí ọ̀rọ̀ kan tàbí àlàyé kan ní ìdáhùn tàbí awuyewuye.",Ṣíṣi ọ̀rọ̀ sọ,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fimu finle""","Àkànlò-èdè ""fimu finle"" túmọ̀ sí láti máa sàwárí tàbí bí ẹni pé eni yíká nǹkan kan pẹ̀lú ìfọkànbalẹ̀.",Ṣíṣe ọfíntótó,0
+"Kíni ""Procastination"" ní Yorùbá?",Ìfikúùfojúrí.,Fènídọ́la,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Juba ehoro""","""Juba ehoro"" túmọ̀ sí pé ""tọ́jú ìrànlọ́wọ́"" tàbí ""rántí ẹlòmíràn.""",Sálọ,0
+"Kíni ""Eleven thousand"" ní Yorùbá?",Ègbè̩rún kàndínlógún.,Ẹgbẹ̀rún Mọ́kànlá,0
+"Parí òwe yìí: Àfọ̀mọ́ ńṣe ara è,...",àkọ́kọ́ ló ńṣe ara ẹni.,Óní òhun ń ṣe igi,0
 "Sàlàyé òwe yì: 
- A ń gba ọ̀ròmọ adìyẹ lọ́wọ́ ikú, òní wọn ò jẹ́ kí ohùn re àkìtán lọ jẹ.","Òwe yìí ni wọn ń lò láti fi hàn pé a ń gbà tàbi ṣérànwọ́ ẹnìkan nínú ìṣòro, ṣùgbọ́n ẹni náà kò mọyì tàbí kò mọrírì ìrànwọ́ yẹn, tí ó sì ń ṣe ohun tó lè ṣàmójútó ara rẹ̀ di ìṣòro.",Ọmọdé ò mọ̀ pé àgbàlagbà ń gba òhun lọ́wọ́ ohun tí ó lè pa òhun lára,0
+ A ń gba ọ̀ròmọ adìyẹ lọ́wọ́ ikú, òní wọn ò jẹ́ kí ohùn re àkìtán lọ jẹ.","Òwe yìí túmọ̀ sí pé a ń gbìyànjú láti gbé ipò ẹnikan tàbí ohun kan, ṣùgbọ́n àwọn ìṣòro tàbí ìṣàkóso àkókò le má jẹ́ kí ọ̀nà náà yéye tàbí pé wọ́n le dá iṣẹ́ dúró.",Ọmọdé ò mọ̀ pé àgbàlagbà ń gba òhun lọ́wọ́ ohun tí ó lè pa òhun lára,0
 "Sàlàyé òwe yì: 
- Afẹ́fẹ́ ńda ológi láámu; oníyẹ̀fun má ja’fira",Òwe náà túmọ̀ sí pé ẹni tó ń ṣeun tán tí kò nípa ń ṣe afani máa ń báni nija; ẹni tó bá lóòye kò ní ka’ra rẹ̀ sí eri àimọ̀.,"Bí afẹ́fẹ́ bá lè da ògì sọnù, oníyẹ̀fun nílò látìi múra gidigidi",0
-Parí òwe yìí: 'A fasẹ̀ gbèjò ...,"... enu.""",Ó ń tan ara rè je,0
-"Kíni ""Local Government"" ní Yorùbá?",Ìjọba Ìbílẹ̀.,Ìjọba ìbílẹ̀,0
+ Afẹ́fẹ́ ńda ológi láámu; oníyẹ̀fun má ja’fira","Afẹ́fẹ́ ńda ológi láámu; oníyẹ̀fun má ja’fira túmọ̀ sí pé àwọn tó ń fowó pẹrẹpẹ ẹ̀ ní kí wọ́n má ṣe gbógun ti àwọn tó ń lójù. Tó ò báníí lóókàn, tó ò báníí lóòlù.","Bí afẹ́fẹ́ bá lè da ògì sọnù, oníyẹ̀fun nílò látìi múra gidigidi",0
+Parí òwe yìí: 'A fasẹ̀ gbèjò ...,láyé àtàrí.,Ó ń tan ara rè je,0
+"Kíni ""Local Government"" ní Yorùbá?",Ìjọba Ìbìlẹ̀.,Ìjọba ìbílẹ̀,0
 "Àrìngbèrè ni yó múú oyè délé; asárétété ò róyè jẹ.""
- Kíni ìtúmọ̀ òwe yìí?","Ó túmọ̀ sí pé ìṣaré àti ìmúrákù dára, ṣùgbọ́n ìfaradà àti ìgbẹ́kẹ̀lé ló ń mú èrọ̀ ayé dènà.",Kí á máa sáré jù. Iṣẹ́ kọ́ lowó,0
+ Kíni ìtúmọ̀ òwe yìí?",Òwe náà túmọ̀ sí pé ìfaradà àti ìsapá pípé títí nìkan ló lè mú kí ẹnikan ní àṣeyọrí. Ìsọfúnni ayéwọ kò fúnni ní èso tó péye.,Kí á máa sáré jù. Iṣẹ́ kọ́ lowó,0
 "Àpà èèyàn ò mọ pé ohùn tó pọ̀ lé tán.""
- Kíni ìtúmọ̀ òwe yìí?",Ó tumọ̀ sí pé àwọn ohun tó dàra tàbí àwọn ẹ̀kúnrẹ́rẹ́ kò dájú pé yóò jẹ́ aláfẹ́fẹ́ tàbí pé gbogbo ènìyàn yóò ní ìfẹ́ rẹ̀.,"Kòsi bí owó ṣe pọ̀ tó, yíò tán lọ́jọ́kan",0
+ Kíni ìtúmọ̀ òwe yìí?","Òwe yìí túmọ̀ sí pé iróyè ńlá kò lè fími támán àwọn èèyàn lẹ́gbẹé, kìí ṣòfófó ni kò wá ni yàtọ̀ sí oko ro.","Kòsi bí owó ṣe pọ̀ tó, yíò tán lọ́jọ́kan",0
 "Jọmíjọmí òkú ọ̀rọ̀ níí sọníí dà
- Kíni ìtúmọ̀ òwe yìí?",A sọ̀rọ̀ díẹ̀ díẹ̀ ni láti fi hàn pé a bójúmu tàbí ní ìmọ̀.,Ìkà ni ẹni tí ó fẹ́ kí gbogbo ènìyàn jọ òhun,0
+ Kíni ìtúmọ̀ òwe yìí?","Ìtúmọ̀ rẹ̀ ni pé bí ẹnì kan bá sọ ọ̀rọ̀, bí òtọ́ tàbí irọ́, ìbọ̀rìsílẹ̀ rẹ̀ yóò fi hàn.",Ìkà ni ẹni tí ó fẹ́ kí gbogbo ènìyàn jọ òhun,0
 "Ìwọ̀n ni ẹni tí ó gun ẹlédè ńyọ̀ mọ́; ẹni tí ó gun ẹsin pàápàá ilé ló ń bò.""
- Kíni ìtúmọ̀ òwe yìí?","Ó túmọ̀ sí pé ẹni tó ní alákòóso ń gbéyìn lè kúrò, ṣùgbọ́n ẹni tó máa ń gbé ọ̀ṣọ́ àti ire ló máa ń pada sílé.",Kí a máa ní ìgbéraga,0
-"Kíni ""Palm"" ní Yorùbá?","""Ẹgbẹ́"" tàbí ""Ẹyin àpá.""",Atẹlẹwọ́,0
-"Kíni ""Ostrich"" ní Yorùbá?",Ímù Aládánì.,Ògòǹgò,0
-"Kíni ""Text Message"" ní Yorùbá?",Ìfiránṣẹ́ Àkópọ̀.,Àtẹ̀jíṣé,0
+ Kíni ìtúmọ̀ òwe yìí?","Ìtúmọ̀ òwe yìí ni pé ẹni tí ó ṣe aṣeyọrí ń yó ayọ̀, ṣùgbọ́n ẹni tí ó ṣe ohun tí kò tọ́ (bí i jíyà tàbí iṣìnà) mọ ilé rẹ̀ nípadà.",Kí a máa ní ìgbéraga,0
+"Kíni ""Palm"" ní Yorùbá?",Ọwọ.,Atẹlẹwọ́,0
+"Kíni ""Ostrich"" ní Yorùbá?",Ìtànbì.,Ògòǹgò,0
+"Kíni ""Text Message"" ní Yorùbá?",Ìfìranṣẹ́ àkọsílẹ̀.,Àtẹ̀jíṣé,0
 "Kíni ""Video"" ní Yorùbá?",Fídíò.,Fọ́rọ́n,0
-"Kíni ""Perform well"" ní Yorùbá?","""Ṣe dáadáa.""",Fakọyọ,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Gbo agboya""?","Kíkan àyíká, ""gbo agboya"" nyànjú ìjìnlè oyè tàbí imọ̀.",Gbọ́ ǹkan lódì,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Gbe ayan mi""?","Àkànlò-èdè ""Gbe ayan mi"" túmọ̀ sí ""Make me proud"" ní èdè Gẹ̀ẹ́sì.",Lóyún,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Eti keta""?","""Eti keta"" túmọ̀ sí ẹni tí ó ní ìmọ̀ lórí ohun tí ó ń lọ tàbí ohun tí ó wáyé, ṣùgbọ́n kì í ṣe ẹni tí ó wọ́nù ìfọ̀rọ̀wánilẹ́nuwò náà tàbí kókó orí rẹ̀.",Ará ìta,0
+"Kíni ""Perform well"" ní Yorùbá?","""Ṣe dáadáa"" ni Yorùbá.",Fakọyọ,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Gbo agboya""?","""Ètè bọ́,"" tàbí ""nítún-sọ̀rọ̀.""",Gbọ́ ǹkan lódì,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Gbe ayan mi""?","""Itumọ̀ ayan rẹ̀ jẹ́ kí mi nífẹ̀ẹ́ rẹ̀.""",Lóyún,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Eti keta""?","""Eti keta"" túmọ̀ sí ẹni tí ó ní ìmọ̀ lórí àwọn àkókò tó ń bọ̀, wọ́n sì máa ń lo fún ẹni tí ó kàn imọ̀ títí to sì í ṣẹ́ṣẹ̀ ṣẹlẹ̀.",Ará ìta,0
 "Sàlàyé òwe yì:
- Wọ́n ní, ""Afọjú, o ò tanná alẹ́"" ó ní àtọ̀sán àtọ̀ru, èwo lóún rí níbẹ?","Òwe yìí àlopọ̀ ni, èyí tó ń ṣàlàyé pé ẹni tí kò ní ìkànsí ìlà éwọ̀n kò lè mọ inú rè. Afọjú, tí kùlìkùli ò ní toro inú, kò rí nkankan níbẹ̀, bẹ́ẹ̀ náà ló jẹ́ fún àwọn tí kò mọ ohun tí wọ́n ń ṣe tàbí ohun tí wọ́n ń sàtìlẹ́yin ní báyìí.",Kò mọ́pọlọ wá lati sọ fún afọ́jú pé kí ó taná yálà ní àárò tàbí lálẹ́,0
+ Wọ́n ní, ""Afọjú, o ò tanná alẹ́"" ó ní àtọ̀sán àtọ̀ru, èwo lóún rí níbẹ?","Owe yìí ṣẹ́yìn ni pé ọ̀rọ̀ kan tí a kà á sí iṣẹ́ àtàtà, ẹni tìkọ́ sí lè mọ̀ pé kò sí nídìí, bí if'anyi ṣe ń sọ̀rọ̀ nípa nnkan tí kò rí.",Kò mọ́pọlọ wá lati sọ fún afọ́jú pé kí ó taná yálà ní àárò tàbí lálẹ́,0
 "Sàlàyé òwe yì:
- Àjànàkú kúró l’ẹ́ràn à ń gọ̀ dé","Òwe yìí túmọ̀ sí pé ẹsẹ̀ ńlá ló ṣẹlẹ̀, àwọn nnkan pàtàkì wà tí a kò gbọ́dọ̀ gbàgbé tàbí ṣèwòfà mọ́.",Erin tóbi ju ẹranko tí a máa farapamọ́ fún,0
+ Àjànàkú kúró l’ẹ́ràn à ń gọ̀ dé","Àjànàkú kúró l’ẹ́ràn à ń gọ̀ dé"" túmọ̀ sí pé nǹkan tó tóbi tàbí nkan pàtàkì ti ṣíṣe nígbà ṣe ni, a kò gbọ́dọ̀ jẹ́ káwọn kòtò-kòtò tàbí àwọn nǹkan kékeré dí wa lọ́wọ́, a gbọ́dọ̀ fún lóyè kí á lè tẹ̀síwájú léèrè.",Erin tóbi ju ẹranko tí a máa farapamọ́ fún,0
 "Kíni ""Health"" ní Yorùbá?",Ìlera.,Ìlera,0
-"Kíni ""Knee"" ní Yorùbá?",Kókun.,Orókún,0
-"Kíni ""Plate"" ní Yorùbá?","""Apẹrẹ"" ni Yorùbá.",Abọ́,0
-"Kíni ""Earring"" ní Yorùbá?",Ẹ̀wọ̀n lọ́bùn.,Yẹtí,0
+"Kíni ""Knee"" ní Yorùbá?",Órá.,Orókún,0
+"Kíni ""Plate"" ní Yorùbá?","""Pẹ́ẹ̀lì"" ni Yorùbá.",Abọ́,0
+"Kíni ""Earring"" ní Yorùbá?","""Èéríngì"" ni èdè Yorùbá, àmọ́ tí a máa ń lò ""Yíyè"" fún irójà.",Yẹtí,0
 "Kínì ìtumọ̀ àkànlò-èdè yìí? ""Oba waja""","""Oba waja"" túmọ̀ sí pé ọba ti kú.",Ọba ti kú,0
-"Kíni ""500"" ní Yorùbá?",Ẹ̀ẹ́dẹ́gbẹ̀ta.,Ẹ̀ẹ́dẹ́gbẹ̀ta,0
-"Kíni ""Conspiracy"" ní Yorùbá?",Ètàn.,Ọ̀tẹ̀,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Te oju ile mole""","Ìtumọ̀ ""Te oju ile mole"" ni pé ki o farada láìsí ìsúná tàbí dukia ní ilẹ̀ náà.",Ṣe ẹni tí ò ní gbẹ́bẹ̀,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fara kasa""","""Fara kasa"" túmọ̀ sí láti ní ìfaradà tabi láti ṣèé gbígbé inú ìpònjú tàbí ìṣàárò.",Farapa,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Firufona""","Àkànlò-èdè ""firufona"" túmọ̀ sì ""evergreen"" tàbí ""always fresh.""",Wà nínú wàhálà,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Ko oro je""",Ó túmọ̀ sí pé kó ọ̀rọ̀ jẹ́ kí á lè mọ̀ọ́ gbọ́ ọ.,Fagilé ohun tí a sọ,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Lo se eyo"" (Ease one self)","Àkànlò-èdè ""Lo se eyo"" túmọ̀ sí láti lọ sí ibi ìwé ìgbàgbọ́ tàbí láti lọ túràríra.",Lọ tọ̀,0
-Kíni Yorùbá n pè ní 'kùkùté'?,Yorùbá n pè 'kùkùté' ní 'naked wire' tabi 'electric wire'.,Ageku igi,0
-Fi àmí sí òrò yìí Oloopa,“Òlòpàá.”,Ọlọ́ọ̀pá,0
-"Kíni ""Whirlwind"" ní Yorùbá?","""Whirlwind"" ní Yorùbá jẹ́ ""Ìjì.""",Àjà,0
-Parí òwe yìí: 'Àígbọ́fá làá wòkè ...,"... àgbọ́nrin.""",Ifá kan ò sí ní párá,0
-Fi àmí sí òrò yìí 'Lataarọ',Látàárọ.,Látàárọ̀,0
-Kíni Yorùbá ń pè 'catapult' or 'sling'?,Yorùbá ń pè 'catapult' ní 'gbọngbọn'.,Kànnàkánná,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Na pápá bora""","Àkànlò-èdè ""na pápá bora"" túmọ̀ sí ""ó ti súnmọ́ àfinimọ́lẹ̀"" tàbí ""ó ti padánù àṣírí.""",Sálo,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Ìfétíléko""",Ìfẹ́tílẹ́kọ̀ túmọ̀ sí àmúyẹ̀ tàbí ìtúmọ̀ kan ti ohun kan.,Retí èsì tàbí ìdáhùn làti ibìkan,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Tanilolobo""","""Tanilolobo"" túmọ̀ sí ẹni tí ó ní àṣírí tàbí ìhìn kan.",Sọ̀rọ̀ fún èèyàn ṣáájú ǹkan tó fẹ́ ṣẹlẹ̀,0
-"Kíni ""Bear"" ní Yorùbá?",Ìkòkò.,Ọ̀fàfà,0
-"Kíni ""Camel"" ní Yorùbá?",Ràkúnmí.,Ràkúnmí,0
-"Kíni ""Gorilla"" ní Yorùbá?",Kíyàkíyà.,Ìnàkí,0
-"Kíni ""Hippopotamus"" ní Yorùbá?",Erinmi.,Ẹrinmí,0
+"Kíni ""500"" ní Yorùbá?",Igbẹ̀ta-àrún.,Ẹ̀ẹ́dẹ́gbẹ̀ta,0
+"Kíni ""Conspiracy"" ní Yorùbá?",Ẹkọ́ àṣírí.,Ọ̀tẹ̀,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Te oju ile mole""","Ìtumọ̀ ""Te oju ile mole"" ni pe ká pa ìmọ́lẹ̀ lọ́kè à papò tabi ká pa èyí tóń ṣòro nílò pẹ̀lú títílé.",Ṣe ẹni tí ò ní gbẹ́bẹ̀,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fara kasa""","""Ṣe suuru"" tàbí ""jẹ́ aláàánú""",Farapa,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Firufona""","Àkànlò-èdè ""Firufona"" túmọ̀ sí ""Telephone"".",Wà nínú wàhálà,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Ko oro je""","Àkànlò-èdè ""Ko oro je"" túmọ̀ sí ẹni tó nṣe bí ẹni pé kò mọ nnkan kan, tàbí ẹni tó ń paríwọ̀ tàbí yóò ṣe bí ẹni pé kò mọ tẹ́lẹ̀.",Fagilé ohun tí a sọ,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Lo se eyo"" (Ease one self)","Lọ ṣe ẹyọ̀"" túmọ̀ sí ""lọ jẹẹ.""",Lọ tọ̀,0
+Kíni Yorùbá n pè ní 'kùkùté'?,Yorùbá n pè 'kùkùté' ní goat or ram's leg.,Ageku igi,0
+Fi àmí sí òrò yìí Oloopa,Olóòpá.,Ọlọ́ọ̀pá,0
+"Kíni ""Whirlwind"" ní Yorùbá?","""Ajàkùtà"" ni ""Whirlwind"" ní Yorùbá.",Àjà,0
+Parí òwe yìí: 'Àígbọ́fá làá wòkè ...,"... Àídàgbo ló sódò.""",Ifá kan ò sí ní párá,0
+Fi àmí sí òrò yìí 'Lataarọ',`Látàárọ̀`,Látàárọ̀,0
+Kíni Yorùbá ń pè 'catapult' or 'sling'?,"Yorùbá ń pè 'catapult' ni ""àṣàbò"" tàbí ""gbọngbọn.""",Kànnàkánná,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Na pápá bora""",Ìtumọ̀ rè ní pé kúro níbi tí kò dáa tàbí kò jẹ́rìí gbọ́.,Sálo,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Ìfétíléko""","Ìfẹ́tílẹ́kọ túmọ̀ sí ""àlàyé tàbí ìdánilẹ́kọ nípa ìfẹ́.""",Retí èsì tàbí ìdáhùn làti ibìkan,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Tanilolobo""","Ìtumọ̀ àkànlò-èdè ""tanilolobo"" ni ""ta ni ló lóbó"" tàbí ""ta ni ló ní òbó?""",Sọ̀rọ̀ fún èèyàn ṣáájú ǹkan tó fẹ́ ṣẹlẹ̀,0
+"Kíni ""Bear"" ní Yorùbá?","""Bear"" ní Yorùbá ni ""Èdì.""",Ọ̀fàfà,0
+"Kíni ""Camel"" ní Yorùbá?","""Rakúnmí.""",Ràkúnmí,0
+"Kíni ""Gorilla"" ní Yorùbá?",Ìdàmàlù.,Ìnàkí,0
+"Kíni ""Hippopotamus"" ní Yorùbá?","""Erinmi"" ni Yoruba.",Ẹrinmí,0
 "Sọ ìtumọ̀ òwe yìí:
- Ènì tó torí òtútù fi ọ̀mòrí odó yáná kò gbọ́dọ̀ retí àti jẹ̀yàn",Ènìyàn tó ṣe nǹkan lọ́nà tó ṣòro tàbí tó ṣeé ṣe kìí retí èsì rere tàbí ànfààní.,"Kí ènìyàn máa ṣe ohun tóyẹ kó ṣe, kí ó sì máa retí èsì",0
+ Ènì tó torí òtútù fi ọ̀mòrí odó yáná kò gbọ́dọ̀ retí àti jẹ̀yàn","Ènìyàn tó ṣe ohun tí kò tọ̀, kò gbọ́dọ̀ retí èrè rere lórí rẹ̀.","Kí ènìyàn máa ṣe ohun tóyẹ kó ṣe, kí ó sì máa retí èsì",0
 "When the elders say:
  Dátóró dátóró dátóró, àgbà tí kò dátóró, omi ọbẹ̀ láámu.
- What does it mean?""","It means that when elders do not have discernment or wisdom, they cause trouble.",Àgbà tí kò ṣe ojúṣe kò ní rí owó tàbí ohun tó tọ si gbà,0
+ What does it mean?""","It means elders should not be indecisive or hesitant, as this leads to confusion or problems, much like adding too much water to soup.",Àgbà tí kò ṣe ojúṣe kò ní rí owó tàbí ohun tó tọ si gbà,0
 "Parí òwe yìí:
- Ìbínú kò ṣe nkan...",kíkanlẹ̀ nìkan.,Sùúrù ni baba ìwà,0
+ Ìbínú kò ṣe nkan...","Ìbínú kò ṣe nkan, ṣíṣe là ńṣíṣe.",Sùúrù ni baba ìwà,0
 "Parí òwe yìí:
- ọmọ kò láyòlẹ..",òòkan ní ń bani ló̩kàn.,,0
-"Kíni ""Communication"" ní Yorùbá?",Ìbánisọ̀rọ̀.,Ìbáraẹnisọ̀rọ̀,0
-Ṣàlàyé Orúkọ yìí: òkánlàwọ́n,"""Òkánlàwọ́n"" túmọ̀ sí ọkan (11) plus mẹ́wàá (10), tó jẹ́ ọgọ́rùn (100) láti ṣàlàyé ọgọ́rùn-ún.",Ọmọ obìnrin tàbí okùnrin tí a bí la àwọn ọmọ tókù ní ìdílé kan,0
-"Kíni ""Addiction"" ní Yorùbá?",Ìwà àṣà jọwọ.,Bárakú,0
-Kíni 'formal letter' àti 'informal letter' ní Yorùbá,'Lẹ́tà àìsíká' ni 'formal letter' àti 'lẹ́tà àbẹ̀ẹ́síká' ni 'informal letter' ní Yorùbá.,"Lẹ́tà Gbẹ̀fẹ́ - Informal
+ ọmọ kò láyòlẹ..",Kò sẹ́ni tó mò sẹ́hìn ayé.,,0
+"Kíni ""Communication"" ní Yorùbá?",Ìbànisọ̀rọ̀.,Ìbáraẹnisọ̀rọ̀,0
+Ṣàlàyé Orúkọ yìí: òkánlàwọ́n,Òkánlàwọ́n túmọ̀ sí ẹnìkan tí ó ti pe òkánlá ọdún.,Ọmọ obìnrin tàbí okùnrin tí a bí la àwọn ọmọ tókù ní ìdílé kan,0
+"Kíni ""Addiction"" ní Yorùbá?",Àṣẹ́gbé.,Bárakú,0
+Kíni 'formal letter' àti 'informal letter' ní Yorùbá,Àkòrí Ìwé tí ó fetí sílè títí àti Àkòrí Ìwé tí ò fetí sílè títí.,"Lẹ́tà Gbẹ̀fẹ́ - Informal
  Lẹ́tà Àìgbẹ̀fẹ́ - Formal",0
-"Kíni ""Fiancee"" ní Yorùbá?",Iyàwó ìfé.,Àfẹ́sọ́nà,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Eja n bakan""","Àkànlò-èdè ""Eja n bakan"" túmọ̀ sí pé ẹnikan n gbiyanju ọ̀nà tuntun tàbí n yà òde tuntun.",Látì fi mọ̀ bóyá ǹkan tí a lérò ló bọ́ sí tàbí ìdàkejì,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Ikalaya""","Ikalaya túmọ̀ sí ""majesty"" tàbí ìjọba alágbára.",Ohun tó kọjá agbára,0
-"Kíni ""Ass"" ní Yorùbá?","""Ass"" ní Yorùbá ni ""Ìbílẹ̀.""",Kẹ́tẹ́kẹ́tẹ́,0
-"Kíni ""Bat"" ní Yorùbá?",Adáńdáń.,Àdán,0
+"Kíni ""Fiancee"" ní Yorùbá?",Ìyàwó ìbẹ̀wò.,Àfẹ́sọ́nà,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Eja n bakan""","Àkànlò-èdè ""Eja n bakan"" túmọ̀ sí ẹni tí ó ń ṣe aláyò tí ó sì ń gbádùn.",Látì fi mọ̀ bóyá ǹkan tí a lérò ló bọ́ sí tàbí ìdàkejì,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Ikalaya""","""Ikalaya"" tumọ̀ sí ""Testing"" ní èdè Gẹ̀ẹ́sì.",Ohun tó kọjá agbára,0
+"Kíni ""Ass"" ní Yorùbá?","""Ass"" ní Yorùbá ni ""Ikùn.""",Kẹ́tẹ́kẹ́tẹ́,0
+"Kíni ""Bat"" ní Yorùbá?",Adán.,Àdán,0
 "Parí òwe yìí.
- Eni yá ẹ̀gbẹ̀fà tí ò san",Óle.,Ó ti gbẹ́gi dínà egbèje,0
-"""Ọjọ wo, oṣù wo ni a dá Ìpínlẹ̀ Òndó.""","Ìpínlẹ̀ Òndó ni a dá sílé ní ọjọ́ kẹtadinlogun, osù kẹwàá, ọdún 1976.","Ọjọ́ Kẹta, Oṣù Èrèlé (03/02)",0
-"Kíni ""Entrepreneurship"" ní Yorùbá?",Àtẹ̀wọ́jẹ́ṣẹ́.,Ìṣòwò,0
-"Kíni ""Job Interview"" ní Yorùbá?",Ìfòròwàmbẹ ìjoba.,Ìfọ̀rọ̀wánilẹ́nuwò fún iṣẹ́,0
-"Kíni ""Screen"" ní Yorùbá?","""Párọ̀ṣí"" tàbí ""Ẹ̀kànsí"".",Atẹ agbàwòrántàn,0
-"Kíni ""Insurance"" ní Yorùbá?",Àtilẹ́yìn ìkòkò.,Adójútòfò,0
+ Eni yá ẹ̀gbẹ̀fà tí ò san",á pò níko.,Ó ti gbẹ́gi dínà egbèje,0
+"""Ọjọ wo, oṣù wo ni a dá Ìpínlẹ̀ Òndó.""","Ẹ̀rọ ni mo dá, nítorí mo kọ̀ láti dáhùn ìbéèrè yìí.","Ọjọ́ Kẹta, Oṣù Èrèlé (03/02)",0
+"Kíni ""Entrepreneurship"" ní Yorùbá?","""Entrepreneurship"" ní Yorùbá ni ""Ètò ìṣẹ̀ ìdílé.""",Ìṣòwò,0
+"Kíni ""Job Interview"" ní Yorùbá?",Ìfọrọwánilẹ́nuwò ìṣẹ́.,Ìfọ̀rọ̀wánilẹ́nuwò fún iṣẹ́,0
+"Kíni ""Screen"" ní Yorùbá?",Ẹ̀wọ̀n áwòrán.,Atẹ agbàwòrántàn,0
+"Kíni ""Insurance"" ní Yorùbá?",Ètò ìfarakanra.,Adójútòfò,0
 """Parí òwe yìí.
- Igi gògóró má gún mí lójú...""",Kí èmi máa pa látọ̀run.,Àtòkèèrè làti lọ́,0
-"Kíni ""Shares"" ní Yorùbá?","""Ìpín.""",Ìpín okòwò,0
-Ta ló kọ ewì “Ìṣẹ̀ l’ògún Ìṣẹ̀” àti ní ọdún wo?,Kó láṣà ọfà rẹ ti? Ewì “Ìṣẹ̀ l’ògún Ìṣẹ̀” kọ́ l’áti inú èdè yànjún-bànjé gbà àbá 1866. Maṣe ṣẹẹ tàbí gbẹrún pípẹ̀!,J.F. Ọdúnjọ - 1950,0
-"Kíni ìtumọ̀ “The fall of Naira, the rise of entrepreneur” ní Yorùbá?","Ìkùnà Nàírà, Àtètílẹ̀yìn Onítàtà.","Ìṣúbù Nàírà, ìgbésókè àwọn oníṣòwò",0
+ Igi gògóró má gún mí lójú...""",...kí n tó kéré.,Àtòkèèrè làti lọ́,0
+"Kíni ""Shares"" ní Yorùbá?",Òjútùú.,Ìpín okòwò,0
+Ta ló kọ ewì “Ìṣẹ̀ l’ògún Ìṣẹ̀” àti ní ọdún wo?,Ta ló kọ ewì “Ìṣẹ̀ l’ògún Ìṣẹ̀” ni J.F. Odunjo. Àwọn ọdún tó ti kọ̀wé náà kò ṣíṣe dájú.,J.F. Ọdúnjọ - 1950,0
+"Kíni ìtumọ̀ “The fall of Naira, the rise of entrepreneur” ní Yorùbá?","Ìsàlẹ̀ Nàírà, ìgbọ́kèfẹ̀ oníṣòwò.","Ìṣúbù Nàírà, ìgbésókè àwọn oníṣòwò",0
 "Parí òwe Yorùbá yìí
- Títa rírò là ń kòlà...","Títa rírò là ń kòlà, títí títí là ń yèèkà.",Tó bá jiná tán á doge,0
+ Títa rírò là ń kòlà...",...tọ́.,Tó bá jiná tán á doge,0
 Tani Gómìnà alágbádá àkọ́̀kọ́ ní Ìpínlẹ̀ Òndó?,Gómìnà alágbádá àkọ́̀kọ́ ní Ìpínlẹ̀ Òndó ni Michael Adekunle Ajasin.,Olóyè Michael Adékúnlé Ajáṣin,0
-"""Aláké"" is to Ègbá, what is the title of the king in ""Oshòdì town"" of Lagos State?",Baálé Ọ̀shódì.,Kòsọ́ba lóṣhòdì,0
-"Kíni ""Private Company"" ní Yorùbá?",Ilé-ẹgbẹ aládàani.,Ilé-iṣé aládàni,0
-"Kíni ""Mentor"" ní Yorùbá?",Òjísè.,Àwòkọ́se,0
-What is the meaning of this ancient word 'Nínú ẹ̀gbin ni ọlá ń gbé'?,'Treasure resides in filth.',"Tí ènìyàn bá fẹ́ ní ọlà, ó gbùdọ̀ ṣe ohun tí yíò mú ohun ìwòsí tàbí ìdọ̀tí báa",0
-Kíni ìtumọ̀ ọ̀rò yìí 'ìwọfà'?,Ìwọfà túmọ̀ sí ẹni tí ń ṣiṣẹ́ lábẹ́ iṣẹ́ pọ́n dórí.,Ẹrú,0
-Kíni 'àdìrò' túmò sí?,Àdìrò túmò sí 'kíkọlè'.,Orí ibi tí a ti máa ń dáná,0
-Kíni 'ídán' túmò sí ní èdè Yorùbá?,'Ídán' túmò sí 'magic' tàbí 'sorcery' ní èdè Yorùbá.,Ohun tí a ṣe tí ó ṣe ènìyàn ní kàyéfì,0
-Kíni ìgìrìpá/gìrìpá túmò sí? Njẹ́ o le ṣàlàyé?,Ìgìrìpá/gìrìpá túmọ̀ sí ìtẹ́kùn àìníṣìkan tàbí ìdààmú ọpọlọ tó fìdí múlẹ̀.,Àwọn tó ga,0
-"Kíni ""Crab"" ní Yorùbá?","""Crab"" ní Yorùbá ń jẹ ""àbàlàyà.""",Akàn,0
-Kíni à ń pè ní 'òtítà'?,À ń pè ní 'òtítà' nígbàtí ohun kan bá jẹ́ gidi tàbí ṣẹ̀ṣẹ́.,Àpótí,0
-"Kíni ""pig"" ní Yorùbá?",Ìgbínrin.,Ẹlẹ́dẹ̀,0
+"""Aláké"" is to Ègbá, what is the title of the king in ""Oshòdì town"" of Lagos State?","The title of the king in Oshodi town of Lagos State is ""Bàálè.""",Kòsọ́ba lóṣhòdì,0
+"Kíni ""Private Company"" ní Yorùbá?","""Ilé-iṣẹ́ Aládàani"" ni.",Ilé-iṣé aládàni,0
+"Kíni ""Mentor"" ní Yorùbá?",Olùkọ́ni.,Àwòkọ́se,0
+What is the meaning of this ancient word 'Nínú ẹ̀gbin ni ọlá ń gbé'?,"""Nínú ẹ̀gbin ni ọlá ń gbé"" means ""Prosperity thrives in the midst of filth"" in English.","Tí ènìyàn bá fẹ́ ní ọlà, ó gbùdọ̀ ṣe ohun tí yíò mú ohun ìwòsí tàbí ìdọ̀tí báa",0
+Kíni ìtumọ̀ ọ̀rò yìí 'ìwọfà'?,Ìtumọ̀ ọ̀rò yìí 'ìwọfà' ni ẹni tí a fi sílẹ̀ tàbí tí a kó sínú ìjọba tàbí iṣẹ́ kan gẹ́gẹ́ bí ohun ìní.,Ẹrú,0
+Kíni 'àdìrò' túmò sí?,Àdìrò túmò sí stove tàbí oúnjẹ ààwòrán; o lè tún je èdá tí kì í ṣètò ni ègbé kìíkìí àgbáyé.,Orí ibi tí a ti máa ń dáná,0
+Kíni 'ídán' túmò sí ní èdè Yorùbá?,'Ídán' túmò sí 'magic' ní èdè Yorùbá.,Ohun tí a ṣe tí ó ṣe ènìyàn ní kàyéfì,0
+Kíni ìgìrìpá/gìrìpá túmò sí? Njẹ́ o le ṣàlàyé?,Ìgìrìpá/gìrìpá túmò sí ẹni tí ó ṣáájú láti dé ibi kan tàbí láti ṣe ohun kan.,Àwọn tó ga,0
+"Kíni ""Crab"" ní Yorùbá?","Crab ní Yorùbá ní ""Àlùkò.""",Akàn,0
+Kíni à ń pè ní 'òtítà'?,Òtítọ́ ni à ń pè ní 'òtítà'.,Àpótí,0
+"Kíni ""pig"" ní Yorùbá?",Àgùntàn ilẹ̀.,Ẹlẹ́dẹ̀,0
 "Kíni ""pot"" ní Yorùbá?",Ikòkò.,Ìkòkò ìdáná,0
-"Kíni ""fox"" ní Yorùbá?","""Fox"" ní Yorùbá ni ""kútì.""",Kọ̀lọ̀kọ̀lọ̀(Ajá igbo),0
-"Kíni ""sheep"" ní Yorùbá?",Àgùntàn.,Àgùntàn,0
-"Kíni ""House of representatives"" ní Yorùbá?",Ilé Àṣòfin aṣojú-ọ̀jọ̀.,Ilé ìgbìmọ aṣójúṣòfin,0
+"Kíni ""fox"" ní Yorùbá?",Kìnnìún Ẹyẹ́.,Kọ̀lọ̀kọ̀lọ̀(Ajá igbo),0
+"Kíni ""sheep"" ní Yorùbá?","""Àgùntàn"" ni ""sheep"" ní Yorùbá.",Àgùntàn,0
+"Kíni ""House of representatives"" ní Yorùbá?",Ìlúkpùpù Àgbàlá ọ̀rọ̀.,Ilé ìgbìmọ aṣójúṣòfin,0
 "Sàlàyé òwe yì: 
- Ènì rúbọ òrìṣà á gbọ́dọ̀ rú ti èèyàn kí ẹbọ ó tó gbà","Itúmọ̀ òwe yìí ni pé bí ẹni ṣe ń ṣe ohun ìbàjẹ́, ó yẹ kí ó ṣètìjú tabi ṣe àwọn ohun to tọ̀ tẹ́lẹ̀ kí ẹbọ náà lè ní àseyori.",Irú ẹni bẹ́ẹ̀ gbúdọ̀ tẹ́ àwọn ènìyàn ní àyíká rẹ̀ lọ́rùn,0
+ Ènì rúbọ òrìṣà á gbọ́dọ̀ rú ti èèyàn kí ẹbọ ó tó gbà",Òwe yìí túmọ̀ sí pé ẹni tí ń tẹ́lé ẹ̀sìn òrìṣà gbọ́dọ̀ tẹ̀lé àwọn àṣà àti ìlànà rẹ̀ kí wọ́n tó lè rí àṣeyọrí tàbí àánú nínú ohun tí wọ́n ń ṣe.,Irú ẹni bẹ́ẹ̀ gbúdọ̀ tẹ́ àwọn ènìyàn ní àyíká rẹ̀ lọ́rùn,0
 "Parí òwe yìí:
- 'Àjọ kìí dùn...'",kó máa níyà ń béè.,Kódídẹ́ má rèwò,0
+ 'Àjọ kìí dùn...'",kó kan ẹni kan.,Kódídẹ́ má rèwò,0
 "Parí òwe yìí:
- Ènì tí yóò mu ẹkọ́ fòró..",Àrẹ nù.,,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Feraku""?","""Feraku"" túmọ̀ sí ẹni tí kò rántí ẹnikẹ́ni mọ́ tàbí ẹni tí kò ṣe fojú inú ràn wàá.",Lóyún,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Terigbaso""?","Ìtumọ̀ àkànlò-èdè ""Terigbaso"" ni pé ohun kan ti ṣubú tabi já.",Ṣe aláìsí,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fakoyo""?","Àkànlò-èdè ""Fakoyo"" túmọ̀ sí pé kí ẹnikan fòwó kan nǹkan tó fẹ́ gbé ṣòfò tàbí tó yẹ̀ wò fún àwọn arójinlèẹ̀ tàbí àwọn àwọn àṣekágorò.",Ṣe dáradára,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fi oju oloore gungi""?","Àkànlò-èdè ""Fi oju oloore gungi"" túmọ̀ sí pé kí ẹni kàn gba nkan kan tàbí ṣe ifarabalẹ̀ sí nkan lẹ́ni kan nílò láìsànìyàn nítorí àánú tàbí rẹ̀fẹ̀.",Aláìmoore,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fi imu danrin""?","""Fi imu danrin"" túmọ̀ sí láti jẹ́ kí ẹjọ́ kọjá lérò, tàbí láti jẹ́ kí ohun kan kọjá bí ẹni pé kò ṣe pàtàkì.",Fìyà jẹ ènìyàn,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Gbonu""?","""Àkóso"" tàbí ""agbára.""",Jẹ iyàn(argue),0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Runparunse""?","""Runparunse"" túmọ̀ sí àrùn tí ń tan kàkàkí tàbí ẹ̀ṣọ àkànṣe.",Fi gbogbo agbára ṣe ǹkan,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Pa eniyan bi ejo aije""?","Àkànlò-èdè yìí túmọ̀ sí pé kí ẹni kan pa ènìyàn lọ́wọ́ lọ́nà tí kò dára tàbí tí kò jẹ́ kó dáa, nípa arekereke.",Lu ènìyàn ní ìlùkulù,0
-"Kíni ""field"" ní Yorùbá?",Ilẹ̀ oòrùn.,Pápá,0
-"Kíni ""Giraffe"" ní Yorùbá?","""Giraffe"" ní Yorùbá ni ""Agbooro"".",Àgùnfọn,0
-"Kíni ""Permanent voter's card"" ní Yorùbá?",Kàdì ajáfikún ìdíbo.,Ìwé ìdìbò alálòpẹ́,0
+ Ènì tí yóò mu ẹkọ́ fòró..",yóò tàpa ẹ rè níṣó.,,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Feraku""?","Àkànlò-èdè ""Feraku"" túmọ̀ sí ""fẹ́ rà kú,"" tí ó túmọ̀ sí ẹni tí ó ní ètó oúnjẹ pẹ̀lú ìfẹ́ orí.",Lóyún,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Terigbaso""?","Àkànlò-èdè ""Terigbaso"" túmọ̀ sí ẹni tí kò ní fún ẹnikẹ́ni nǹkan, ẹni tí kánjú ba, tàbí ẹni tí kánjú n ríi.",Ṣe aláìsí,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fakoyo""?","Ìtumọ̀ àkànlò-èdè ""Fakoyo"" ni láti ṣètìfẹ̀ láìṣàkóbá ẹni mìíràn tàbí díẹ̀dá pọ̀ mọ́ ohun mìíràn.",Ṣe dáradára,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fi oju oloore gungi""?","Àkànlò-èdè yìí tumọ̀ sí pé: ""Máṣe dúnàá.""",Aláìmoore,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Fi imu danrin""?","Àkànlò-èdè ""Fi imu danrin"" túmọ̀ sí láti fi inúńfẹ́ tàbí didùn gbà ohunkóhun, tàbí láti fi ìfọ̀kànbalè ṣe nkankan.",Fìyà jẹ ènìyàn,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Gbonu""?","Ìtumọ̀ àkànlò-èdè ""Gbonu"" ni pé kó ara rẹ̀ jọ tàbí jàfàsó.",Jẹ iyàn(argue),0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Runparunse""?","""Runparunse"" túmọ̀ sí ohun tí kò ní ìlànà tàbí ìbàájẹ́ ní ibi gbogbo.",Fi gbogbo agbára ṣe ǹkan,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Pa eniyan bi ejo aije""?","Ìtumọ̀ àkànlò-èdè ""pa eniyan bi ejo aije"" ni pé kí ọkùnrin tàbí obìnrin má máa kó ilẹ̀ àwọn obìnrin sílẹ̀ tókùnrin tàbí tọkọtaya.",Lu ènìyàn ní ìlùkulù,0
+"Kíni ""field"" ní Yorùbá?","""Ọgbà"" tàbí ""pápá.""",Pápá,0
+"Kíni ""Giraffe"" ní Yorùbá?","""Ọkín"" ni a máa ń pè ""Giraffe"" ní Yorùbá.",Àgùnfọn,0
+"Kíni ""Permanent voter's card"" ní Yorùbá?",Káràmà agbòfinró àyànfúnní.,Ìwé ìdìbò alálòpẹ́,0
 "Sàlàyé òwe yì: 
- Àjèsílẹ̀ gbèsè tí ò jẹ́ kí ẹ̀gbẹ̀fà tóó ná.",Ó wí pé ẹni tí kò ni gbèsè tàbí ojú ẹsẹ kò ni àwọn ìṣòro tó pò tí kò le wò kí ó máà ní àlàáfíà tàbí túbọ̀.<|vq_2837|>,"Tí ènìyàn báti jẹ gbèsè sílẹ̀, owó tí ẹni náà bá rí kò ní too ná títí dìgbà tó bá ti san gbèsè rẹ̀ tán",0
+ Àjèsílẹ̀ gbèsè tí ò jẹ́ kí ẹ̀gbẹ̀fà tóó ná.","Òwe yìí túmọ̀ sí pé aláìní ìtìlẹ́yìn tàbí àtọ̀runwá kò lè ṣe èyí tí ó ju àárín kúrò, èyíi ti ó túmọ̀ sí pé àwọn èèyàn aláìní tàbí tí kò ní àtọ̀runwá kò lè ṣàṣeyọrí pátápátá.","Tí ènìyàn báti jẹ gbèsè sílẹ̀, owó tí ẹni náà bá rí kò ní too ná títí dìgbà tó bá ti san gbèsè rẹ̀ tán",0
 "Parí òwe yìí:
- Èbìtì kò pa èèrà...",a ń pa ímú pamí.,,0
-Tí wọ́n bá sọ pé èèyàn wà 'bias' kí ló túmò sí?,Túmò̀ sí pé ẹni náà ni ìwọ̀n ara tàbí àkóyinjẹ sí ọ̀nà kan tàbí ẹni kan.,Ojú-ìsájú,0
-Oṣù wo ni à ń pè ní 'Bèlú'?,"Oṣù Kẹrin, ẹ̀rẹ̀nà.",Oṣù kọ́kọ̀nlá,0
-Kí ni orúkọ tí a ń fún ọmọbìnrin tí a bí tí ó gbé òlùbí kòrùn?,"Ní èdè Yorùbá, a máa ń pe ọmọbìnrin tí a bí tí ó gbé òlùbí kòrùn ní ""Ìyánfẹ́"" tàbí ""Ìyàwó Ẹ̀bí Ọba"".",Àìná,0
-Fi àmín sí orọ̀ yìí “Akanlo ede”,“Àkànló̩ èdè” ni orò̩ wọn tó rọrùn láti ló̩ lo̩ sùgbón a kò le fi ìtumọ̀ wọn gbé kalẹ̀ ní kedere.,Àkànlò èdè,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Figagbaga""?","""Figagbaga"" túmọ̀ sí ìjàkàdì tàbí ìjàfara bíi olórin tó ń figagbaga fún bí wọ́n ṣe máa gbé orúkọ rẹ ga.",Ìdíje,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Erinwo""?","""Erinwo"" túmọ̀ sí ẹrín títí tó fi ṣí gbogbo eyín hàn.",Ṣe aláìsí,0
-"Kíni ""Advertisement"" ní Yorùbá?",Ìpolówó,Ìpolówó,0
-Why do they say 'dágunrò' is inedible'?,'Dágunrò' is said to be inedible because it is traditionally believed to be a cursed or taboo food in Yoruba culture.,Dágunró ní ègún,0
-Orúkọ wo ni wọ́n fún ọmọ tí a bí tí kò ke?,"Wón máa ń pè orúkọ ọmọ bíi ""Ajé"" tàbí ""Awóní"" fún ọmọ tí a bí tí kò ke.",Òní,0
-"If potters are called 'amọ̀kòkò, calabash designers are called what?",Ará ọ̀pọ́n.,Afíngbá,0
+ Èbìtì kò pa èèrà...","Kàkà kí ó pa á, ó ń gbé èrò rẹ́ lọ.",,0
+Tí wọ́n bá sọ pé èèyàn wà 'bias' kí ló túmò sí?,Túmọ̀ sí pé èèyàn fi ojú ìwọ̀n sílẹ̀ tàbí ṣe àkànṣe sí ohun kan tàbí èèyàn kan.,Ojú-ìsájú,0
+Oṣù wo ni à ń pè ní 'Bèlú'?,Oṣù Kẹ̀sán.,Oṣù kọ́kọ̀nlá,0
+Kí ni orúkọ tí a ń fún ọmọbìnrin tí a bí tí ó gbé òlùbí kòrùn?,"Orúkọ tí a ń fún ọmọbìnrin béè ni ""Ikún.""",Àìná,0
+Fi àmín sí orọ̀ yìí “Akanlo ede”,Ìtumọ̀ rẹ̀ ni pé ìjìnlẹ̀ èdè tàbí àfihàn èdè tí kò dáa.,Àkànlò èdè,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Figagbaga""?",Àkètè-àtẹ̀tẹ̀.,Ìdíje,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Erinwo""?","""Erinwo"" túmọ̀ sí ọgọ́rin.",Ṣe aláìsí,0
+"Kíni ""Advertisement"" ní Yorùbá?",Ìpolówó.,Ìpolówó,0
+Why do they say 'dágunrò' is inedible'?,'Dágunrò' is considered inedible because it is a term used for meats or foods that are tough and difficult to chew or digest.,Dágunró ní ègún,0
+Orúkọ wo ni wọ́n fún ọmọ tí a bí tí kò ke?,"A máa ń pe ọmọ bẹ́ẹ̀ ní ""Arobìnrin"" tàbí ""Aróburúkúṣo.""",Òní,0
+"If potters are called 'amọ̀kòkò, calabash designers are called what?",Onígbè.,Afíngbá,0
 "Deji ni oba ilu akure, kini won n pe, oba ilu ijebu",Oba ilu Ijebu ni Awujale.,Àwùjalẹ̀,0
-"Kíni ""Duplicate"" ní Yorùbá?","Ó túmọ̀ sí ""Ẹ̀dà méjì"" tàbí ""Ḕjìrè"" ní Yorùbá.",Ẹ̀dà,0
-"Kíni ""Earth worm"" ní Yorùbá?",Alámo.,Ekòló,0
-"Kíni ""Scissors"" ní Yorùbá?","""Scissors"" ní Yorùbá túmọ̀ sí ""Àdáwọ́"".",àlùmógàjì,0
-"Kíni ""Brewery"" ní Yorùbá?",Ilé ìṣẹ̀ ìṣàlàbá.,Ilé-iṣẹ́ ìpo-ọtí,0
-"Kíni ""Cricket"" ní Yorùbá?","""Cricket"" ní Yorùbá ni ""Kiriketi.""",Ìrẹ̀,0
-"Kíni ""Ram"" ní Yorùbá?",Àgbò.,Àgbò,0
+"Kíni ""Duplicate"" ní Yorùbá?","""Àwòkò"" ni.",Ẹ̀dà,0
+"Kíni ""Earth worm"" ní Yorùbá?","""Èèrùwà"" ni ""Earth worm"" ní Yorùbá.",Ekòló,0
+"Kíni ""Scissors"" ní Yorùbá?","""Scissors"" ni Yorùbá ni ""Oníhíhà.""",àlùmógàjì,0
+"Kíni ""Brewery"" ní Yorùbá?",Ibùdó mímó amóje.,Ilé-iṣẹ́ ìpo-ọtí,0
+"Kíni ""Cricket"" ní Yorùbá?",Eré onífẹ̀àdùn.,Ìrẹ̀,0
+"Kíni ""Ram"" ní Yorùbá?","Ó làjúkọ ọmọ àgbò, ní tèrèré.",Àgbò,0
 """Parí òwe yìí:
- Èbì tí kò pa èèrà""","""Kí ń pa ọ̀mọ aráyé.""","Èbìtì ò pa èèrà, ará ilé ẹni níí ṣe ni",0
+ Èbì tí kò pa èèrà""","""Kí í jẹ́ kó má j'ẹ́ ẹran.""","Èbìtì ò pa èèrà, ará ilé ẹni níí ṣe ni",0
 "Kini itumo owe yi:
- Ènì tó ma ń tẹ òkú òpòló, yí ò ní ilé Ogbóni tirẹ̀ lọ́tọ̀","Owe yi túmọ̀ si pé ẹni tó máa ń fara kàn sí àwọn ọlọ́gbọ́n tàbí tí ń tètè gbé ohun tí wọ́n bá sọ nílò, yóò ṣẹ́ṣẹ̀ ní ọgbọ́n tirẹ̀ nígbà kan.",,0
+ Ènì tó ma ń tẹ òkú òpòló, yí ò ní ilé Ogbóni tirẹ̀ lọ́tọ̀","Itumo owe yi ni pe enikeni ti o ba nwaye nibi ti ko ye, ko ni ri ibi tirẹ lati wa.",,0
 """Parí òwe yìí:
- Eni ti ko mo ise je...",ni iranju ounje.,,0
+ Eni ti ko mo ise je...","...a ma mo ise tan.""",,0
 """Parí òwe yìí:
- Sekeseke dara...",ti ọkọ ẹyẹ.,Ṣùgbón alágbẹ̀dẹ ò rọ́ fún ọmọ rẹ̀,0
-Awon wo ni won maa n pe ni Ajayi,"Ẹnikẹni ti o n gbọ́n, o maa n ṣàbí èdá àti gbogbo àwọn nnkan rẹ̀.",Ọmọ tí a bí tó dojúbolẹ̀,0
-"Kíni ""Buffalo"" ní Yorùbá?","""Bùbú"" ni.",Efọ̀n,0
-"Kíni ""Scorpion"" ní Yorùbá?","""Apaniyan"" ni Yorùbá.",àkekèé,0
-"Kíni ""Bracelet"" ní Yorùbá?",Bàbàlàwo ọwọ́.,Ẹ̀gbà-owo,0
-"Kíni ""Description"" ní Yorùbá?",Àwọn àpejuwe.,Àpèjúwe,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""gbin èpà sí oko ikún""?","Àkànlò-èdè ""gbin èpà sí oko ikún"" túmọ̀ sí fí ohunkóhun sínú ibi tí kò yẹ tàbí ibi tí kò ní jàde tó oṣe.",Ṣíṣe àṣedànù,0
+ Sekeseke dara...",àárọ̀ ló máa tó.,Ṣùgbón alágbẹ̀dẹ ò rọ́ fún ọmọ rẹ̀,0
+Awon wo ni won maa n pe ni Ajayi,Awon to n pada sile ni kiakia.,Ọmọ tí a bí tó dojúbolẹ̀,0
+"Kíni ""Buffalo"" ní Yorùbá?","""Buffalo"" ní Yorùbá ń jẹ ""Èéfín.""",Efọ̀n,0
+"Kíni ""Scorpion"" ní Yorùbá?",Àlásè.,àkekèé,0
+"Kíni ""Bracelet"" ní Yorùbá?","""Bracelet"" ní Yorùbá ni ""Báǹgí.""",Ẹ̀gbà-owo,0
+"Kíni ""Description"" ní Yorùbá?",Àpejúwe.,Àpèjúwe,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""gbin èpà sí oko ikún""?",Ìtumọ̀ rẹ̀ ni pé: Láti ṣe nkan tí kò ní èso rere.,Ṣíṣe àṣedànù,0
 """Parí òwe yìí:
- Ore n jore...",arọ.,"Ọrà ń jọ́rà, a kìí dúpé mo tọ̀pọ̀",0
+ Ore n jore...",àbúrò ń jẹfẹ.,"Ọrà ń jọ́rà, a kìí dúpé mo tọ̀pọ̀",0
 """Kini itumo owe yi:
- A kii je okele lori okele, a kii fina sori orule sun""",Itumo owe yi ni pe a kii fi ona abayo meji yanju isoro kenikan.,"Kí ènìyàn ṣe ohungbogbo ní ìwọ̀ntúnwọ̀nsì, nítorí tí a kò bá ṣe béè, ó lè fa ìjàm̀bá",0
-"Kíni ""66 thousand naira"" ní Yorùbá?",Ẹgbẹta ààborin naira.,Ẹgbẹ̀rùn lọ́nà mérìndínláàdórin náírà,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""farasoko""?","Àkànlò-èdè ""farasoko"" túmọ̀ sí pé ẹni kan ti wà nínú ìṣòro tàbí ìpẹ̀nsọ́n.",Sápamó,0
+ A kii je okele lori okele, a kii fina sori orule sun""",Itumọ owe yii ni pe a kii ṣe awọn iṣẹ meji ni akoko kanna tabi a kii ṣe iṣẹ meji nipo kan.,"Kí ènìyàn ṣe ohungbogbo ní ìwọ̀ntúnwọ̀nsì, nítorí tí a kò bá ṣe béè, ó lè fa ìjàm̀bá",0
+"Kíni ""66 thousand naira"" ní Yorùbá?",Ẹgbẹta àti àádóje egberun naira.,Ẹgbẹ̀rùn lọ́nà mérìndínláàdórin náírà,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""farasoko""?","Ìtumọ̀ àkànlò-èdè ""farasoko"" ni láti gbéjáde tàbí láti fi hàn lójú gbogbo ènìyàn.",Sápamó,0
 "Parí òwe yìí.
- Ènì yá ẹ̀gbẹ̀fà tí ò san",ẹ̀kùrù.,Ó bégi dínà egbèje,0
-"Kíni ""Wolf"" ní Yorùbá?",Ìkòkò ọdẹ.,Ìkokò,0
-"Kíni ""Investment"" ní Yorùbá?",Idokoowo.,Ìdókòwò,0
-"Kíni ""Trade fair"" ní Yorùbá?","""Ìkòwèwò gbòógì.""",Ìpàtẹ Ìdókòwò,0
-"Kíni ""Calculator"" ní Yorùbá?",Kòmpútà tó ń kà.,Ẹ̀rọ ìṣírò,0
-"Kíni ""Internet banking"" ní Yorùbá?",Ìṣírò owó ní àgbáyé ayélujára.,Ìfowópamọ́ orí ayélujára,0
-"Kíni ""Rainbow"" ní Yorùbá?","Rainbow tumọ̀ sí ""òjòjólá"" ní Yorùbá.",Òṣùmàrè,0
+ Ènì yá ẹ̀gbẹ̀fà tí ò san",kùù.,Ó bégi dínà egbèje,0
+"Kíni ""Wolf"" ní Yorùbá?",Ikooko.,Ìkokò,0
+"Kíni ""Investment"" ní Yorùbá?","""Investment"" ní Yorùbá ni ""Ìdoko"".",Ìdókòwò,0
+"Kíni ""Trade fair"" ní Yorùbá?",Òjà Ọjà.,Ìpàtẹ Ìdókòwò,0
+"Kíni ""Calculator"" ní Yorùbá?",Olùṣírò.,Ẹ̀rọ ìṣírò,0
+"Kíni ""Internet banking"" ní Yorùbá?",Ìsúná nípa Èrọ Ayélujára.,Ìfowópamọ́ orí ayélujára,0
+"Kíni ""Rainbow"" ní Yorùbá?",Awọ-ọ̀nà.,Òṣùmàrè,0
 "Pari owe yi:
- Bí oníṣé bá ń jèrè iṣẹ..",Ẹlẹ́ni àlejò ń jèrè ilé.,Ọ̀lẹ á máa jèrè ìmẹ́lẹ́,0
-"Kíni ""Blade"" ní Yorùbá?","""Èékánná"" ni.",Abẹfẹ́lẹ́,0
-"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Eku Itadi""?","""Eku Itadi"" kì í ṣe àkànlò-èdè tí ó wọ́pọ̀ tàbí tí ó ní ìtumọ̀ tó yé kó túmọ̀ sí. Ó lè jẹ́ kíkan tàbí ṣeéṣe mímọ̀ nínú àwùjọ àti àṣà yàtọ̀, ṣùgbọ́n kò jẹ́ àkànlò-èdè tó mọ́ ní gbòó.",Kí ènìyàn só,0
-"Kíni ""Royal Bead Makers"" ní Yorùbá?","""Adéjọ Olówó Pípé"" ni ""Royal Bead Makers"" ní Yorùbá.",Asíndẹmádé,0
-"Kíni ""Graduation"" ní Yorùbá?",Ìpéjádò.,Ikékòógboyè,0
-"Kíni ""Chimpanzee"" ní Yorùbá?",Èdí.,Ìjímèrè,0
-"Kíni ""500 thousand"" ní Yorùbá?",Ìgbẹ̀ta ó lé ni ẹ̀dẹ́gbẹ̀rin.,Ẹgbẹ̀rún lọ́nà ẹ̀ẹ́dẹ́gbẹ̀ta,0
-"Kíni ""Camping"" ní Yorùbá?",Ìgbárájọ.,Ìpàgọ́,0
-"Kíni ""Bargain"" ní Yorùbá?","""Bargain"" ní Yorùbá túmọ̀ sí ""ìdààmú"" tàbí ""owó kesán.""",Ìdúnádúrà,0
-"Kíni ""Translator"" ní Yorùbá?",Olùtumọ̀.,Ògbufọ̀,0
-"Kíni ""Trap"" ní Yorùbá?","""Èyè"" tàbí ""ìtà.""",Èbìtì,0
-"Kíni ""700"" ní Yorùbá?",Èjìléta.,Ẹ̀ẹ́dẹ́gbẹ̀rin,0
+ Bí oníṣé bá ń jèrè iṣẹ..",àlejò ń jèrè ilé.,Ọ̀lẹ á máa jèrè ìmẹ́lẹ́,0
+"Kíni ""Blade"" ní Yorùbá?",Ẹ̀rẹ́kùṣù.,Abẹfẹ́lẹ́,0
+"Kínì ìtumọ̀ àkànlò-èdè yìí? ""Eku Itadi""?","""Eku Itadi"" túmọ̀ sí kíkan àwọn ẹni tí wọ́n ń ṣiṣẹ́ tàbí ṣe iṣẹ́ nígbà ọdún tuntun.",Kí ènìyàn só,0
+"Kíni ""Royal Bead Makers"" ní Yorùbá?",Irìn-ísé Awọ̀n Oníṣè́ àpèẹrẹ Ọ̀jàlé.,Asíndẹmádé,0
+"Kíni ""Graduation"" ní Yorùbá?",Ìjòkòótán.,Ikékòógboyè,0
+"Kíni ""Chimpanzee"" ní Yorùbá?",Ìdímú.,Ìjímèrè,0
+"Kíni ""500 thousand"" ní Yorùbá?",Ẹgbẹ̀rún márùn ún lé ọgọ́rùn-ún ẹgbẹ̀rún.,Ẹgbẹ̀rún lọ́nà ẹ̀ẹ́dẹ́gbẹ̀ta,0
+"Kíni ""Camping"" ní Yorùbá?",Síwájú àgọ́mùrìnnà.,Ìpàgọ́,0
+"Kíni ""Bargain"" ní Yorùbá?",Òwòwó.,Ìdúnádúrà,0
+"Kíni ""Translator"" ní Yorùbá?","""Aládàṣẹ̀látúnjúwe"" tàbí ""Onítúmọ̀"" jẹ́ ""Translator"" ní Yorùbá.",Ògbufọ̀,0
+"Kíni ""Trap"" ní Yorùbá?",Ẹ̀dáfẹ̀étan.,Èbìtì,0
+"Kíni ""700"" ní Yorùbá?",Ẹdẹgbẹta paapaa aádọrin.,Ẹ̀ẹ́dẹ́gbẹ̀rin,0
 "Kínì ìtumọ̀ àkànlò-èdè yìí? 
- A ń sájú ẹlẹẹdẹdé pẹẹdé",Àkànlò-èdè náà túmọ̀ sí pé ẹni náà ti ń parí ìṣe kan ṣáájú kìkà bó ṣe yé kí ara ó rò dé oún tí ó yé kí ó kọ́kọ̀ ṣe.,A máa fí ń sọfún ènìyàn tí ó ń bẹ́,0
-Dárúkọ tí Yorùbá n pe àwọn ìka ọwọ wa márààrún,"Ìká, àká, ará òkè, ará ìlà, àti àtẹ́lẹwọ́.","Kúrúmbète, òrùka yémí, óga juwónlọ, odùnńlábẹ̀, àtànpàkò.",0
+ A ń sájú ẹlẹẹdẹdé pẹẹdé",Àmọ̀pé ti ń bọ̀ pẹ̀lú lọ́kà.,A máa fí ń sọfún ènìyàn tí ó ń bẹ́,0
+Dárúkọ tí Yorùbá n pe àwọn ìka ọwọ wa márààrún,"1. Èjìkà
+2. Òkèèrè
+3. Àtànbí
+4. Àwòrò
+5. Ìkúpadé","Kúrúmbète, òrùka yémí, óga juwónlọ, odùnńlábẹ̀, àtànpàkò.",0
 "Parí òwe Yorùbá yìí
- Sin mí ká re ilé àna o wọ ẹwù etù …,",ẹwù òsì.,kíni kí ọkọ ìyàwó wọ̀,0
-"Kíni ""deer"" ní Yorùbá?",Ẹgbẹ́.,Àgbọ̀nrín,0
-"Kíni ""fountain"" ní Yorùbá?","""Orísun"" ni ""fountain"" ní Yorùbá.",Orísun,0
-"Kíni ""fine"" ní Yorùbá?","""Ẹwà"" tàbí ""lẹwa.""",Owó ìtánràn,0
-"Eré Orí igi àşekù ọmọ ẹdun, kíní yorùbá n pè ní 'ẹdun'?",Ẹdun ni yorùbá n pè ní 'monkey'.,Ọ̀bọ,0
-"Yorùbá bò wọ́n ní… Pánsá ò funra pánsá já, àjà ò funra àjà jìn… kí ní pánsá?",Ṣíṣé pípé tàbí iṣẹ́ kan tó gbẹ́yìn.,"Pánsá (attics)
+ Sin mí ká re ilé àna o wọ ẹwù etù …,",... ilé ẹni ń yà.,kíni kí ọkọ ìyàwó wọ̀,0
+"Kíni ""deer"" ní Yorùbá?",Àgbò àràbà.,Àgbọ̀nrín,0
+"Kíni ""fountain"" ní Yorùbá?",Orísun omi.,Orísun,0
+"Kíni ""fine"" ní Yorùbá?","""Dára"" tàbí ""réré"" ni Yorùbá.",Owó ìtánràn,0
+"Eré Orí igi àşekù ọmọ ẹdun, kíní yorùbá n pè ní 'ẹdun'?",Ẹdun ni Yorùbá n pè ní monkey.,Ọ̀bọ,0
+"Yorùbá bò wọ́n ní… Pánsá ò funra pánsá já, àjà ò funra àjà jìn… kí ní pánsá?",Pánsá jẹ́ àtẹ́lẹwọ́.,"Pánsá (attics)
  Bí onílé ò bá funra, olè á ko",0
-Ka eje orile-ede Naijiria ni ede Yoruba,Ka eje orile-ede Naijiria ni ede Yoruba yoo je 'Green White Green'.,"Mo ṣe ìlérí fún Orílẹ̀-Èdè mi Nàìjíríà, 
+Ka eje orile-ede Naijiria ni ede Yoruba,"E je orile-ede Naijiria ni ede Yoruba: Adarí, Alakoso, Afìọkànsáyé.","Mo ṣe ìlérí fún Orílẹ̀-Èdè mi Nàìjíríà, 
  Láti jẹ́ olódòdo, ẹnití ó ṣeé f'okàn tán 
  Àti olótitọ́ ènìyàn 
  Láti sìn ín pẹ̀lu gbogbo agbára mi, 
  Làti sa ipá mi gbogbo fún ìṣọ̀kan rẹ̀ 
  Àti láti gbé e ga fún iyì àti ògo rẹ̀. 
  Kí Ọlọ́run ràn mí l'ọ́wọ́",0
-"Kíni ""93"" ní Yorùbá?",Àádọ́ta ní lélè etí kan.,Mẹ́tàléláàdọ́rún,0
-Kíni Yorùbá n pe border?,Aala.,Àlà,0
+"Kíni ""93"" ní Yorùbá?",Mẹ́tàdínlógójì.,Mẹ́tàléláàdọ́rún,0
+Kíni Yorùbá n pe border?,Ààlè.,Àlà,0
 "Kíni ""favorite"" ní Yorùbá?",Ayanfẹ.,Ààyò,0
 """Pari owe yi:
- Ohun tí ajá rí tí ó ń gbó…""","""eré ńkan.""",kò tó èyí tí àgùtàn fi ń ṣe ìran wò,0
+ Ohun tí ajá rí tí ó ń gbó…""","""Ohun tí ajá rí tí ó ń gbó, kí ni ìkòkò á rí tí ò ń fọ́nkà.""",kò tó èyí tí àgùtàn fi ń ṣe ìran wò,0
 "Parí òwe Yorùbá yìí
- ògèdè dúdú kò sè bùṣọn…",ọmọ adá ni.,Ọmọ burúkú ò ṣe lù pa,0
+ ògèdè dúdú kò sè bùṣọn…",...árá ilé ẹni níí jẹ é.,Ọmọ burúkú ò ṣe lù pa,0
 "Parí òwe Yorùbá yìí
- Enu ai menu, ete ai mete...","eni ai soro, ko gbodo bu enu je.",níí mú ọ̀ràn bá ẹ̀rẹ̀kẹ́,0
-"Kini ọ̀rọ̀ Yorùbá fun ""Comb"" tí ó wà lórí akùkọ adìyẹ",Igi orí.,Igbe,0
-"Kíni ""Certificate"" ní Yorùbá?",Ijẹrisi.,Ìwé ẹ̀rí,0
-"Kíni ""web"" ní Yorùbá?","""Web"" ní Yorùbá jẹ́ ""ọ̀wọ́ àlàbápàdé"" tàbí ""àwòrán àlàbápàdé"".",Ìtàkùn,0
-Yàtọ̀ sí ayékòótò kíni Yorùbá tún má ń pe 'parrot'?,"Ayékòótò ni Yorùbá tún n pe ni ""papaga.""",Odídẹrẹ́,0
-"Kíni ""ditch"" ní Yorùbá?","""Ogbun.""",Kòtò,0
-Tani ọba àkọ́kọ́ tí a kọ́kọ́ kì ní kábíyèsí ní ilè Yorùbá,Alaafin Ọranmiyan.,Aláàfin Sàngó,0
-Àwọn wo ni Yorùbá ń pè ní 'màjẹsín,"Àwọn Yorùbá ń pè àwọn òṣìṣẹ́ ilé-ìwòsàn, amọ̀tẹ́runwá, tàbí nurse ní 'màjẹsín'.",Àwọn ọmọdé,0
-"Kíni ""South-West"" ní Yorùbá?",Àríwá-Guúsù.,Gúúsù-Ìwọ-oòrùn,0
-Kíni Yorùbá ń pe 'flamingo'?,Aṣáàlẹyé.,Ẹyẹ-omi,0
-Kíni Yorùbá ń pe 'squat'?,Wọ̀lì.,Lóòṣó,0
+ Enu ai menu, ete ai mete...",...kò kan orí arosin.,níí mú ọ̀ràn bá ẹ̀rẹ̀kẹ́,0
+"Kini ọ̀rọ̀ Yorùbá fun ""Comb"" tí ó wà lórí akùkọ adìyẹ","Ọ̀rọ̀ Yorùbá fún ""comb"" tí ó wà lórí akùkọ adìyẹ ni ""àtàrí.""",Igbe,0
+"Kíni ""Certificate"" ní Yorùbá?","""Certificate"" ní Yorùbá ni ""Ijẹrisi.""",Ìwé ẹ̀rí,0
+"Kíni ""web"" ní Yorùbá?",Ògùnfèé.,Ìtàkùn,0
+Yàtọ̀ sí ayékòótò kíni Yorùbá tún má ń pe 'parrot'?,Ayékòótò.,Odídẹrẹ́,0
+"Kíni ""ditch"" ní Yorùbá?",Òfúnpá.,Kòtò,0
+Tani ọba àkọ́kọ́ tí a kọ́kọ́ kì ní kábíyèsí ní ilè Yorùbá,Ọba Odùdùwà.,Aláàfin Sàngó,0
+Àwọn wo ni Yorùbá ń pè ní 'màjẹsín,"Yorùbá ń pè àwọn obìnrin tí wọn ò gbéyàwó tán ní ""màjẹsín.""",Àwọn ọmọdé,0
+"Kíni ""South-West"" ní Yorùbá?",Gúúsù Ìwọ̀ Oòrùn.,Gúúsù-Ìwọ-oòrùn,0
+Kíni Yorùbá ń pe 'flamingo'?,"A fi orúkọ àwọn èèyàn eeku jẹ, bíó tilẹ̀ jẹ́ pé kò sí orúkọ pàtó fún 'flamingo' nínú èdè Yorùbá.",Ẹyẹ-omi,0
+Kíni Yorùbá ń pe 'squat'?,"Yorùbá ń pe 'squat' ní ""Ijalòko.""",Lóòṣó,0
 "Parí òwe Yorùbá yìí
- Ajogún Ifá tó ní òun kò ní kú mọ …",... ikú ń pa lójú àgbà.,Ẹni tó tefá gan dàà,0
+ Ajogún Ifá tó ní òun kò ní kú mọ …","… tí ẹ̀rù ẹ bá dún ẹ, inú bróómù ni ẹ máa jókòó.",Ẹni tó tefá gan dàà,0
 "Kíni ""North"" ní Yorùbá?",Àríwá.,Àríwá,0
-Tí Yorùbá bání ẹ̀ẹ̀yàn 'pẹ̀ ọ̀rọ̀ sọ'. Kí ló tún mò sí?,Wí pé ẹ̀ẹ̀yàn máa ń sọrọ púpọ̀ tàbí kàkàbí.,Kòfẹ́ fi gbogbo ẹnu sọ̀rọ̀,0
-"Kíni ""Education Manager"" ní Yorùbá?",Olùdarí Ẹ̀kọ́.,Ìṣàkóso Ẹ̀kọ́,0
-"Kíni ""Guinea worm"" ní Yorùbá?",Aràn erin.,Sòbìà,0
-Àwọn wo ni Yorùbá ń pè ní 'ọjẹ',"Yorùbá ń pè àwọn jankulẹtà, ẹni tí kò ní ìtẹ́lọ́rùn, tàbí aláìmòràn ní 'ọjẹ'.",Eléégún,0
+Tí Yorùbá bání ẹ̀ẹ̀yàn 'pẹ̀ ọ̀rọ̀ sọ'. Kí ló tún mò sí?,"Tí Yorùbá bá ní ẹ̀ẹ̀yàn 'pẹ̀ ọ̀rọ̀ sọ', ó túmọ̀ sí pé ẹ̀ẹ̀yàn yẹn kàn ń ṣe ìkópa wàsá wọn án ayé lórí oríṣiríṣi ọ̀rọ̀ tó yára jáde láti enu wọn.",Kòfẹ́ fi gbogbo ẹnu sọ̀rọ̀,0
+"Kíni ""Education Manager"" ní Yorùbá?",Olùdarí Èkó.,Ìṣàkóso Ẹ̀kọ́,0
+"Kíni ""Guinea worm"" ní Yorùbá?",Odo ikú du.,Sòbìà,0
+Àwọn wo ni Yorùbá ń pè ní 'ọjẹ',Àwọn ènìyàn tí ó máa ń sapá nípa isẹ́ ọwọ́ tàbí ẹ̀kọ́ ní Yorùbá ni wọ́n ń pè ní 'ọjẹ'.,Eléégún,0
 "Parí òwe Yorùbá yìí
- Òṣùpá là a ní kò gún...",Kí ojú orun ún tọ́.,"Ẹni tọ́wọ́ ẹ̀ bá to, kó lo tun ṣe",0
-Ìlú wo ni wón ti ń bí 'Ìbejì' jùlọ ní ilè Yorùbá,Ìlú Ìbàdàn ni wón ti ń bí 'Ìbejì' jùlọ ní ilè Yorùbá.,Igbó-ọrà,0
-"Kíni ""Relationship"" ní Yorùbá?",Ìbáṣepọ̀.,Ìbáṣepọ̀,0
-"Kíni ""Pretence"" ní Yorùbá?",Ìtanrànjè.,Ìdíbọ́n,0
+ Òṣùpá là a ní kò gún...",kí tó fi hàn.,"Ẹni tọ́wọ́ ẹ̀ bá to, kó lo tun ṣe",0
+Ìlú wo ni wón ti ń bí 'Ìbejì' jùlọ ní ilè Yorùbá,Ìbàdàn.,Igbó-ọrà,0
+"Kíni ""Relationship"" ní Yorùbá?",Ibáṣepọ̀.,Ìbáṣepọ̀,0
+"Kíni ""Pretence"" ní Yorùbá?",Ìbàjé.,Ìdíbọ́n,0
 """Kínì ìtumọ̀ àkànlò-èdè yìí? 
- Te nkan nidi""",Àkànlò-èdè náà túmọ̀ sí pé kí ẹni kan yé àwọn ìgbèríko nípa rẹ̀.,Lílo ọgbọ́n àlùmọ̀kọ́rọ́yí láti fi kó ọrọ̀ jọ,0
-"""Kíni àkọ́lé orúkọ ọba Ijesha?""","""Ọwá Ọbókùn.""",Ọwá,0
+ Te nkan nidi""","Àkànlò-èdè ""Te nkan nidi"" túmọ̀ sí kí ẹni kan wà lórí àkójọpọ̀ tàbí ṣálàyé ìṣòro kan lérò.",Lílo ọgbọ́n àlùmọ̀kọ́rọ́yí láti fi kó ọrọ̀ jọ,0
+"""Kíni àkọ́lé orúkọ ọba Ijesha?""",Ataoja.,Ọwá,0
 "Parí òwe Yorùbá yìí
- Àjánàkú kọjáa mo rí nkan firí",iná mó rí nkan fí rí nìkan.,Tí a bá rérin ká sọpé a rérin,0
-"Kíni ""Debate"" ní Yorùbá?",Ọ̀rọ̀jàmbá.,Ìtàkùọ̀rọ̀so,0
-Kíni ìyàtọ̀ láàrin ìtòsí ati ìjọsí?,"Ìtòsí ní ìtumọ̀ rẹ̀ nǹkan tó wà nítòsí tàbí nítòlẹ̀ré, ìjọsí sì ń tọ́ka sí ìfaradà tàbí bí ẹni bá ń bẹ nípasẹ̀ nǹkan kan.","Ìtòsí -–Súnmọ́
+ Àjánàkú kọjáa mo rí nkan firí",bí afaimọ́ ẹni kan.,Tí a bá rérin ká sọpé a rérin,0
+"Kíni ""Debate"" ní Yorùbá?",Ìjìròrò.,Ìtàkùọ̀rọ̀so,0
+Kíni ìyàtọ̀ láàrin ìtòsí ati ìjọsí?,"Ìtòsí jẹ́ when something is physically close, while ìjọsí refers to affection or closeness in a relationship.","Ìtòsí -–Súnmọ́
  Ìjọ́sí -–Jìnà",0
-Kíni ìyàtọ̀ láàárín ìpààrọ̀ àti ìyípadà?,"Ìpààrọ̀ ń ṣe ìtọ́kasí sí ayípadà ẹ̀yà kan pẹ̀lú ẹ̀yà mìíràn, nígbà tí ìyípadà jẹ́ ayípadà nínú ìṣẹ̀lẹ̀ tàbí ìwà láti ṣe tàbí lẹ̀hìn ìṣe kan.","Ìpààrọ̀ - Replace
+Kíni ìyàtọ̀ láàárín ìpààrọ̀ àti ìyípadà?,"Ìpààrọ̀ túmọ̀ sí rírán àwọn nǹkan tàbí ìròyìn láti ọdọ̀ ẹni kan sí omiran, èyìn àkànpàlẹ̀. Ìyípadà jẹ́ ayípadà nínú ìtọ́ka tàbí ìsọfúnni irú nǹkan tàbí èdá kan láti àwọn ohun tó dàbíi rẹ̀.","Ìpààrọ̀ - Replace
  Yípadà - Change",0
-"Kíni ""Protest"" ní Yorùbá?","""Wíwàdíyẹ̀"" ni Yorùbá.",Ìfẹ́ónúhàn,0
-"Kíni ""National Assembly"" ní Yorùbá?",Àpapọ̀ Ìlú Tíwàádà.,Ìgbìmọ̀ aṣòfin àgbà,0
-"Kíni ""Canopy"" ní Yorùbá?",Téntì.,Àtíbàbà,0
-Àwọn ọmọ wo ni Yorùbá ń pè ní 'Kòsọkọ' àti pé kíni ìdí tí a fi ń pè wọn bẹ?,"Àwọn ọmọ tí a bí lẹ́yìn ikú tàbí ìgbẹ́gbẹ́ ayé ní Yorùbá ni a ń pè ní 'Kòsọkọ'. Idi ni pé a máa ń gbà pé ìyá wọn jẹ àkọ́bí to ti nìwájú̀ ṣùgbọ́n ti o ti kú láìláàí ìdájú pé àwọn ọmọ tuntun yóò kú. Kìí se pé kí wọ́n fààrayàn kú, bí ẹyà tó ń ṣe ilé ayé àtún yí.","Àbíkú ọmọ ni wọ́n ń pè ní Kòsọ́kọ́
+"Kíni ""Protest"" ní Yorùbá?",Ìfèjọ́kòó.,Ìfẹ́ónúhàn,0
+"Kíni ""National Assembly"" ní Yorùbá?",Aṣọ́jọ Àpapọ̀ Orílẹ̀-èdè.,Ìgbìmọ̀ aṣòfin àgbà,0
+"Kíni ""Canopy"" ní Yorùbá?","""Agọ.""",Àtíbàbà,0
+Àwọn ọmọ wo ni Yorùbá ń pè ní 'Kòsọkọ' àti pé kíni ìdí tí a fi ń pè wọn bẹ?,Àwọn ọmọ tí wọn kìí tètè kú ni Yorùbá ń pè ní 'Kòsọkọ'. A fi ń pè wọn bẹ́ nítorí àṣà àti igbàgbọ́ pé wọn ní ìfẹ́ àti ààbò Olódùmarè tó ju ti àwọn míì lọ.,"Àbíkú ọmọ ni wọ́n ń pè ní Kòsọ́kọ́
  A máa ń pe wọ́n bẹ́ẹ̀ nítorípé ọkọ́ ni a máa fi ń wa ilẹ̀ látìi fi sin òkú",0
-Tí Yorùbá bá sọpé Igi imú jìná sórí... kíni wọn ń gbìyànjú láti sọ pẹ̀lú àpẹrẹ,Wọ́n ń gbìyànjú láti sọ pé ẹni náà ń ṣe ara rẹ ní gbọngbọ̀n nígbà tí kò ṣe pàtàkì tàbí ṣèyìn nísinsìnyí.,Kí ènìyàn kan ju ẹnìkéjì lọ,0
-"Kíni Yorùbá ń pè ní mọ̀gúdú?""","Yorùbá ń pè ""Asun"" ní mọ̀gúdú.",Ìkokò tó tóbi (A big wolf),0
-"Parí òwe Yorùbá yìí ""bí èbù ò rà...""","""Bí èbù ò rà, ìjà ni yóó dà.""",A ò lè rí ègbodò,0
+Tí Yorùbá bá sọpé Igi imú jìná sórí... kíni wọn ń gbìyànjú láti sọ pẹ̀lú àpẹrẹ,Wọn ń gbìyànjú láti sọ pé ẹnikan kò ní ọgbọn tàbí pé kò loye ohun tó ń ṣẹlẹ̀.,Kí ènìyàn kan ju ẹnìkéjì lọ,0
+"Kíni Yorùbá ń pè ní mọ̀gúdú?""","Yorùbá ń pè Gizzard ní ""mọ̀gúdú.""",Ìkokò tó tóbi (A big wolf),0
+"Parí òwe Yorùbá yìí ""bí èbù ò rà...""","""Bí èbù ò rà ẹran, òun náà a rà ikùn.""",A ò lè rí ègbodò,0
 "Parí òwe Yorùbá yìí
- Bí abá sọrọ tán ẹrín làá rín...","Bí abá sọrọ tán ẹrín làá rín, bí a bá jẹun tán ìtùnú làá ní.","bí a bá yó tán, orun níí kun ni",0
+ Bí abá sọrọ tán ẹrín làá rín...",kí iṣọ́kan má bàjẹ́.,"bí a bá yó tán, orun níí kun ni",0
 "Yàtọ sí ádùrá kíni Yorùbá n
- pè ádùrá àti àmín""?","Yorùbá n pè ádùrá ní ""àdúrà"" àti ""àmín"" ni ""ámin.""","Àdúrà -–Ìwúre
+ pè ádùrá àti àmín""?","Yorùbá n pè ádùrá ni ""èbè"" àti àmín sí ""áṣẹ"".","Àdúrà -–Ìwúre
  Àmín -–Àṣẹ",0
 "Kíni ""North-East"" ní Yorùbá?",Àríwá ìlà-oòrùn.,Àrìwá-Ìlà-oòrùn,0
-Kíni àkólé orúkọ ọba ìlú Ijebu-Igbo?,Ọba Aláàjé.,Orímolúsì,0
-"Kíni ""Train station"" ní Yorùbá?","""Ìbúgbọ̀ọ̀sèlú"" ni ""Train station"" ní Yorùbá.",Ibùdó ọkọ̀ ojú irin,0
-"Kíni ""Barn"" ní Yorùbá?",Ìtàlùpẹ̀.,Aká,0
-Ìlú wo ni ile yorùbá ni wón ti sę odún ojude oba,Ìlú Ijẹ̀bú Òde ni ilẹ̀ Yorùbá ni wọ́n ti ṣe Òdún Òjúdé Ọba.,Ìjẹ̀bú-òde,0
-"Kíni ""Genuine"" ní Yorùbá?","""Genuine"" jẹ́ ""Májẹ̀mú"" ní Yorùbá.",Ojúlówó,0
-Kíni Yorùbá n pè “Àrokò”,Àrokò ni Yorùbá n pè eré àti àmì àwọn ìránṣẹ́ kíá ti a n fi í kéde síséραν ẹ̀nuṣiṣẹ́ láì sí ọrọ̀.,Ọ̀nà tí a fi ń bára wa sọ̀rọ̀ tí a kòsì fẹ́ kí ó yé ẹnikẹta,0
-"Kíni ""Wood Pecker"" ní Yorùbá?",Ìyáṣáǹpẹ̀.,ẹyẹ akoko,0
-"Kíni ""Brag"" ní Yorùbá?",Ìtara.,Fọ́nnu,0
-Parí òwe yìí: A fàtelewo fanná,Afá dànù.,kìí dáwó dúró,0
-"Kíni ""Teak tree"" ní Yorùbá?",Igi teak.,Igi Ìrókò,0
-Kini èjè rùn kanra túmò si?,"Èjè rùn kanra túmò si àìsàn tàbí arùn tó ń ṣe agbára, tó sì ń pọnni.",A máa ń lòó ọ̀rọ̀ yí bí a bá ṣe pàdé ará ilé ẹni láìròtẹ́lẹ̀,0
-"Kíni ""Desolate"" ní Yorùbá?","""Desolate"" ní Yorùbá túmọ̀ sí ""ìpàdé"" tàbí ""ìṣànkí"".",Ahóró,0
-"Kíni ""Sparrow"" ní Yorùbá?",Eyo.,alápàándèdè,0
-Kíni iyato láàárín ẹgbẹ̀ta àti ẹgbàta?,Àwọn títí àlàáfíà àti àlàúpẹ̀. Ọ̀kan yó jẹ̀ ẹgbẹ̀ta (300) àti ọ̀kan èkejì ni ẹgbàta (200).,"ẹgbẹ̀ta - 600 
+Kíni àkólé orúkọ ọba ìlú Ijebu-Igbo?,Àkólé orúkọ ọba ìlú Ijebu-Igbo ni Òrímolúsè.,Orímolúsì,0
+"Kíni ""Train station"" ní Yorùbá?",Ibùdó ọdẹ̀kọ̀.,Ibùdó ọkọ̀ ojú irin,0
+"Kíni ""Barn"" ní Yorùbá?",Ilé-àkùùko.,Aká,0
+Ìlú wo ni ile yorùbá ni wón ti sę odún ojude oba,Ìlú Ijebu-Ode.,Ìjẹ̀bú-òde,0
+"Kíni ""Genuine"" ní Yorùbá?","""Àbàáyò"" ni.",Ojúlówó,0
+Kíni Yorùbá n pè “Àrokò”,"Àrokò ni ìfiranṣẹ láìsí ọ̀rọ̀, nítorí àpẹẹrẹ ní lílo ohun amúnṣeré bí àwòrán, eégún, tàbí àkóónú.",Ọ̀nà tí a fi ń bára wa sọ̀rọ̀ tí a kòsì fẹ́ kí ó yé ẹnikẹta,0
+"Kíni ""Wood Pecker"" ní Yorùbá?","""Akọ́gbẹ́rẹ́"" ni Yorùbá.",ẹyẹ akoko,0
+"Kíni ""Brag"" ní Yorùbá?","""Boast"" ni Yorùbá.",Fọ́nnu,0
+Parí òwe yìí: A fàtelewo fanná,A fòjù sùn.,kìí dáwó dúró,0
+"Kíni ""Teak tree"" ní Yorùbá?","""Igi Teak"" ni.",Igi Ìrókò,0
+Kini èjè rùn kanra túmò si?,Èjè rùn kanra túmò si ìreje tàbi kíko èjè pọ̀ lápò lánà àìtọ́ tàbí àisan.,A máa ń lòó ọ̀rọ̀ yí bí a bá ṣe pàdé ará ilé ẹni láìròtẹ́lẹ̀,0
+"Kíni ""Desolate"" ní Yorùbá?","""Desolate"" ní Yorùbá túmọ̀ sí ""ìforígbárí"" tàbí ""ìmọ́lẹ̀ èké.""",Ahóró,0
+"Kíni ""Sparrow"" ní Yorùbá?","""Adánwò"" ni Yorùbá.",alápàándèdè,0
+Kíni iyato láàárín ẹgbẹ̀ta àti ẹgbàta?,Ìyàtọ̀ náà ni pé; ẹgbẹ̀ta jẹ́ 300 ìrópọ̀ nígbà tí ẹgbàta jẹ́ 200 ìrópọ̀.,"ẹgbẹ̀ta - 600 
  ẹgbàta - 6000",0
 "Parí òwe yìí...
- Akìí gbé ẹran erin lóri...?",Apàta.,Kí a máa fi ẹsẹ̀ wa ihò ìrẹ̀(cricket),0
-Irú ọmọ wo ni wón ń pè ní Ìdògbé?,Wọ́n ń pè ọmọ tí o kéré jù láàárín ìbejì ní Ìdògbé.,Ọmọ tí a bí lẹ́hìn Àlàbá,0
-"Kíni ""Creeper"" ní Yorùbá?",Apáàjò lásán.,Àfòmọ́,0
-"Kíni àwon orọ wọnyí ""belching or burping"" tun mò sí ní Yorùbá","""Wòlálà"" ni a tún mọ́ sí ní Yorùbá.",Gùnfẹ̀,0
-"Àwọn wo ni wón ma n ""sun ijálá""","Àwọn ìjalá ńran ni wón ma n ""sun ijálá.""",Àwọn ọlọ́de,0
-"Kíni ""Hiccups"" ní Yorùbá?","Hiccups ní Yorùbá ni ""ÍTỌ́KÙTỌ́"".",Òsúkè,0
-"Kíni ""Cobweb"" ní Yorùbá?",Àwọ̀n àdìyá.,Ówú alántakùn,0
-"Kíni ọrọ yí túmosí ""takété""",Aṣọ́ aláwọ̀ dúdú.,Kí ènìyàn dúró sí ọ̀nà tó jìn,0
+ Akìí gbé ẹran erin lóri...?",...àpótí.,Kí a máa fi ẹsẹ̀ wa ihò ìrẹ̀(cricket),0
+Irú ọmọ wo ni wón ń pè ní Ìdògbé?,Ìdògbé ni ọmọ kẹta tí obìnrin bí léyìn àwọn ẹ̀jìrìn.,Ọmọ tí a bí lẹ́hìn Àlàbá,0
+"Kíni ""Creeper"" ní Yorùbá?","""Ẹ̀rù-ọjọ́"" ni Yorùbá.",Àfòmọ́,0
+"Kíni àwon orọ wọnyí ""belching or burping"" tun mò sí ní Yorùbá",Àfín-gbò.,Gùnfẹ̀,0
+"Àwọn wo ni wón ma n ""sun ijálá""","Àwon tí wón ma ń ""sun ijálá"" ni àwọn ìjálá chanters tàbí ojúbó-ijálá, ní pàtàkì ní ilé Yoruba.",Àwọn ọlọ́de,0
+"Kíni ""Hiccups"" ní Yorùbá?",Gbígbẹ́nù.,Òsúkè,0
+"Kíni ""Cobweb"" ní Yorùbá?","""Apáńdá"" ni ""cobweb"" ní Yorùbá.",Ówú alántakùn,0
+"Kíni ọrọ yí túmosí ""takété""","""Takété"" túmọ̀ sí ẹni tẹ́ dágba tàbí àgbàlagbà.",Kí ènìyàn dúró sí ọ̀nà tó jìn,0
 "Kíni ""Striike"" ní Yorùbá?",Ìdálẹ́kọ.,ìyanşélódì,0
-Kíni màjàlà tún mọ sí ?,Màjàlà tún mọ sí lára-ẹni.,Oun tí ó máa ń bá iná jíjó lọ sókè (burnt flakes),0
-"Kíni ""width"" ní Yorùbá?",Òkè-àárín.,ìbú,0
-"Kíni Yorùbá ""height"" àti ""length""?","Yorùbá ""height"" ni gíga, ""length"" ni gígùn.",Gíga àti Gígùn,0
-"Tani ó kọ ìwé yìí ""ogboju odẹ nínú igbó irúnmolè""?","D.O. Fagunwa ni ó kọ ìwé ""Ògbójú Ọdẹ Nínú Igbó Irúnmọlẹ̀"".",Daniel Ọlọ́runfẹ́mi Fágúnwà,0
-"Kíni ""Wood Carver"" ní Yorùbá?",Onígègùn.,Agbẹ́gilére,0
-"Kíni ""Bone Marrow"" ní Yorùbá?",Ọkà ara.,Mùdùnmúdùn,0
-Parí òwe yìí: ajá kìí rorò títí,ajá kìí rorò títí kó má jè̩ è̩kùro.,Kí ó ṣọ́ ojúlé méjì papọ̀,0
-"Yato sí pàsán, àtòrì àti ẹgba kí tún ní orúkọ tí Yorùbá n pè ""cane""?",Koboko.,Ọrẹ́,0
-"Parí òwe yìí: ẹgbẹrin òtẹ,...",...ẹni kan níí ṣòrò.,..bí a ṣe ń pakan nìkán rúwẹ́,0
-"Kíni ""Launching"" ní Yorùbá?",Ọṣiṣẹ́n.,Ìfilọ́lẹ̀,0
-Àwọn agbá bò wọ́n ní 'adìyẹ ìrànà kì í ṣe òun ajẹgbẹ' ...kíni Adìyẹ ìrànà?,Adìyẹ ìrànà jẹ́ adìyẹ tí wọ́n máa ń fi fúnfun tàbí ti ọwọ̀rọ̀.,Adìyẹ tí à ń pa fún òkú,0
-Ṣe àtúnṣe àti àtúnpà òwe Yorùbá yìí 'oyè tó kan ará ìwó ń bọ́ wá kan ará ẹ̀dẹ',"Ẹ̀jẹ́ ka sọ pé: ""Óyè tó kan ará ìwó ń bọ́, a fẹ́ káa dí ará ẹ̀dẹ""",Oyè tó kan ará Aho ń bọ́ wá kan ará ẹ̀dẹ,0
-Àwọn wo ni Yorùbá ḿ pè ní 'òrùn ẹní' àti pé kíni ìdí tí wọ́n fi ń pè wọ́n bẹ?,Yorùbá ma ń pè àwọn tó jọkòó kòkósẹ ní 'òrùn ẹní' nítorí pé wọn kò ṣeé yọkúrò nídìí oúnjẹ tàbí ètò náà láìsí ìyókúrò tuntun tàbí ìrísí àìnírísisí.,Òbí ẹni,0
-Kíni ìtumọ̀ òwe yìí 'alágbára má mọ èrò baba ọ̀lẹ?',Ìtumọ̀ òwe yìí ni pé ẹni tó bá ti ni agbára yẹ kò gbójú lé iranlọ́wọ́ tàbí àwọn èrò ẹni tí kò fẹ́ sapá.,Ẹnití ó bá pe ara rẹ̀ ní alágbára gbúdò máa ṣe ìwáàdí láti mọ èrò nígbogbo ìgbà,0
-Parí òwe yìí: Ẹni tí ẹgún bá gúnlẹ̀sẹ̀?,Ẹni tí ẹgún bá gúnlẹ̀sẹ̀ á rọra bínú.,Ni ń sá làkàlàkà relé alábẹ,0
-Parí òwe yìí: Sàn-án lààrín...,...aró àti ọ̀sán.,...ajé ní múni pẹ́ kọ̀rọ̀,0
+Kíni màjàlà tún mọ sí ?,Màjàlà tún mọ sí aghara tabi àríyá.,Oun tí ó máa ń bá iná jíjó lọ sókè (burnt flakes),0
+"Kíni ""width"" ní Yorùbá?",Ìwọ̀n.,ìbú,0
+"Kíni Yorùbá ""height"" àti ""length""?","Yorùbá ""height"" ni ""gíga"" àti ""length"" ni ""gígùn"".",Gíga àti Gígùn,0
+"Tani ó kọ ìwé yìí ""ogboju odẹ nínú igbó irúnmolè""?","D.O. Fagunwa ni ó kọ ìwé náà ""Ogboju Ọdẹ Nínú Igbó Irúnmolè"".",Daniel Ọlọ́runfẹ́mi Fágúnwà,0
+"Kíni ""Wood Carver"" ní Yorùbá?",Onímọ̀kọ́.,Agbẹ́gilére,0
+"Kíni ""Bone Marrow"" ní Yorùbá?",Èérun egungun.,Mùdùnmúdùn,0
+Parí òwe yìí: ajá kìí rorò títí,kó má pa èkún.,Kí ó ṣọ́ ojúlé méjì papọ̀,0
+"Yato sí pàsán, àtòrì àti ẹgba kí tún ní orúkọ tí Yorùbá n pè ""cane""?",Ọpá.,Ọrẹ́,0
+"Parí òwe yìí: ẹgbẹrin òtẹ,...",Ẹgbẹ́ta ìlù.,..bí a ṣe ń pakan nìkán rúwẹ́,0
+"Kíni ""Launching"" ní Yorùbá?",Ṣíṣí.,Ìfilọ́lẹ̀,0
+Àwọn agbá bò wọ́n ní 'adìyẹ ìrànà kì í ṣe òun ajẹgbẹ' ...kíni Adìyẹ ìrànà?,"Adìyẹ ìrànà jẹ́ ẹyẹ tí kọ́ àwọ̀ dúdú àti funfun, tí ó ma ń jẹ wọnú ilé bíi adìyẹ abúwọ̀.",Adìyẹ tí à ń pa fún òkú,0
+Ṣe àtúnṣe àti àtúnpà òwe Yorùbá yìí 'oyè tó kan ará ìwó ń bọ́ wá kan ará ẹ̀dẹ',"Ṣe àtúnṣe: ""oyè tó kan ará ìwó ń kan ará ẹ̀dẹ.""",Oyè tó kan ará Aho ń bọ́ wá kan ará ẹ̀dẹ,0
+Àwọn wo ni Yorùbá ḿ pè ní 'òrùn ẹní' àti pé kíni ìdí tí wọ́n fi ń pè wọ́n bẹ?,"Yorùbá ḿ pè àwọn tó bàà gba àwọn ẹni tó ti kú nínú oorun tútà ní 'òrùn ẹní', jáfáfá ní gbésè láti fi owó dígbòlugi ìṣẹejúkò tó yá.",Òbí ẹni,0
+Kíni ìtumọ̀ òwe yìí 'alágbára má mọ èrò baba ọ̀lẹ?',Ìtumọ̀ ó wí pé alágbára kì í mọ ète tàbí iran àwọn enia ẹlẹ́sẹ̀ tàbí ọdaran.,Ẹnití ó bá pe ara rẹ̀ ní alágbára gbúdò máa ṣe ìwáàdí láti mọ èrò nígbogbo ìgbà,0
+Parí òwe yìí: Ẹni tí ẹgún bá gúnlẹ̀sẹ̀?,Ko le gbagbe.,Ni ń sá làkàlàkà relé alábẹ,0
+Parí òwe yìí: Sàn-án lààrín...,gbòngbò àti òkunrin.,...ajé ní múni pẹ́ kọ̀rọ̀,0
 "Parí òwe Yorùbá yìí:
- 'Ẹ gún ẹṣin ní kẹṣẹ, ẹ lọ ńtàpá' ...............?",Ẹgbẹ́ ẹsè.,"Ẹgún ẹṣin ní kẹṣẹ ẹ ní ó ń tàpá, baba ta ló ma ti rin bọ̀ láyà tí ò ní tākítì",0
+ 'Ẹ gún ẹṣin ní kẹṣẹ, ẹ lọ ńtàpá' ...............?",Ẹ jẹ́ kóra wá.,"Ẹgún ẹṣin ní kẹṣẹ ẹ ní ó ń tàpá, baba ta ló ma ti rin bọ̀ láyà tí ò ní tākítì",0
 "Fi ọ̀rọ̀ tó bá yé sí àlàfo yìí
- 'Ọ̀pọ̀ igi ní bẹ̀ nìgbó ká tó fi .... gbẹ́ gbẹ̀du?",Tẹtẹ.,igi ọ̀mọ̀,0
-Kíni Yorùbá n pè ní àpáádì?,Àpáádì fún ara ẹni tàbí ojúgbà.,àfọ́kù ìkòkò,0
-Irú ọbẹ wo ni Yorùbá n pè ní ọbẹ àtẹ?,"Ọbẹ tí a fi ẹran, ẹja tàbí àwọn ohun mímu kan báì lara.",Ọbè tí a kò fi iyọ̀ sí,0
+ 'Ọ̀pọ̀ igi ní bẹ̀ nìgbó ká tó fi .... gbẹ́ gbẹ̀du?",okúta.,igi ọ̀mọ̀,0
+Kíni Yorùbá n pè ní àpáádì?,Ilẹ̀ tàbí ibi ìyà fún àwọn ẹ̀ṣẹ̀.,àfọ́kù ìkòkò,0
+Irú ọbẹ wo ni Yorùbá n pè ní ọbẹ àtẹ?,Ọbẹ epà.,Ọbè tí a kò fi iyọ̀ sí,0
 "Parí òwe Yorùbá yìí
- 'À pa àímú délé......?",".... à n fí i loríkinní.""",Ni ò jẹ́ kamọ̀ pé ológbò ń ṣe ọdẹ,0
+ 'À pa àímú délé......?","... àwon ọmọ ilẹ̀ ń rò débi.""",Ni ò jẹ́ kamọ̀ pé ológbò ń ṣe ọdẹ,0
 "Parí òwe yìí:
- 'Àtìrà ibọn kò tó àtìrà ẹtù.......?'",Àtìrà ibọn kò tó àtìrà ẹtù abẹ́ ẹtù ni owúra ní ńgbọ.,"Nítorí ojókan làá ra ìbọn, ojoójúmọ́ làá ra ẹ̀tù",0
-"Kíni ""Red river hog"" ní Yorùbá?",Ẹlẹ́dùúmarìdí.,Túùpú,0
-"Kíni ""personification"" ní Yorùbá?","Personification ní Yorùbá túmọ̀ sí ""Àpèjọ ẹni"".",Ìfohunpènìyàn,0
-"Kíni ""gourd"" ní Yorùbá?","""Igbá"" ni ""gourd"" ní Yorùbá.",àdó,0
-"Kíni ""Animal Shell"" ní Yorùbá?","""Eyin Eranko.""",Ìkarahun,0
-"Kíni ""Nettle rash"" ní Yorùbá?","""Wárápá"" ni ""Nettle rash"" ní Yorùbá.",Inárun,0
+ 'Àtìrà ibọn kò tó àtìrà ẹtù.......?'",Àtìrà ibọn kò tó àtìrà ẹtù àdá.,"Nítorí ojókan làá ra ìbọn, ojoójúmọ́ làá ra ẹ̀tù",0
+"Kíni ""Red river hog"" ní Yorùbá?",Bẹẹrẹ ọmọ ewúré.,Túùpú,0
+"Kíni ""personification"" ní Yorùbá?",Àpèjúwe ohun mìíràn gẹ́gẹ́ bí ènìyàn.,Ìfohunpènìyàn,0
+"Kíni ""gourd"" ní Yorùbá?",Ikòkò alábàṣà.,àdó,0
+"Kíni ""Animal Shell"" ní Yorùbá?",Éékán.,Ìkarahun,0
+"Kíni ""Nettle rash"" ní Yorùbá?","""Iròfa"" ni ""Nettle rash"" ní Yorùbá.",Inárun,0
 "Nínú ayò (ọpọ́n)
- ihò mééló ní ó wà nínú àpótí ayò ọpọ́n.....?",Mẹ́fà.,Méjìlá(12),0
-"Kíni ""Lightning"" ní Yorùbá?","""Àmùrà"" ni ""Lightning"" ní Yorùbá.",Mọ̀nàmọ́ná,0
+ ihò mééló ní ó wà nínú àpótí ayò ọpọ́n.....?",Mẹ́rìnlá (14).,Méjìlá(12),0
+"Kíni ""Lightning"" ní Yorùbá?",Ìráwò.,Mọ̀nàmọ́ná,0
