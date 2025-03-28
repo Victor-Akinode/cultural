@@ -1,0 +1,85 @@
+Question,Answer,prov_or_mc,option_1,option_2,option_3,option_4,option_5,GPT4o_Answer,GPT_Match
+"Parí òwe yìí
+ ""gbàmí gbàmí kò yé àgbà ..........""",option_3,proverbs,...ṣùgbọ́n ó yé ọmọ tí kì í sùn ní alẹ́, kòtò jíjẹ̀ kò mọ́ aláìlówó.,Ẹranko ń lé mi bọ̀ ò yẹ ọdẹ,ọgbọ́n lá ń fi yàn là.,àgbà sọ pé “ta ló fi orúkọ mi ṣeré?,option_4,0
+"Parí òwe Yorùbá yìí
+ ""A kì í n pa odù òyà lójú ọ̀tá ẹni ....""",option_4,proverbs,"ẹni tí kò rò, kò gbọ́",ìmọ̀ràn l'ógún àbèwò,àbùjá ń yọ̀ lójú ọ̀dọ̀,Ọmọ ẹlẹ́bọ́rọ́ lásán lapa,kó má bẹ̀rẹ̀ sí í fẹ́ iyàwó ẹni,option_2,0
+"Kíni ìyàtọ̀ láàrin ""ìwọ̀ àti iwọ""?",option_3,mc,"Ìwọ̀ – Ohun tí a fi ń mu omi 
+Ìwọ – Ẹni tí a ń bá sọ̀rọ̀","Ìwọ̀ – Ọ̀nà tàbí irìn àjò kan 
+Ìwọ – Fífi ẹ̀sùn kan ẹni kàn","ìwọ̀ - Nkan ti won fi n pa eja
+ iwọ - Majele","Ìwọ̀ – Ohun ìdárayá
+Ìwọ - Ohun èlò fún orin","Ìwọ̀ – Orúkọ ọmọbìnrin 
+Ìwọ – Orúkọ ọmọkùnrin",option_2,0
+"Irúfé ìyàwó wo ni Yorùbá máa pè ní ""ìyàwó gbàmí oràmí""?",option_3,mc,Ìyàwó tí a ra ní ọjà,Ìyàwó tí a gbé fun ìdàbòbò,Ìyàwó tí a fẹ́ fún èrè ìwòsàn tàbí tí a fẹ́ láti ṣe àànú fun,Ìyàwó tí a fé lórí pẹpẹ,Ìyàwó tí kò mọ ẹni tó fẹ́,Ìyàwó tí a gbé fun ìdàbòbò,0
+"Ìlú wo ní ilẹ̀ Yorùbá ni wọ́n ti ń ṣe ọdún ""ìgogo""?",option_2,mc,Ìjẹ̀bú-Òde ní Ìpínlẹ̀ Ògùn,Ọ̀wọ̀ ní Ìpìnlẹ̀́ Oǹdó,Ìlá-Òràngún ní Ìpínlẹ̀ Ọ̀ṣun,Ṣàbé ní Ìpínlẹ̀ Òyọ́,Ìkìrun ní Ìpínlẹ̀ Ọ̀ṣun,option_3,0
+"Kíni ọ̀rọ̀ Yorùbá fún ""lake""?",option_2,mc,Òkun,Adágún omi,Òdò ńlá,Ìsàlè omi ,Omi tó ṣubú sínú kòtò,option_5,0
+"Ìgbó Òrà jẹ́ ìlú tí wọ́n ti ń bí ìbejì jùlọ ní gbogbo àgbáyé
+ ""Kíni àkọlé orúkọ ọba ìlú Ìgbó Òrà?""",option_1,mc,Olú,Awujale,Àtòbàtẹ́lé,Alákòókò,Olóṣùpá,Option 2,0
+"Kíni ọ̀rọ̀ Yorùbá fún ""Flag""?",option_1,mc,Àṣíá,Àpẹrẹ ,Àpótíṣẹ́,Ìfihàn ,Àmì ìbùkún,option_3,0
+"Irú Àwọn wo ni a máa n pè tàbí sọ ní ""málà olú""?",option_3,mc,Àwọn ọmọ ìmàlè,Àwọn aládùrà,Àwọn Ọlọ́bàtálá,Àwọn Ẹlẹ̀sìn Ìbílẹ̀ ,Àwọn tó ń tà àmàlà níta ilé ẹjọ́,option_3,1
+"Tí Yorùbá bá sọ pé a kìí rí ewú ní ọ̀sán, kíni ewú?",option_3,mc,Ẹ̀ṣù,Àbíkú,Òkété,Àlùbárìka ,Ìbànújẹ́,Keṣo 'B:Ìbànújẹ́'.,0
+"Parí òwe Yorùbá yìí
+ Ọ̀lẹ̀ má mọ́wọ́ mi wọ̀gbẹ́",option_2,proverbs,Òhun ló sọ ọmọ oba di alágbàro,Òhun ló sọ ará oko di ewúrẹ́,Òun ló sọ olówó di aláìní.,Òun ló sọ ọlọ́jà di ará oko,Òun ló jẹ́ kí alápatà pa ẹran ìgbẹ́,option_1,0
+"Parí òwe Yorùbá yìí
+ ""Bí oko bá dùn n ro ní .....""",option_1,proverbs,Alágbèdẹ ò ní roko tà,Olè ò ní rìn l’ọ̀nà,Àjẹ ò ní tàn l’óko,Ọmọ àlè ò ní gbàgbé ẹni tó bí i,Ọlọ́jà ò ní ra ọjà,option_4,0
+"Kíni Yorùbá n pè ní ""èkùró""?",option_3,mc,Èkùró Ọ̀pẹ,Iyẹ̀pẹ̀,Kòkòrò ẹ̀wà,Yànmùyánmú,Ẹyẹ ,option_3,1
+"Màá fún ẹ ní ẹ̀gbàá kì í jẹ́ kí ẹ̀gbàá níyì, ẹ̀gbèrún, mélòó lọ wà ní ""ẹgbàfà""?",option_4,mc,Mẹ́rìndínlógún,Mẹ́dọ́gbọ̀n,Mẹ́rin,Mẹ́fà,Mọ́kànlá,option_5,0
+"Kíni ìtumọ̀ òwe Yorùbá yìí ""ààlà ni yóò fi oko òlẹ hàn""?",option_3,mc,Ààlà kì í ṣe dandan,Ààlà kò ṣe pàtàkì rárá,"Ààlà ló máa fi hàn pẹ́, ọ̀le ló ń ṣe iṣẹ́ oko yí",Gbogbo oko nílò ààlà,Ààlà ni a fi mọ ẹni tí ò fẹ́ sinmi,option_5,0
+"Tí Yorùbá bá sọ pé ènìyàn n ""run ìlèpa,"" kínì ìtumọ̀ àkànlò-èdè yìí?",option_1,mc,Iyẹ̀pẹ̀ tó kẹ́hìn iyẹ̀pẹ̀,Ẹnìkan tí ó ti ṣèbàjẹ́ patapata,Ẹni tí ó ti bọ sinu iparun,Eni tí ó ti sọnù kúrò lójú ọ̀nà àseyọrí,Ẹni tó fi adìẹ ṣọ́ àgùntàn,option_2,0
+Irú ìyàwó wo ni Yorùbá ń pè ní ìyàwó àbètẹ́lẹ̀?,option_2,mc,Ìyàwó tí ò mọ iye ọjọ́ tí wọ́n yóò gbé e lọ,Ìyàwó tí a tọrọ láti kékeré,Ìyàwó tí wọ́n fi ṣ’àdéhùn,Ìyàwó tí ò mọ ìlú ọkọ tó ń lọ,Ìyàwó tí kò mọ ibi tí àwọn ọkọ rẹ̀ ń sùn,Ìyàwó tí ò mọ ìlú ọkọ tó ń lọ,0
+"Ewe kan wà tí àwọn ara ilẹ̀ ìlà oòrùn ń pè ní ""ugwu,"" kínì orúkọ tí Yorùbá ń pè é?",option_2,mc,Ewé Ọ̀gẹ̀dẹ̀,Ewé Ìròko,Èwé Àràbà,Èwé Dògòyàrò,Èwé ewédú,"To provide the best answer, I need to know the specific question you are analyzing. Please provide the question or context related to the options given.",0
+"Parí òwe Yorùbá yìí
+""Gbogbo àkàsù kọ́ ló ń fojú kan ẹ̀fọ́ .....""",option_3,proverbs,Gbogbo ọmọ ewúré kọ́ ló máa d’àgbò,Gbogbo aṣọ funfun kọ́ ló ń tán,"Gbogbo ọmọ olóyè kọ́ ló ń joyè, gbgobo ọmọ ọba kọ́ ló ń dádé",Gbogbo igi kọ́ ló ń gbé èso.,àwọn kan fojú kan ìlà,option_5,0
+"Ìgbà làákòkò, igi làákòkò yàtọ̀ sí ìlú. Kíni Yorùbá n pè ní àkòkò?",option_1,mc,Ẹyẹ,Òní,Àsìkò,Ìlú,Ẹja,Ẹyẹ,0
+"Kíni Yorùbá ń pè ní ""òkùdù""?
+ ""Wọ́n ní òkùdù tó pa ẹṣin lè pa ènìyàn.""",option_2,mc,Òkè tó ṣub,Kòtò tí a ti patì,Gbọ̀ǹgbò igi tó já,Àpáta tó wó,Ọ̀nà tí kò ní àbájáde,option_5,0
+"Kíni ọ̀rọ̀ Yorùbá fún ""accused"" àti ""suspect""?","Accused - Afẹ̀sùnkàn
+ Suspect – Afurasí",mc,"Alájọ̀bi
+Olùfura","Oníbàjẹ́ 
+Oníwà àríwísí","Afẹ̀sùnkàn
+Afurasí","Olùjẹ́jọ́
+Elétàn","Oníṣe burúkú
+Aláṣejù",option_5,0
+"Kíni ""court of appeal"" ní Yorùbá?",option_1,mc,Ilé-ẹjọ́ kòtémilọ́rùn,Ilé-ẹjọ́ Ìtunwí,Ilé-ẹjọ́ Ìtẹ̀síwájú Ìdájọ́,Ilé-ẹjọ́ Ẹ̀bẹ̀,Ilé-ẹjọ́ aríyá,option_4,0
+"Tí ""reason"" bá jẹ́ ìdí ní èdè Yorùbá, kíni ""purpose""?",option_3,mc,Ìpinnu,Ìdípatàkì,Èrèdí,Ìmọ̀ràn,Ọ̀nà ,Option_3,1
+"Kíni Yorùbá ń pè ní ""calendar""?",option_3,mc,Ìṣirò ọjọ́,Àtòjọ ọjọ́,Kọ́jọ́dá,Àkànṣe ọdún,Ìwé ọjọ́,option_2,0
+"Ibo ni àwọn Yorùbá máa ń pè ní ""ìlofi""?",option_3,mc,Ìsìnkú Ìlú,Ibi Ìrántí Ọba,Ibi tí ọba máa ń wà kí wọ́n tó lọ sí ìpèbí,Ibi Ìsìmi Ọba,Ilé ìtàjá àwọn obìnrin,Ibi Ìsìmi Ọba,0
+"Àlọ́ oooo
+ Óún sàìjó, ó ń fúnú ta, óún fẹ̀yìn ta, óún fọwọ́ ta. Kíni oooo?",option_3,mc,Afẹ́fẹ́,Òwú,Aláǹtakùn,Òpá àṣẹ,Àgùtàn,option_3,1
+"Kíni Yorùbá n pè ní ""ìrèmòjé""?",option_2,mc,Orin ìbànújẹ́,Orin tí a máa fi ń dárò ọdẹ,Orin Ìdàgbére,Orin àbáláyé,Ìkìlọ̀ fún eranko,option_4,0
+"Parí òwe Yorùbá yìí:
+ ""Bí ọwọ́ eku bá ṣe mọ́ ..........""",...ló ṣẹ fi ń họra,proverbs,ìjà ni yóò ṣẹlẹ̀,ló ṣe máa fi sáré,ló ṣẹ fi ń họra,owó ló máa pé,..ló ṣe ń fi bọ aṣọ,option_5,0
+Kíni ìyàtọ̀ láàrin àáró àti àgàdàgídì?,"Àáró - Ìfọ́wọ́sowọ́pọ̀
+ Àgàdàgídì - Ọtí tí a fi ọ̀gẹ̀dẹ̀ àgbagbà ṣe",mc,"Àáró – Ọkọ̀ ojú omi tó ń lọ sí ìlú oyinbo
+Àgàdàgídì – Ẹja tó ń gbé inú odò tó jin","Àáró – Igi tó ń so èso
+Àgàdàgídì – Ẹranko inú igbó","Àáró – Owó tí wọ́n ń ná ní ọjà 
+Àgàdàgídì – Gbọ́ngàn ńlá fún ìpàdé","Àáró – Àṣà tí àwon obìnrin ń ṣe ní ilé ọkọ
+Àgàdàgídì – Ọmọ ọdún mẹ́ta tó ti bẹ̀rẹ̀ sí i sáré","Àáró - Ìfọ́wọ́sowọ́pọ̀
+Àgàdàgídì - Ọtí tí a fi ọ̀gẹ̀dẹ̀ àgbagbà ṣe",option_5,0
+"Kíni Yorùbá ń pè ní ""ọ̀wẹ̀""?",option_4,mc,Ìkòkò,Ejò,Ọkà,Òkèlè,Ìmọ̀ràn,option_5,0
+"Parí òwe yìí
+ ""Òní òkété lẹ́yìn àrọ̀, ọ̀la òkété lẹ́yìn àrọ̀ .....""","...bí ojú ò bá ti àrò, ó yẹ kí ojú ó ti òkété",proverbs,ṣùgbọ́n ẹni tó bá fi ọgbọn ṣe ni yóò rí èsì,"ẹni tó gbàgbé ẹ̀kọ́ rẹ, kọ́ lówó ní ayè",àfi ẹni tó ba fi àdúrà ṣe,"bí ojú ò bá ti àrò, ó yẹ kí ojú ó ti òkété","...jẹ́ ká fi ọ̀sán jẹun, ká fi alẹ́ sùn",option_5,0
+Fi idi pa igba,option_1,proverbs,"Ẹni tó jókòó síbẹ̀, tí ó kọ̀ látì lọ",Ẹni tó ko ara rẹ̀ sí ìrònú,Ẹni tí ó kó ara rẹ̀ sínú wàhálà,Ẹni tó fẹ̀yìn ti àgbá,Ẹni tó ń bu omi si orí àjà,Ẹni tó ń bu omi si orí àjà.,0
+"Kíni Yorùbá n pè ní ""Adam Apple""?",option_3,mc,Òkè ọ̀fun,Ọ̀fun gígun,Gògóńgò,Èso Àdámù,Ìlà ọ̀run,option_3,1
+"Kíni ""Baobab tree"" ní Yorùbá?",option_3,mc,Igi Àràbà,Igi Ìrókò,Igi oṣè,Igi Àgbọn,Igi òro,option_2,0
+"""Ají má pa òùngbẹ́ bí ewé kíni????""",option_2,mc,ewúro,Erinrin,tẹ̀tẹ̀,àlùbósà,Ewúro,option_5,0
+"Kíni ""Shin Guard"" ní Yorùbá?",option_4,mc,Èwù ẹsẹ̀,Orókún,Bàtà,Ojúgun,Àtẹlẹ̀sẹ̀,option_5,0
+"Àlọ́ oooo
+ A fèrìn gba òré wọlé, a fi túlásí tíí bọ̀ síta. Kíni oooo?",option_3,mc,Bàtà,Àṣọ,Oúnjẹ òun ìgbọ̀nsẹ̀,òwú fúnfun ,Ìfẹ́,option_5,0
+"Àwọn Yorùbá bọ̀ wón ní ebi ní ń pa mọnámọná kú, kíni mọnámọná? Àti pé kíni ìdí tí a fi máa ń sọ wípé ẹ̀bì á pa kú?",option_2,mc,Aláńgbà,Ejò,Ẹfọ̀n,àkekèé,Adìẹ,option_2,1
+"Kíni ọ̀rọ̀ Yorùbá yìí túmọ̀ sí ""Kọ̀wọ́ bọ ẹérú""?",Olè(Thief),mc,Ìṣekúṣe,Ẹ̀tàn,Èké,Olè,Ìbànújẹ,option_3,0
+"Kíni ọ̀rọ̀ Yorùbá yìí túmọ̀ sí ""ìlérò"" tàbí ""wọlé ìlérò""?",option_2,mc,Ìbùgbé Ìbùkún Ọba,Ibi tí ọba máa ń wà kí wón tó lọ sí ìpèbí,Ilé Ìtajà Ọba,Ilé-ẹ̀kọ́ Ọba,Ilé tí a ti n gbọ́ ìròyìn,option_2,1
+"Parí òwe Yorùbá yìí
+ ""Òlè tó jí kákàkí ọba..........""",option_4,proverbs,Ti bọ́sí wàhálà,kì yóò le fi hàn ní gbangba,yóò mọ̀ pé ìjà ìlú kì í tán,Ówá ku ibi tí yíò ti fọn,ló fi í kọ orin ni gbàgede,option_5,0
+Kíni ìyàtọ̀ láàrin amòfin àti agbófinró?,"Amòfin - Ẹni tí ó mọ òfin (Lawyer, Judge)
+Agbófinró - Ọlọ́ọ̀pá",mc,"Amòfin – Ẹni tó ń kọ òfin tuntun.
+Agbófinró – Ẹni tó ń ṣe ohun tí kò tọ́ ","Amòfin – Ẹni tó mọ gbogbo òfin lórí irọ̀. 
+Agbófinró – Ẹni tó mọ gbogbo òfin lórí ijà","Amòfin - Ẹni tí ó mọ òfin 
+ Agbófinró - Ọlọ́ọ̀pá","Amòfin – Ẹni tó le fi òfin gba ilẹ̀
+Agbófinró – Ẹni tó ń fi òfin dá ilékun","Amòfin – Ẹni tó ń ta ilẹ̀ 
+Agbófinró – Ẹni tó ń ra ilẹ̀",option_3,0
+"Kíni ọ̀rọ̀ Yorùbá fún ""fork""?",option_2,mc,Ọ̀bẹ́,Àmúga,Dìgbòlugi,Ìkarahun,Ọ̀bẹ tó ní ìka,option_5,0
+"Àwọn wo ni Yorùbá n pè ní ""alájápá""?",option_1,mc,Oníṣòwò,Èni tí ó mọ gbogbo nǹkan,Onílé tí kò ní ilé,Ẹni tó ní Ìjàpá,Oníjàgídíjàgan,option_2,0
+"""Kíni àwọn Yorùbá n pè ní 'orún'?""",option_3,mc,Àpò ìrèké,Ògùrọ̀,Igi ọfà,Ògiri ilé,Ewé Àgbálùmọ̀,option_2,0
+"Ṣàlàyé ọ̀rọ̀ Yorùbá yìí ""èrèfé.""",option_3,mc,Àṣírí ọ̀rọ̀,Àròyé ọ̀rọ̀,Ọ̀rọ̀ tí a sọ lórí ahọ́n lásán,Ìyá tí kò bí ọmọ,Ọjà tí kò ní èrè,option_2,0
+"""Ewé wo ni Yorùbá n pè ní 'ojú oró'? Níbo lati ń rí?""",option_3,mc,Ní orí ènìyàn,Ní inú ikoko,Orí omi,Ní inú igbá ata,Ní inú igbó,option_2,0
+"""Kíni 'biased' ní Yorùbá?""",option_1,mc,Ojúṣàájú,Ìdààmú-ọkàn,Àdììtú,Ìpinnu,Alábòsí,"I'm sorry, but I am unable to answer the question accurately without additional context or details about what the question is specifically asking about. Each of the options provided translates to distinct concepts in Yoruba: ""Ojúṣàájú"" (priority or precedence), ""Ìdààmú-ọkàn"" (worry or mental distress), ""Àdììtú"" (mystery or riddle), ""Ìpinnu"" (decision or determination), ""Alábòsí"" (irrelevant or inapplicable person or thing). Could you please provide more information or clarify the question?",0
