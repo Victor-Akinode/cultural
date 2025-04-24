@@ -26,42 +26,47 @@ def get_gpt4o_answer(question, options):
                 {"role": "user", "content": prompt}
             ]
         )
-        return response.choices[0].message.content.strip()
+        return response.choices[0].message.content.strip().rstrip(".")
     except Exception as e:
         return f"Error: {str(e)}"
 
-def update_answers(csv_file='refined_updated_data.csv', output_file='final_result.csv'):
+def update_answers(csv_file='refined_data.csv', output_file='result/final_result.csv'):
     # Load the CSV file
-    df = pd.read_csv(csv_file)
+    df = pd.read_csv(csv_file).fillna("")
+
+    # Create result folder if it doesn't exist
+    os.makedirs("result", exist_ok=True)
     
     # Create new columns
-    df['GPT4o_Answer'] = ''  # GPT-4o generated answer (in option_ format)
-    df['GPT_Match'] = 0  # 1 if GPT-4o's answer matches the original Answer, else 0
+    df['GPT4o_Answer'] = ''  # GPT-4o generated answer
+    df['GPT_Match'] = 0      # 1 if match, else 0
     
-    # Iterate over the rows
+    # Iterate and evaluate
     correct_count = 0
     total_questions = len(df)
     
     for index, row in df.iterrows():
-        answer_value = row['Answer']
+        question = str(row['Question'])
+        answer_value = str(row['Answer']).strip().lower()
+        options = [str(row[f'option_{i}']) for i in range(1, 6)]
         
-        # Get GPT-4o answer
-        options = [row['option_1'], row['option_2'], row['option_3'], row['option_4'], row['option_5']]
-        gpt_answer = get_gpt4o_answer(row['Question'], options)
-        df.at[index, 'GPT4o_Answer'] = gpt_answer
+        gpt_answer = get_gpt4o_answer(question, options).strip().lower()
+        gpt_answer_clean = gpt_answer.rstrip(".")
         
-        # Evaluate GPT-4o correctness
-        if gpt_answer.strip().lower() == answer_value.strip().lower():
+        df.at[index, 'GPT4o_Answer'] = gpt_answer_clean
+
+        if gpt_answer_clean == answer_value:
             df.at[index, 'GPT_Match'] = 1
             correct_count += 1
-    
-    # Calculate GPT-4o accuracy
+
+    # Calculate accuracy
     accuracy = (correct_count / total_questions) * 100 if total_questions > 0 else 0
-    
-    # Save the modified DataFrame to a new CSV file
+    df['Score (%)'] = accuracy  # Add accuracy score for each row for visibility
+
+    # Save to file
     df.to_csv(output_file, index=False)
-    print(f"Updated CSV file saved as {output_file}")
+    print(f"Result saved at {output_file}")
     print(f"GPT-4o Accuracy: {accuracy:.2f}%")
 
-# Example usage
+# Run the function
 update_answers()

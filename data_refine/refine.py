@@ -1,6 +1,6 @@
 import pandas as pd
 
-def update_answers(csv_file='updated_data.csv', output_file='refined_updated_data.csv'):
+def update_answers(csv_file='data/data.csv', output_file='data/refined/refined_data.csv'):
     # Load the CSV file
     df = pd.read_csv(csv_file)
     
